@@ -68,6 +68,12 @@ export default class BlogController extends React.Component {
           {errors.map(error => error.message).join(' ')}
         </p>
       );
+    } else if (!title) {
+      return (
+        <p>
+          <strong>Loading posts...</strong>
+        </p>
+      )
     }
     return (
       <BlogView>
