@@ -576,6 +576,10 @@ figcaption {
   padding: 20px;
 }
 
+.post-date {
+  color: #aaa;
+}
+
 .post-image {
   width: 100%;
   height: 290px;
