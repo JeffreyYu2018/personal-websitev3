@@ -576,6 +576,10 @@
   padding: 20px;
 }
 
+.af-view .af-class-post-date {
+  color: #aaa;
+}
+
 .af-view .af-class-post-image {
   width: 100%;
   height: 290px;

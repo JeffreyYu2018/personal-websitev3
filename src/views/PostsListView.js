@@ -46,7 +46,9 @@ class PostsListView extends React.Component {
 
   render() {
     const proxies = Controller !== PostsListView ? transformProxies(this.props.children) : {
+      'post-thumbnail-link': [],
       'post-thumbnail': [],
+      'post-title-link': [],
       'post-title': [],
       'post-date': [],
       'post-summary': [],
@@ -62,11 +64,11 @@ class PostsListView extends React.Component {
         <span className="af-view">
           <div className="af-class-posts-list">
             <div className="w-row">
-              <div className="w-col w-col-4"><a href="#" className="af-class-link-block w-inline-block">{map(proxies['post-thumbnail'], props => <img src="images/photo-1437623889155-075d40e2e59f-bw.jpg" alt {...{...props, className: `af-class-image ${props.className || ''}`}}>{props.children}</img>)}</a></div>
+              <div className="w-col w-col-4">{map(proxies['post-thumbnail-link'], props => <a href="#" {...{...props, className: `af-class-link-block w-inline-block ${props.className || ''}`}}>{createScope(props.children, proxies => <React.Fragment>{map(proxies['post-thumbnail'], props => <img src="images/photo-1437623889155-075d40e2e59f-bw.jpg" alt {...{...props, className: `af-class-image ${props.className || ''}`}}>{props.children}</img>)}</React.Fragment>)}</a>)}</div>
               <div className="w-col w-col-8">
-                <a href="#" className="af-class-blog-title-link w-inline-block">
+                {map(proxies['post-title-link'], props => <a href="#" {...{...props, className: `af-class-blog-title-link w-inline-block ${props.className || ''}`}}>{createScope(props.children, proxies => <React.Fragment>
                   {map(proxies['post-title'], props => <div {...{...props, className: `af-class-text-block ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Post Title Here</React.Fragment>}</div>)}
-                </a>
+                </React.Fragment>)}</a>)}
                 <div className="af-class-details-wrapper">
                   {map(proxies['post-date'], props => <div {...{...props, className: `af-class-post-date ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Post Date here</React.Fragment>}</div>)}
                 </div>
