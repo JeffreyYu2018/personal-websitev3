@@ -20,6 +20,7 @@ ReactDOM.render(
       <Route exact path="/about" component={AboutController} />
       <Route exact path="/about.html" component={AboutController} />
       <Route exact path="/blog/:post_title" component={BlogController} />
+      <Route exact path="/blog.html" component={BlogController} />
     </Switch>
   </BrowserRouter>
   , document.getElementById('root'));

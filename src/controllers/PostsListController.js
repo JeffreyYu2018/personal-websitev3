@@ -82,7 +82,7 @@ export default class PostsListController extends React.Component {
     }
     return (
       <div>
-        {posts.map((post, index) => {
+        {[...posts].reverse().map((post, index) => {
           console.log(post)
           let { data, content } = matter(post.object.text)
           let { title, date, image } = data
