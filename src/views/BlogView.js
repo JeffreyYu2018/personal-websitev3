@@ -69,7 +69,7 @@ class BlogView extends React.Component {
             <div data-collapse="medium" data-animation="default" data-duration={400} className="af-class-navigation-bar w-nav">
               <div className="w-container">
                 <a href="index.html" className="w-nav-brand">
-                  <div className="af-class-site-name">Denali</div>
+                  <div className="af-class-site-name">Jeffrey Yu</div>
                 </a>
                 <nav role="navigation" className="af-class-navigation-menu w-nav-menu">{map(proxies['home-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Home</React.Fragment>}</a>)}{map(proxies['about-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>About</React.Fragment>}</a>)}{map(proxies['blog-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Blog</React.Fragment>}</a>)}{map(proxies['contact-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Contact</React.Fragment>}</a>)}</nav>
                 <div className="af-class-menu-button w-nav-button">
