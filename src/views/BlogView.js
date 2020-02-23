@@ -61,7 +61,7 @@ class BlogView extends React.Component {
           @import url(/css/jeff-appfairy-test.webflow.css);
         ` }} />
         <span className="af-view">
-          <div>
+          <div className="af-class-body-2">
             <div data-collapse="medium" data-animation="default" data-duration={400} className="af-class-navigation-bar w-nav">
               <div className="w-container">
                 <a href="index.html" className="w-nav-brand">
