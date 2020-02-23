@@ -47,7 +47,10 @@ class DetailPostsView extends React.Component {
 
   render() {
     const proxies = Controller !== DetailPostsView ? transformProxies(this.props.children) : {
-
+      'home-nav-link': [],
+      'about-nav-link': [],
+      'blog-nav-link': [],
+      'contact-nav-link': [],
     }
 
     return (
@@ -64,7 +67,7 @@ class DetailPostsView extends React.Component {
                 <a href="index.html" className="w-nav-brand">
                   <div className="af-class-site-name">Denali</div>
                 </a>
-                <nav role="navigation" className="af-class-navigation-menu w-nav-menu"><a href="index.html" className="af-class-navigation-link w-nav-link">Home</a><a href="about.html" className="af-class-navigation-link w-nav-link">About</a><a href="blog.html" className="af-class-navigation-link w-nav-link">Blog</a><a href="contact.html" className="af-class-navigation-link w-nav-link">Contact</a></nav>
+                <nav role="navigation" className="af-class-navigation-menu w-nav-menu">{map(proxies['home-nav-link'], props => <a href="index.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Home</React.Fragment>}</a>)}{map(proxies['about-nav-link'], props => <a href="about.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>About</React.Fragment>}</a>)}{map(proxies['blog-nav-link'], props => <a href="blog.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Blog</React.Fragment>}</a>)}{map(proxies['contact-nav-link'], props => <a href="contact.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Contact</React.Fragment>}</a>)}</nav>
                 <div className="af-class-menu-button w-nav-button">
                   <div className="w-icon-nav-menu" />
                 </div>
