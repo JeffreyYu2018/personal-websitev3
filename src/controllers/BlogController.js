@@ -7,6 +7,7 @@ import { IMGURL } from '../constants'
 import axios from 'axios';
 // Markdown frontmatter parser
 import matter from 'gray-matter'
+import { makeDateIntoString } from './PostsListController'
 
 const axiosGitHubGraphQL = axios.create({
   baseURL: 'https://api.github.com/graphql',
@@ -70,12 +71,13 @@ export default class BlogController extends React.Component {
     }
     return (
       <BlogView>
-        <post-image>
-          <img
-            src={`${IMGURL}${image}`} alt="Blog post" style={{objectFit:"cover"}} />
-        </post-image>
+        <post-image
+            src={`${IMGURL}${image}`}
+            alt="Blog post"
+            style={{objectFit:"cover"}} />
+        />
         <blog-title>{title}</blog-title>
-        <post-info></post-info>
+        <post-info>{makeDateIntoString(date)}</post-info>
         <post-body><ReactMarkdown source={content} /> </post-body>
       </BlogView>
     )

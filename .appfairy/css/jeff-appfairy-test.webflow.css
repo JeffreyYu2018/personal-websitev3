@@ -582,6 +582,10 @@ figcaption {
   max-width: none;
 }
 
+.body-2 {
+  background-color: #f0f0f0;
+}
+
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
   opacity: 0;
   -webkit-transform: translate(0px, 50px);

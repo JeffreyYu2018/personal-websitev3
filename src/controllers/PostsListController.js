@@ -36,9 +36,11 @@ const GET_BLOG_HEADERS = `
   `;
 
 export const makeDateIntoString = date => {
-    const t = date.split(/[-]/);
-    const d = new Date(t[0], t[1] - 1, t[2]);
-    return `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`;
+    let dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+    if (!date) {
+      return null
+    }
+    return date.toLocaleDateString(undefined, dateOptions)
   };
 
 export default class PostsListController extends React.Component {
@@ -84,7 +86,6 @@ export default class PostsListController extends React.Component {
           console.log(post)
           let { data, content } = matter(post.object.text)
           let { title, date, image } = data
-          let dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
           return (
             <PostsListView key={index}>
               <post-title>{title}</post-title>
@@ -93,7 +94,7 @@ export default class PostsListController extends React.Component {
                 alt="Blog post"
                 style={{objectFit:"cover"}}
               />
-              <post-date>{date.toLocaleDateString(undefined, dateOptions)}</post-date>
+              <post-date>{makeDateIntoString(date)}</post-date>
               <post-summary>{content}</post-summary>
             </PostsListView>
           )
