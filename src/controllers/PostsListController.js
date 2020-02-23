@@ -88,12 +88,16 @@ export default class PostsListController extends React.Component {
           let { title, date, image } = data
           return (
             <PostsListView key={index}>
-              <post-title>{title}</post-title>
-              <post-thumbnail
-                src={`${IMGURL}${image}`}
-                alt="Blog post"
-                style={{objectFit:"cover"}}
-              />
+              <post-title-link href="/blog.html">
+                <post-title>{title}</post-title>
+              </post-title-link>
+              <post-thumbnail-link href="/blog.html">
+                <post-thumbnail
+                  src={`${IMGURL}${image}`}
+                  alt="Blog post"
+                  style={{objectFit:"cover"}}
+                />
+              </post-thumbnail-link>
               <post-date>{makeDateIntoString(date)}</post-date>
               <post-summary>{content}</post-summary>
             </PostsListView>
