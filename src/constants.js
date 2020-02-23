@@ -1,1 +1,1 @@
-export const IMGURL = "https://raw.githubusercontent.com/JeffreyYu2018/personal-websitev1/master/public/images/"
+export const IMGURL = "https://raw.githubusercontent.com/JeffreyYu2018/personal-websitev3/master/public/images/"
