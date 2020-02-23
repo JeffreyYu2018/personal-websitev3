@@ -19,7 +19,7 @@ const axiosGitHubGraphQL = axios.create({
 
 const GET_BLOG = `
   {
-    repository(owner:"JeffreyYu2018", name:"personal-websitev1") {
+    repository(owner:"JeffreyYu2018", name:"personal-websitev3") {
       object(expression:"master:source/_posts/my-first-post.md") {
         ... on Blob {
           text

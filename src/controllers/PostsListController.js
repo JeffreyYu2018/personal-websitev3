@@ -18,7 +18,7 @@ const axiosGitHubGraphQL = axios.create({
 
 const GET_BLOG_HEADERS = `
   {
-    repository(owner:"JeffreyYu2018", name:"personal-websitev1") {
+    repository(owner:"JeffreyYu2018", name:"personal-websitev3") {
       object(expression:"master:source/_posts") {
         ... on Tree {
           entries {
