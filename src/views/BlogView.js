@@ -35,7 +35,7 @@ class BlogView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) {
+          with (this) ${
             eval(arguments[0])
           }
         `).call(window, script)
@@ -108,7 +108,7 @@ class BlogView extends React.Component {
                         {map(proxies['post-body'], props => <div {...{...props, className: `af-class-body-copy w-richtext ${props.className || ''}`}}>{props.children}</div>)}
                       </div>
                     </div>
-                    <div className="af-class-button-wrapper"><a href="#" className="af-class-button w-button">←&nbsp;Back to Home</a></div>
+                    <div className="af-class-button-wrapper"><a href="#" className="af-class-button w-button">←&nbsp;All posts</a></div>
                     <div className="af-class-sidebar-on-mobile">
                       <div className="af-class-white-wrapper"><img src="images/photo-1443180236447-432ea00e6ead.jpg" alt className="af-class-circle-profile" />
                         <p className="af-class-site-description">Denali is a simple responsive blog template. Easily add new posts using the Editor or change layout and design using the Designer.</p>
