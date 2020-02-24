@@ -78,6 +78,7 @@ export default class BlogController extends React.Component {
     }
     return (
       <BlogView>
+        <brand-nav-link href="/" />
         <home-nav-link href="/" />
         <about-nav-link href="/about" />
         <contact-nav-link href="/contact" />
