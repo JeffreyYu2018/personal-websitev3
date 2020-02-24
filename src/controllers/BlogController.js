@@ -80,9 +80,15 @@ export default class BlogController extends React.Component {
     }
     return (
       <BlogView>
-        <home-nav-link />
-        <about-nav-link />
-        <contact-nav-link />
+        <home-nav-link
+          href="/"
+        />
+        <about-nav-link
+          href="/about"
+        />
+        <contact-nav-link
+          href="/contact"
+        />
         <post-image
             src={`${IMGURL}${image}`}
             alt="Blog post"
