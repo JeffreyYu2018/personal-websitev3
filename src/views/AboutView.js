@@ -47,6 +47,7 @@ class AboutView extends React.Component {
 
   render() {
     const proxies = Controller !== AboutView ? transformProxies(this.props.children) : {
+      'brand-nav-link': [],
       'home-nav-link': [],
       'about-nav-link': [],
       'contact-nav-link': [],
@@ -64,9 +65,9 @@ class AboutView extends React.Component {
           <div className="af-class-body-3">
             <div data-collapse="medium" data-animation="default" data-duration={400} className="af-class-navigation-bar w-nav">
               <div className="w-container">
-                <a href="index.html" className="w-nav-brand">
+                {map(proxies['brand-nav-link'], props => <a href="#" {...{...props, className: `w-nav-brand ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>
                   <div className="af-class-site-name">Jeffrey Yu</div>
-                </a>
+                </React.Fragment>}</a>)}
                 <nav role="navigation" className="af-class-navigation-menu w-nav-menu">{map(proxies['home-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Home</React.Fragment>}</a>)}{map(proxies['about-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>About</React.Fragment>}</a>)}{map(proxies['contact-nav-link'], props => <a href="#" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Contact</React.Fragment>}</a>)}</nav>
                 <div className="af-class-menu-button w-nav-button">
                   <div className="w-icon-nav-menu" />
