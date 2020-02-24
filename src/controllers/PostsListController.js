@@ -18,7 +18,7 @@ const axiosGitHubGraphQL = axios.create({
 
 const GET_BLOG_HEADERS = `
   {
-    repository(owner:"JeffreyYu2018", name:"personal-websitev1") {
+    repository(owner:"JeffreyYu2018", name:"personal-websitev3") {
       object(expression:"master:source/_posts") {
         ... on Tree {
           entries {
@@ -36,9 +36,11 @@ const GET_BLOG_HEADERS = `
   `;
 
 export const makeDateIntoString = date => {
-    const t = date.split(/[-]/);
-    const d = new Date(t[0], t[1] - 1, t[2]);
-    return `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`;
+    let dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+    if (!date) {
+      return null
+    }
+    return date.toLocaleDateString(undefined, dateOptions)
   };
 
 export default class PostsListController extends React.Component {
@@ -80,20 +82,23 @@ export default class PostsListController extends React.Component {
     }
     return (
       <div>
-        {posts.map((post, index) => {
+        {[...posts].reverse().map((post, index) => {
           console.log(post)
           let { data, content } = matter(post.object.text)
           let { title, date, image } = data
-          let dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
           return (
             <PostsListView key={index}>
-              <post-title>{title}</post-title>
-              <post-thumbnail
-                src={`${IMGURL}${image}`}
-                alt="Blog post"
-                style={{objectFit:"cover"}}
-              />
-              <post-date>{date.toLocaleDateString(undefined, dateOptions)}</post-date>
+              <post-title-link href={`/blog/${post.name}`}>
+                <post-title>{title}</post-title>
+              </post-title-link>
+              <post-thumbnail-link href="/blog.html">
+                <post-thumbnail
+                  src={`${IMGURL}${image}`}
+                  alt="Blog post"
+                  style={{objectFit:"cover"}}
+                />
+              </post-thumbnail-link>
+              <post-date>{makeDateIntoString(date)}</post-date>
               <post-summary>{content}</post-summary>
             </PostsListView>
           )

@@ -7,6 +7,7 @@ import { IMGURL } from '../constants'
 import axios from 'axios';
 // Markdown frontmatter parser
 import matter from 'gray-matter'
+import { makeDateIntoString } from './PostsListController'
 
 const axiosGitHubGraphQL = axios.create({
   baseURL: 'https://api.github.com/graphql',
@@ -17,17 +18,19 @@ const axiosGitHubGraphQL = axios.create({
   },
 });
 
-const GET_BLOG = `
-  {
-    repository(owner:"JeffreyYu2018", name:"personal-websitev1") {
-      object(expression:"master:source/_posts/my-first-post.md") {
-        ... on Blob {
-          text
+const GET_BLOG = post_id => {
+  return `
+    {
+      repository(owner:"JeffreyYu2018", name:"personal-websitev3") {
+        object(expression:"master:source/_posts/${post_id}") {
+          ... on Blob {
+            text
+          }
         }
       }
     }
-  }
-  `;
+    `;
+}
 
 export default class BlogController extends React.Component {
   state = {
@@ -39,12 +42,13 @@ export default class BlogController extends React.Component {
   };
 
   componentDidMount() {
-    this.onFetchFromGitHub();
+    const { match: { params } } = this.props;
+    this.onFetchFromGitHub(params.post_id);
   }
 
-  onFetchFromGitHub = () => {
+  onFetchFromGitHub = post_id => {
     axiosGitHubGraphQL
-      .post('', { query: GET_BLOG })
+      .post('', { query: GET_BLOG(post_id) })
       .then(result => {
         let markdown = matter(result.data.data.repository.object.text)
         let { title, date, image } = markdown.data
@@ -67,15 +71,31 @@ export default class BlogController extends React.Component {
           {errors.map(error => error.message).join(' ')}
         </p>
       );
+    } else if (!title) {
+      return (
+        <p>
+          <strong>Loading posts...</strong>
+        </p>
+      )
     }
     return (
       <BlogView>
-        <post-image>
-          <img
-            src={`${IMGURL}${image}`} alt="Blog post" style={{objectFit:"cover"}} />
-        </post-image>
+        <home-nav-link
+          href="/"
+        />
+        <about-nav-link
+          href="/about"
+        />
+        <contact-nav-link
+          href="/contact"
+        />
+        <post-image
+            src={`${IMGURL}${image}`}
+            alt="Blog post"
+            style={{objectFit:"cover"}} />
+        />
         <blog-title>{title}</blog-title>
-        <post-info></post-info>
+        <post-info>{makeDateIntoString(date)}</post-info>
         <post-body><ReactMarkdown source={content} /> </post-body>
       </BlogView>
     )
