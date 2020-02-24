@@ -50,6 +50,7 @@ class AboutView extends React.Component {
       'home-nav-link': [],
       'about-nav-link': [],
       'contact-nav-link': [],
+      'get-in-touch-nav-link': [],
     }
 
     return (
@@ -60,7 +61,7 @@ class AboutView extends React.Component {
           @import url(/css/jeff-appfairy-test.webflow.css);
         ` }} />
         <span className="af-view">
-          <div>
+          <div className="af-class-body-3">
             <div data-collapse="medium" data-animation="default" data-duration={400} className="af-class-navigation-bar w-nav">
               <div className="w-container">
                 <a href="index.html" className="w-nav-brand">
@@ -87,11 +88,8 @@ class AboutView extends React.Component {
                       <div className="af-class-posts-list">
                         <div className="af-class-body-copy w-richtext">
                           <h1>About me</h1>
-                          <p>The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and video all in one place instead of having to add and format them individually. Just double-click and easily create content.</p>
-                          <h2>Something else here</h2>
-                          <p>Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper.</p>
-                          <p>Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                        </div><a href="contact.html" className="af-class-button w-button">Get in touch</a></div>
+                          <p>This section is currently in development.&nbsp;Please come back soon!</p>
+                        </div>{map(proxies['get-in-touch-nav-link'], props => <a href="#" {...{...props, className: `af-class-button w-button ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Get in touch</React.Fragment>}</a>)}</div>
                     </div>
                     <div className="af-class-sidebar-on-mobile">
                       <div className="af-class-white-wrapper"><img src="images/LinkedIn-Photo-Square.jpg" srcSet="images/LinkedIn-Photo-Square-p-500.jpeg 500w, images/LinkedIn-Photo-Square-p-800.jpeg 800w, images/LinkedIn-Photo-Square-p-1080.jpeg 1080w, images/LinkedIn-Photo-Square-p-1600.jpeg 1600w, images/LinkedIn-Photo-Square-p-2000.jpeg 2000w, images/LinkedIn-Photo-Square-p-2600.jpeg 2600w, images/LinkedIn-Photo-Square-p-3200.jpeg 3200w, images/LinkedIn-Photo-Square.jpg 3456w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 97.296875px, 126px" alt className="af-class-circle-profile" />

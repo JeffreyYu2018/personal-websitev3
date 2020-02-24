@@ -639,6 +639,14 @@
   align-items: stretch;
 }
 
+.af-view .af-class-body-3 {
+  background-color: #f0f0f0;
+}
+
+.af-view .af-class-body-4 {
+  background-color: #f0f0f0;
+}
+
 .af-view.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
   opacity: 0;
   -webkit-transform: translate(0px, 50px);
