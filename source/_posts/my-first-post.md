@@ -17,3 +17,5 @@ Furthermore, here is a second edit of mine that I will be placing right here.
 Finally, here is the third edit of mine that I will be placing right here.
 
 The purpose of these edits is to check if these are properly loaded and truncated.
+
+![](images/LinkedIn-Photo-Square.jpg)
