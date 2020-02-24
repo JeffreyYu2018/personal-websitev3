@@ -18,17 +18,19 @@ const axiosGitHubGraphQL = axios.create({
   },
 });
 
-const GET_BLOG = `
-  {
-    repository(owner:"JeffreyYu2018", name:"personal-websitev3") {
-      object(expression:"master:source/_posts/my-first-post.md") {
-        ... on Blob {
-          text
+const GET_BLOG = post_id => {
+  return `
+    {
+      repository(owner:"JeffreyYu2018", name:"personal-websitev3") {
+        object(expression:"master:source/_posts/${post_id}") {
+          ... on Blob {
+            text
+          }
         }
       }
     }
-  }
-  `;
+    `;
+}
 
 export default class BlogController extends React.Component {
   state = {
@@ -40,12 +42,13 @@ export default class BlogController extends React.Component {
   };
 
   componentDidMount() {
-    this.onFetchFromGitHub();
+    const { match: { params } } = this.props;
+    this.onFetchFromGitHub(params.post_id);
   }
 
-  onFetchFromGitHub = () => {
+  onFetchFromGitHub = post_id => {
     axiosGitHubGraphQL
-      .post('', { query: GET_BLOG })
+      .post('', { query: GET_BLOG(post_id) })
       .then(result => {
         let markdown = matter(result.data.data.repository.object.text)
         let { title, date, image } = markdown.data
@@ -79,9 +82,6 @@ export default class BlogController extends React.Component {
       <BlogView>
         <home-nav-link />
         <about-nav-link />
-        <blog-nav-link
-          href="/blog/blog.html"
-        />
         <contact-nav-link />
         <post-image
             src={`${IMGURL}${image}`}

@@ -88,7 +88,7 @@ export default class PostsListController extends React.Component {
           let { title, date, image } = data
           return (
             <PostsListView key={index}>
-              <post-title-link href="/blog.html">
+              <post-title-link href={`/blog/${post.name}`}>
                 <post-title>{title}</post-title>
               </post-title-link>
               <post-thumbnail-link href="/blog.html">
