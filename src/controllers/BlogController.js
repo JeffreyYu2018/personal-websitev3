@@ -73,22 +73,14 @@ export default class BlogController extends React.Component {
       );
     } else if (!title) {
       return (
-        <p>
-          <strong>Loading posts...</strong>
-        </p>
+        <BlogView />
       )
     }
     return (
       <BlogView>
-        <home-nav-link
-          href="/"
-        />
-        <about-nav-link
-          href="/about"
-        />
-        <contact-nav-link
-          href="/contact"
-        />
+        <home-nav-link href="/" />
+        <about-nav-link href="/about" />
+        <contact-nav-link href="/contact" />
         <post-image
             src={`${IMGURL}${image}`}
             alt="Blog post"
@@ -97,6 +89,7 @@ export default class BlogController extends React.Component {
         <blog-title>{title}</blog-title>
         <post-info>{makeDateIntoString(date)}</post-info>
         <post-body><ReactMarkdown source={content} /> </post-body>
+        <back-to-home-nav-link href="/" />
       </BlogView>
     )
   }
