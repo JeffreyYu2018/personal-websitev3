@@ -3,8 +3,8 @@ import IndexView from '../views/IndexView'
 
 export default (props) => (
   <IndexView>
-    <home-nav-link />
-    <about-nav-link />
-    <contact-nav-link />
+    <home-nav-link href="/" />
+    <about-nav-link href="/about" />
+    <contact-nav-link href="/contact" />
   </IndexView>
 )

@@ -14,7 +14,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route exact path="/" component={IndexController} />
-      <Route exact path="contact" component={ContactController} />
+      <Route exact path="/contact" component={ContactController} />
       <Route exact path="/about" component={AboutController} />
       <Route exact path="/blog/:post_id" component={BlogController} />
     </Switch>
