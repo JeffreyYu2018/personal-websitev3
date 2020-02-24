@@ -7,6 +7,12 @@ import matter from 'gray-matter';
 // axios content for GitHubGraphQL API blog posts
 import axios from 'axios';
 
+// truncating blog content preview
+import TruncateMarkup from 'react-truncate-markup';
+
+// rerouting after button click with react router
+import { withRouter } from 'react-router-dom'
+
 const axiosGitHubGraphQL = axios.create({
   baseURL: 'https://api.github.com/graphql',
   headers: {
@@ -15,8 +21,6 @@ const axiosGitHubGraphQL = axios.create({
     }`,
   },
 });
-
-
 
 const GET_BLOG_HEADERS = `
   {
@@ -45,7 +49,13 @@ export const makeDateIntoString = date => {
     return date.toLocaleDateString(undefined, dateOptions)
   };
 
-export default class PostsListController extends React.Component {
+const linkStyle = {
+  color: "cornflowerblue",
+  textDecoration: "underline",
+  cursor: "pointer"
+};
+
+class PostsListController extends React.Component {
   state = {
     posts: [],
     errors: null
@@ -66,6 +76,11 @@ export default class PostsListController extends React.Component {
       );
   }
 
+  handleClick(event, name) {
+    event.preventDefault();
+    this.props.history.push(`/blog/${name}`);
+  }
+
   render() {
     let { posts, errors } = this.state;
     if (errors) {
@@ -82,10 +97,21 @@ export default class PostsListController extends React.Component {
         </p>
       )
     }
+
+    const readMoreEllipsis = name => {
+      return (
+        <span>
+          ...{' '}
+          <button onClick={(e) => this.handleClick(e, name)} style={linkStyle}>
+            read more
+          </button>
+        </span>
+      )
+    };
+
     return (
       <div>
         {[...posts].reverse().map((post, index) => {
-          console.log(post)
           let { data, content } = matter(post.object.text)
           let { title, date, image } = data
           return (
@@ -93,7 +119,7 @@ export default class PostsListController extends React.Component {
               <post-title-link href={`/blog/${post.name}`}>
                 <post-title>{title}</post-title>
               </post-title-link>
-              <post-thumbnail-link href="/blog.html">
+              <post-thumbnail-link href={`/blog/${post.name}`}>
                 <post-thumbnail
                   src={`${IMGURL}${image}`}
                   alt="Blog post"
@@ -101,7 +127,13 @@ export default class PostsListController extends React.Component {
                 />
               </post-thumbnail-link>
               <post-date>{makeDateIntoString(date)}</post-date>
-              <post-summary>{content}</post-summary>
+              <post-summary>
+                <TruncateMarkup lines={5} ellipsis={readMoreEllipsis(post.name)}>
+                  <div>
+                    {content}
+                  </div>
+                </TruncateMarkup>
+              </post-summary>
             </PostsListView>
           )
         })}
@@ -109,3 +141,5 @@ export default class PostsListController extends React.Component {
     )
   }
 }
+
+export default withRouter(PostsListController);
