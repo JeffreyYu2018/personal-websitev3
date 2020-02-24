@@ -7,18 +7,16 @@ import matter from 'gray-matter';
 // axios content for GitHubGraphQL API blog posts
 import axios from 'axios';
 
-let pattest = "a20c0cca6d2d91b1e974c9667f6a56c53f45f58b"
-
 const axiosGitHubGraphQL = axios.create({
   baseURL: 'https://api.github.com/graphql',
   headers: {
     Authorization: `bearer ${
-      pattest
+      process.env.REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN
     }`,
   },
 });
 
-// process.env.REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN
+
 
 const GET_BLOG_HEADERS = `
   {
