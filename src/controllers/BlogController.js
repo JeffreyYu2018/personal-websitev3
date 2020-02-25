@@ -73,7 +73,13 @@ export default class BlogController extends React.Component {
       );
     } else if (!title) {
       return (
-        <BlogView />
+        <div style={{textAlign:"center"}}>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"
+            alt="Loading"
+            style={{display:"inline-block"}}
+          />
+        </div>
       )
     }
     return (
