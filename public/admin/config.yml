@@ -16,6 +16,6 @@ collections:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Category", name: "category", widget: "string", default: "General"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Image Filename", name: "image", widget: "string", required: false}
+      - {label: "Featured Image", name: "featured-image", widget: "image", required: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
