@@ -5,7 +5,6 @@ import { createScope, map, transformProxies } from './helpers'
 import NavbarView from './NavbarView'
 import SidebarView from './SidebarView'
 import PostsListView from './PostsListView'
-import SidebarView from './SidebarView'
 
 const scripts = [
   fetch("https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js").then(body => body.text()),
@@ -39,7 +38,7 @@ class IndexView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) {
+          with (this) ${
             eval(arguments[0])
           }
         `).call(window, script)
