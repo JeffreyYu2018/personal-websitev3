@@ -127,6 +127,7 @@ class PostsListController extends React.Component {
                 />
               </post-thumbnail-link>
               <post-date>{makeDateIntoString(date)}</post-date>
+              <post-category></post-category>
               <post-summary>
                 <TruncateMarkup lines={5} ellipsis={readMoreEllipsis(post.name)}>
                   <div>

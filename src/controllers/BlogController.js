@@ -93,8 +93,9 @@ export default class BlogController extends React.Component {
             alt="Blog post"
             style={{objectFit:"cover"}} />
         />
-        <blog-title>{title}</blog-title>
-        <post-info>{makeDateIntoString(date)}</post-info>
+        <post-title>{title}</post-title>
+        <post-date>{makeDateIntoString(date)}</post-date>
+        <post-category></post-category>
         <post-body><ReactMarkdown source={content} /> </post-body>
         <back-to-home-nav-link href="/" />
       </BlogView>
