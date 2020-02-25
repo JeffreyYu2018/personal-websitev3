@@ -11,6 +11,9 @@
 # production
 /build
 
+# blog posts
+/source/_posts
+
 # misc
 /.appfairy
 .DS_Store
