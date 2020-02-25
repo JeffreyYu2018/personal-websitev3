@@ -63,7 +63,7 @@ export default class BlogController extends React.Component {
   }
 
   render() {
-    const { title, date, image, content, errors } = this.state;
+    const { title, category, date, image, content, errors } = this.state;
     if (errors) {
       return (
         <p>
@@ -95,7 +95,7 @@ export default class BlogController extends React.Component {
         />
         <post-title>{title}</post-title>
         <post-date>{makeDateIntoString(date)}</post-date>
-        <post-category></post-category>
+        <post-category>{category}</post-category>
         <post-body><ReactMarkdown source={content} /> </post-body>
         <back-to-home-nav-link href="/" />
       </BlogView>

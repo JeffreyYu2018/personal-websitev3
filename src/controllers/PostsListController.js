@@ -113,7 +113,7 @@ class PostsListController extends React.Component {
       <div>
         {[...posts].reverse().map((post, index) => {
           let { data, content } = matter(post.object.text)
-          let { title, date, image } = data
+          let { title, category, date, image } = data
           return (
             <PostsListView key={index}>
               <post-title-link href={`/blog/${post.name}`}>
@@ -127,7 +127,7 @@ class PostsListController extends React.Component {
                 />
               </post-thumbnail-link>
               <post-date>{makeDateIntoString(date)}</post-date>
-              <post-category></post-category>
+              <post-category>{category}</post-category>
               <post-summary>
                 <TruncateMarkup lines={5} ellipsis={readMoreEllipsis(post.name)}>
                   <div>
