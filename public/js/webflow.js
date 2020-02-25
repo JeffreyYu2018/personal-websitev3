@@ -88,7 +88,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -115,7 +115,7 @@ var $win = $(window);
 var $doc = $(document);
 var isFunction = $.isFunction;
 
-var _ = Webflow._ = __webpack_require__(7);
+var _ = Webflow._ = __webpack_require__(6);
 
 var tram = Webflow.tram = __webpack_require__(2) && $.tram;
 var domready = false;
@@ -532,7 +532,7 @@ module.exports = api;
 
 var _interopRequireDefault = __webpack_require__(3);
 
-var _typeof2 = _interopRequireDefault(__webpack_require__(8));
+var _typeof2 = _interopRequireDefault(__webpack_require__(7));
 
 window.tram = function (a) {
   function b(a, b) {
@@ -1414,68 +1414,18 @@ module.exports = _interopRequireDefault;
 /* 4 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-// @wf-will-never-add-flow-to-this-file
-
-/* globals window, document */
-
-/* eslint-disable no-var */
-// eslint-disable-next-line strict
-
-
-var IXEvents = __webpack_require__(1);
-
-function dispatchCustomEvent(element, eventName) {
-  var event = document.createEvent('CustomEvent');
-  event.initCustomEvent(eventName, true, true, null);
-  element.dispatchEvent(event);
-}
-/**
- * Webflow: IX Event triggers for other modules
- */
-
-
-var $ = window.jQuery;
-var api = {};
-var namespace = '.w-ix';
-var eventTriggers = {
-  reset: function reset(i, el) {
-    IXEvents.triggers.reset(i, el);
-  },
-  intro: function intro(i, el) {
-    IXEvents.triggers.intro(i, el);
-    dispatchCustomEvent(el, 'COMPONENT_ACTIVE');
-  },
-  outro: function outro(i, el) {
-    IXEvents.triggers.outro(i, el);
-    dispatchCustomEvent(el, 'COMPONENT_INACTIVE');
-  }
-};
-api.triggers = {};
-api.types = {
-  INTRO: 'w-ix-intro' + namespace,
-  OUTRO: 'w-ix-outro' + namespace
-};
-$.extend(api.triggers, eventTriggers);
-module.exports = api;
-
-/***/ }),
-/* 5 */
-/***/ (function(module, exports, __webpack_require__) {
-
-__webpack_require__(6);
+__webpack_require__(5);
 __webpack_require__(1);
+__webpack_require__(8);
 __webpack_require__(9);
 __webpack_require__(10);
 __webpack_require__(11);
 __webpack_require__(12);
-__webpack_require__(13);
-__webpack_require__(14);
-module.exports = __webpack_require__(19);
+module.exports = __webpack_require__(17);
 
 
 /***/ }),
-/* 6 */
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1566,7 +1516,7 @@ Webflow.define('brand', module.exports = function ($) {
 });
 
 /***/ }),
-/* 7 */
+/* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1941,7 +1891,7 @@ module.exports = function () {
 /* eslint-enable */
 
 /***/ }),
-/* 8 */
+/* 7 */
 /***/ (function(module, exports) {
 
 function _typeof2(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof2 = function _typeof2(obj) { return typeof obj; }; } else { _typeof2 = function _typeof2(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof2(obj); }
@@ -1963,7 +1913,7 @@ function _typeof(obj) {
 module.exports = _typeof;
 
 /***/ }),
-/* 9 */
+/* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2544,7 +2494,7 @@ Webflow.define('ix', module.exports = function ($, _) {
 });
 
 /***/ }),
-/* 10 */
+/* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2674,7 +2624,7 @@ Webflow.define('links', module.exports = function ($, _) {
 });
 
 /***/ }),
-/* 11 */
+/* 10 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2841,7 +2791,7 @@ Webflow.define('scroll', module.exports = function ($) {
 });
 
 /***/ }),
-/* 12 */
+/* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2982,523 +2932,7 @@ Webflow.define('touch', module.exports = function ($) {
 });
 
 /***/ }),
-/* 13 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
- // @wf-will-never-add-flow-to-this-file
-
-/* globals window, document */
-
-/* eslint-disable no-var */
-
-/**
- * Webflow: Dropdown component
- */
-
-var Webflow = __webpack_require__(0);
-
-var IXEvents = __webpack_require__(4);
-
-var KEY_CODES = {
-  ARROW_UP: 38,
-  ARROW_DOWN: 40,
-  ESCAPE: 27,
-  SPACE: 32,
-  ENTER: 13,
-  HOME: 36,
-  END: 35
-};
-var FORCE_CLOSE = true;
-Webflow.define('dropdown', module.exports = function ($, _) {
-  var api = {};
-  var $doc = $(document);
-  var $dropdowns;
-  var designer;
-  var inApp = Webflow.env();
-  var touch = Webflow.env.touch;
-  var mouseUpEvent = touch ? 'click' : 'mouseup';
-  var namespace = '.w-dropdown';
-  var stateOpen = 'w--open';
-  var closeEvent = 'w-close' + namespace;
-  var ix = IXEvents.triggers;
-  var defaultZIndex = 900; // @dropdown-depth
-
-  var inPreview = false; // -----------------------------------
-  // Module methods
-
-  api.ready = init;
-
-  api.design = function () {
-    // Close all when returning from preview
-    if (inPreview) {
-      closeAll();
-    }
-
-    inPreview = false;
-    init();
-  };
-
-  api.preview = function () {
-    inPreview = true;
-    init();
-  }; // -----------------------------------
-  // Private methods
-
-
-  function init() {
-    designer = inApp && Webflow.env('design'); // Find all instances on the page
-
-    $dropdowns = $doc.find(namespace);
-    $dropdowns.each(build);
-  }
-
-  function build(i, el) {
-    var $el = $(el); // Store state in data
-
-    var data = $.data(el, namespace);
-
-    if (!data) {
-      data = $.data(el, namespace, {
-        open: false,
-        el: $el,
-        config: {},
-        selectedIdx: -1
-      });
-    }
-
-    data.list = $el.children('.w-dropdown-list');
-    data.toggle = $el.children('.w-dropdown-toggle');
-    data.links = data.list.children('.w-dropdown-link');
-    data.outside = outside(data);
-    data.complete = complete(data);
-    data.leave = leave(data);
-    data.moveOutside = moveOutside(data); // Remove old events
-
-    $el.off(namespace);
-    data.toggle.off(namespace); // Set config from data attributes
-
-    configure(data);
-
-    if (data.nav) {
-      data.nav.off(namespace);
-    }
-
-    data.nav = $el.closest('.w-nav');
-    data.nav.on(closeEvent, handler(data)); // Add events based on mode
-
-    if (designer) {
-      $el.on('setting' + namespace, handler(data));
-    } else {
-      data.toggle.on(mouseUpEvent + namespace, toggle(data, FORCE_CLOSE));
-
-      if (data.config.hover) {
-        data.toggle.on('mouseenter' + namespace, enter(data));
-      }
-
-      $el.on(closeEvent, handler(data)); // Close in preview mode and clean the data.hovering state
-
-      if (inApp) {
-        data.hovering = false;
-        close(data);
-      }
-    } // ARIA
-
-
-    var listId = data.list.attr('id');
-    var toggleId = data.toggle.attr('id');
-    $el.attr('role', 'menu'); // Prevent default scrolling behaviours
-
-    $el.on('keydown', handleDropdownKeydown); // ARIA -- List
-
-    if (!listId) {
-      listId = 'w-dropdown-list-' + i;
-      data.list.attr('id', listId);
-    } // Manage list item focus
-
-
-    $el.on('keyup', makeListItemFocusManager(data)); // ARIA -- Links
-
-    data.links.attr('tabindex', '-1');
-    data.links.attr('role', 'menuitem'); // ARIA -- Toggle
-
-    if (!data.toggle.attr('tabindex')) {
-      data.toggle.attr('tabindex', '0');
-    }
-
-    if (!toggleId) {
-      toggleId = 'w-dropdown-toggle-' + i;
-      data.toggle.attr('id', toggleId);
-    }
-
-    data.toggle.attr('aria-controls', listId);
-    data.toggle.attr('aria-haspopup', 'menu');
-    data.toggle.on('keyup', makeToggleKeyupHandler(data));
-    $el.attr('aria-labelledby', toggleId); // Hide focus outline (temporarily, until more widespread a11y
-    // support and communication)
-
-    data.toggle.css('outline', 'none');
-    data.links.css('outline', 'none');
-  }
-
-  function configure(data) {
-    // Determine if z-index should be managed
-    var zIndex = Number(data.el.css('z-index'));
-    data.manageZ = zIndex === defaultZIndex || zIndex === defaultZIndex + 1;
-    data.config = {
-      hover: (data.el.attr('data-hover') === true || data.el.attr('data-hover') === '1') && !touch,
-      delay: Number(data.el.attr('data-delay')) || 0
-    };
-  }
-
-  function handler(data) {
-    return function (evt, options) {
-      options = options || {};
-
-      if (evt.type === 'w-close') {
-        return close(data, {
-          focusToggle: false
-        });
-      }
-
-      if (evt.type === 'setting') {
-        configure(data);
-        options.open === true && open(data, true);
-        options.open === false && close(data, {
-          immediate: true
-        });
-        return;
-      }
-    };
-  }
-
-  function toggle(data, forceClose) {
-    return _.debounce(function () {
-      if (data.open) {
-        return close(data, {
-          forceClose: forceClose
-        });
-      }
-
-      open(data);
-      focusSelectedLink(data);
-    });
-  }
-
-  function open(data) {
-    if (data.open) {
-      return;
-    }
-
-    closeOthers(data);
-    data.open = true;
-    data.list.addClass(stateOpen);
-    data.toggle.addClass(stateOpen);
-    data.toggle.attr('aria-expanded', 'true'); // ARIA
-
-    ix.intro(0, data.el[0]);
-    Webflow.redraw.up(); // Increase z-index to keep above other managed dropdowns
-
-    data.manageZ && data.el.css('z-index', defaultZIndex + 1); // Listen for click outside events
-
-    var isEditor = Webflow.env('editor');
-
-    if (!designer) {
-      $doc.on(mouseUpEvent + namespace, data.outside);
-    }
-
-    if (data.hovering && !isEditor) {
-      data.el.on('mouseleave' + namespace, data.leave);
-    }
-
-    if (data.hovering && isEditor) {
-      $doc.on('mousemove' + namespace, data.moveOutside);
-    } // Clear previous delay
-
-
-    window.clearTimeout(data.delayId);
-  }
-
-  function close(data) {
-    var _ref = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {},
-        immediate = _ref.immediate,
-        forceClose = _ref.forceClose,
-        _ref$focusToggle = _ref.focusToggle,
-        focusToggle = _ref$focusToggle === void 0 ? true : _ref$focusToggle;
-
-    if (!data.open) {
-      return;
-    } // Do not close hover-based menus if currently hovering
-
-
-    if (data.config.hover && data.hovering && !forceClose) {
-      return;
-    }
-
-    data.toggle.removeAttr('aria-expanded'); // ARIA
-
-    if (focusToggle) {
-      data.toggle.focus(); // ARIA -- Focus management
-    }
-
-    data.open = false;
-    var config = data.config;
-    ix.outro(0, data.el[0]); // Stop listening for click outside events
-
-    $doc.off(mouseUpEvent + namespace, data.outside);
-    data.el.off('mouseleave' + namespace, data.leave);
-    $doc.off('mousemove' + namespace, data.moveOutside); // Clear previous delay
-
-    window.clearTimeout(data.delayId); // Skip delay during immediate
-
-    if (!config.delay || immediate) {
-      return data.complete();
-    } // Optionally wait for delay before close
-
-
-    data.delayId = window.setTimeout(data.complete, config.delay);
-  }
-
-  function closeAll() {
-    $doc.find(namespace).each(function (i, el) {
-      $(el).triggerHandler(closeEvent);
-    });
-  }
-
-  function closeOthers(data) {
-    var self = data.el[0];
-    $dropdowns.each(function (i, other) {
-      var $other = $(other);
-
-      if ($other.is(self) || $other.has(self).length) {
-        return;
-      }
-
-      $other.triggerHandler(closeEvent);
-    });
-  }
-
-  function outside(data) {
-    // Unbind previous click handler if it exists
-    if (data.outside) {
-      $doc.off(mouseUpEvent + namespace, data.outside);
-    } // Close menu when clicked outside
-
-
-    return _.debounce(function (evt) {
-      if (!data.open) {
-        return;
-      }
-
-      var $target = $(evt.target);
-
-      if ($target.closest('.w-dropdown-toggle').length) {
-        return;
-      }
-
-      var isEventOutsideDropdowns = $.inArray(data.el[0], $target.parents(namespace)) === -1;
-      var isEditor = Webflow.env('editor');
-
-      if (isEventOutsideDropdowns) {
-        if (isEditor) {
-          var isEventOnDetachedSvg = $target.parents().length === 1 && $target.parents('svg').length === 1;
-          var isEventOnHoverControls = $target.parents('.w-editor-bem-EditorHoverControls').length;
-
-          if (isEventOnDetachedSvg || isEventOnHoverControls) {
-            return;
-          }
-        }
-
-        close(data);
-      }
-    });
-  }
-
-  function complete(data) {
-    return function () {
-      data.list.removeClass(stateOpen);
-      data.toggle.removeClass(stateOpen); // Reset z-index for managed dropdowns
-
-      data.manageZ && data.el.css('z-index', '');
-    };
-  }
-
-  function enter(data) {
-    return function () {
-      data.hovering = true;
-      open(data);
-
-      if (!data.links.is(':focus')) {
-        data.toggle.focus();
-      }
-    };
-  }
-
-  function leave(data) {
-    return function () {
-      data.hovering = false; // We do not want the list to close upon mouseleave
-      // if one of the links has focus
-
-      if (!data.links.is(':focus')) {
-        close(data);
-      }
-    };
-  }
-
-  function moveOutside(data) {
-    return _.debounce(function (evt) {
-      if (!data.open) {
-        return;
-      }
-
-      var $target = $(evt.target);
-      var isEventOutsideDropdowns = $.inArray(data.el[0], $target.parents(namespace)) === -1;
-
-      if (isEventOutsideDropdowns) {
-        var isEventOnHoverControls = $target.parents('.w-editor-bem-EditorHoverControls').length;
-        var isEventOnHoverToolbar = $target.parents('.w-editor-bem-RTToolbar').length;
-        var $editorOverlay = $('.w-editor-bem-EditorOverlay');
-        var isDropdownInEdition = $editorOverlay.find('.w-editor-edit-outline').length || $editorOverlay.find('.w-editor-bem-RTToolbar').length;
-
-        if (isEventOnHoverControls || isEventOnHoverToolbar || isDropdownInEdition) {
-          return;
-        }
-
-        data.hovering = false;
-        close(data);
-      }
-    });
-  }
-
-  function makeListItemFocusManager(data) {
-    return function (evt) {
-      // Do not respond to keyboard events in designer or preview mode,
-      // or if the list is not open or toggle contains focus
-      if (designer || inPreview || !data.open && !data.toggle.is(':focus')) return; // We do not want to honor hover settings if interacting
-      // via keyboard
-
-      switch (evt.keyCode) {
-        case KEY_CODES.HOME:
-          {
-            if (!data.open) return;
-            data.selectedIdx = 0;
-            focusSelectedLink(data);
-            return;
-          }
-
-        case KEY_CODES.END:
-          {
-            if (!data.open) return;
-            data.selectedIdx = data.links.length - 1;
-            focusSelectedLink(data);
-            return;
-          }
-
-        case KEY_CODES.ESCAPE:
-          {
-            close(data, {
-              forceClose: true
-            });
-            return;
-          }
-
-        case KEY_CODES.ARROW_DOWN:
-          {
-            data.selectedIdx = Math.min(data.links.length - 1, data.selectedIdx + 1);
-
-            if (data.selectedIdx >= 0) {
-              if (!data.open) {
-                // When opening dropdown via down arrow, we want
-                // to start on the first element, not to resume
-                // where we had focus when we previously closed
-                // the dropdown
-                data.selectedIdx = 0;
-              }
-
-              open(data);
-              focusSelectedLink(data);
-            }
-
-            return;
-          }
-
-        case KEY_CODES.ARROW_UP:
-          {
-            data.selectedIdx = Math.max(-1, data.selectedIdx - 1);
-
-            if (data.selectedIdx < 0) {
-              close(data, {
-                immediate: true,
-                forceClose: true
-              });
-              data.toggle.focus(); // We want to focus the toggle
-              //                      even if the mouse is forcing
-              //                      open the list
-            } else {
-              open(data);
-              focusSelectedLink(data);
-            }
-
-            return;
-          }
-
-        default:
-          {
-            return; // noop
-          }
-      }
-    };
-  }
-
-  function focusSelectedLink(data) {
-    if (data.links[data.selectedIdx]) {
-      data.links[data.selectedIdx].focus();
-    }
-  }
-
-  function makeToggleKeyupHandler(data) {
-    var toggler = toggle(data, FORCE_CLOSE); // We do not want to honor
-    //                                          hover settings if interacting
-    //                                          via keyboard
-
-    return function (evt) {
-      // Do not respond to keyboard events in designer or preview
-      if (designer || inPreview) return;
-
-      if (evt.keyCode === KEY_CODES.SPACE || evt.keyCode === KEY_CODES.ENTER) {
-        // Do not want to trigger list item focus manager event handler
-        evt.stopPropagation();
-        toggler();
-      }
-    };
-  }
-
-  function handleDropdownKeydown(evt) {
-    // Do not respond to keyboard events in designer
-    if (designer) return;
-
-    switch (evt.keyCode) {
-      case KEY_CODES.HOME:
-      case KEY_CODES.END:
-      case KEY_CODES.ARROW_DOWN:
-      case KEY_CODES.ARROW_UP:
-        {
-          return evt.preventDefault(); // Prevent default scroll behaviors
-        }
-
-      default:
-        {
-          return; // noop
-        }
-    }
-  } // Export module
-
-
-  return api;
-});
-
-/***/ }),
-/* 14 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -3520,7 +2954,7 @@ Webflow.define('dropdown', module.exports = function ($, _) {
 
 var _interopRequireDefault = __webpack_require__(3);
 
-var _slicedToArray2 = _interopRequireDefault(__webpack_require__(15));
+var _slicedToArray2 = _interopRequireDefault(__webpack_require__(13));
 
 var Webflow = __webpack_require__(0);
 
@@ -4024,14 +3458,14 @@ Webflow.define('forms', module.exports = function ($, _) {
 });
 
 /***/ }),
-/* 15 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayWithHoles = __webpack_require__(16);
+var arrayWithHoles = __webpack_require__(14);
 
-var iterableToArrayLimit = __webpack_require__(17);
+var iterableToArrayLimit = __webpack_require__(15);
 
-var nonIterableRest = __webpack_require__(18);
+var nonIterableRest = __webpack_require__(16);
 
 function _slicedToArray(arr, i) {
   return arrayWithHoles(arr) || iterableToArrayLimit(arr, i) || nonIterableRest();
@@ -4040,7 +3474,7 @@ function _slicedToArray(arr, i) {
 module.exports = _slicedToArray;
 
 /***/ }),
-/* 16 */
+/* 14 */
 /***/ (function(module, exports) {
 
 function _arrayWithHoles(arr) {
@@ -4050,7 +3484,7 @@ function _arrayWithHoles(arr) {
 module.exports = _arrayWithHoles;
 
 /***/ }),
-/* 17 */
+/* 15 */
 /***/ (function(module, exports) {
 
 function _iterableToArrayLimit(arr, i) {
@@ -4082,7 +3516,7 @@ function _iterableToArrayLimit(arr, i) {
 module.exports = _iterableToArrayLimit;
 
 /***/ }),
-/* 18 */
+/* 16 */
 /***/ (function(module, exports) {
 
 function _nonIterableRest() {
@@ -4092,7 +3526,7 @@ function _nonIterableRest() {
 module.exports = _nonIterableRest;
 
 /***/ }),
-/* 19 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4108,7 +3542,7 @@ module.exports = _nonIterableRest;
 
 var Webflow = __webpack_require__(0);
 
-var IXEvents = __webpack_require__(4);
+var IXEvents = __webpack_require__(18);
 
 Webflow.define('navbar', module.exports = function ($, _) {
   var api = {};
@@ -4539,6 +3973,55 @@ Webflow.define('navbar', module.exports = function ($, _) {
 
   return api;
 });
+
+/***/ }),
+/* 18 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// @wf-will-never-add-flow-to-this-file
+
+/* globals window, document */
+
+/* eslint-disable no-var */
+// eslint-disable-next-line strict
+
+
+var IXEvents = __webpack_require__(1);
+
+function dispatchCustomEvent(element, eventName) {
+  var event = document.createEvent('CustomEvent');
+  event.initCustomEvent(eventName, true, true, null);
+  element.dispatchEvent(event);
+}
+/**
+ * Webflow: IX Event triggers for other modules
+ */
+
+
+var $ = window.jQuery;
+var api = {};
+var namespace = '.w-ix';
+var eventTriggers = {
+  reset: function reset(i, el) {
+    IXEvents.triggers.reset(i, el);
+  },
+  intro: function intro(i, el) {
+    IXEvents.triggers.intro(i, el);
+    dispatchCustomEvent(el, 'COMPONENT_ACTIVE');
+  },
+  outro: function outro(i, el) {
+    IXEvents.triggers.outro(i, el);
+    dispatchCustomEvent(el, 'COMPONENT_INACTIVE');
+  }
+};
+api.triggers = {};
+api.types = {
+  INTRO: 'w-ix-intro' + namespace,
+  OUTRO: 'w-ix-outro' + namespace
+};
+$.extend(api.triggers, eventTriggers);
+module.exports = api;
 
 /***/ })
 /******/ ]);/**

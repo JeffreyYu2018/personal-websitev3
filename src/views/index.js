@@ -1,5 +1,11 @@
 /* eslint-disable */
 
+export { default as NavbarView } from './NavbarView'
+export { default as NavbarView } from './NavbarView'
+export { default as NavbarView } from './NavbarView'
+export { default as NavbarView } from './NavbarView'
+export { default as NavbarView } from './NavbarView'
+export { default as NavbarView } from './NavbarView'
 export { default as PostsListView } from './PostsListView'
 export { default as UnauthorizedView } from './UnauthorizedView'
 export { default as AboutView } from './AboutView'
