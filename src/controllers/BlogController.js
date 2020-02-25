@@ -92,10 +92,6 @@ export default class BlogController extends React.Component {
           <title>Blog | Jeffrey Yu</title>
         </Helmet>
         <BlogView>
-          <brand-nav-link href="/" />
-          <home-nav-link href="/" />
-          <about-nav-link href="/about" />
-          <contact-nav-link href="/contact" />
           <post-image
               src={`${IMGURL}${featuredImage}`}
               alt="Blog post"

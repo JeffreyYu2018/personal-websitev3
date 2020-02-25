@@ -13,6 +13,9 @@ import TruncateMarkup from 'react-truncate-markup';
 // rerouting after button click with react router
 import { withRouter } from 'react-router-dom'
 
+// remove markdown from post content
+import removeMarkdown from 'remove-markdown'
+
 const axiosGitHubGraphQL = axios.create({
   baseURL: 'https://api.github.com/graphql',
   headers: {
@@ -57,7 +60,7 @@ const linkStyle = {
 
 class PostsListController extends React.Component {
   state = {
-    posts: [],
+    posts: null,
     errors: null
   };
 
@@ -131,7 +134,7 @@ class PostsListController extends React.Component {
               <post-summary>
                 <TruncateMarkup lines={5} ellipsis={readMoreEllipsis(post.name)}>
                   <div>
-                    {content}
+                    {removeMarkdown(content)}
                   </div>
                 </TruncateMarkup>
               </post-summary>

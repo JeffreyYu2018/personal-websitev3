@@ -739,6 +739,10 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   .blog-page-image {
     height: 240px;
   }
+  .dropdown {
+    width: 100%;
+    text-align: right;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -794,6 +798,26 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   }
   .post-content-2 {
     padding: 20px;
+  }
+  .dropdown-toggle {
+    left: 0px;
+    right: 0px;
+    width: auto;
+    margin-left: 0px;
+    text-align: left;
+  }
+  .dropdown {
+    width: 100%;
+    text-align: right;
+  }
+  .dropdown-link {
+    text-align: center;
+  }
+  .dropdown-link-2 {
+    text-align: center;
+  }
+  .dropdown-link-3 {
+    text-align: center;
   }
 }
 
