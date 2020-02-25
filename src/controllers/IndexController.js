@@ -11,7 +11,6 @@ class IndexController extends React.Component {
           <title>Home | Jeffrey Yu</title>
         </Helmet>
         <IndexView>
-          <div>Test</div>
           <brand-nav-link href="/" />
           <home-nav-link href="/" />
           <about-nav-link href="/about" />
