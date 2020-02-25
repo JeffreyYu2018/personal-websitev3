@@ -1,6 +1,17 @@
 /* eslint-disable */
 
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
+export { default as SidebarView } from './SidebarView'
 export { default as PostsListView } from './PostsListView'
+export { default as SidebarView } from './SidebarView'
 export { default as UnauthorizedView } from './UnauthorizedView'
 export { default as AboutView } from './AboutView'
 export { default as BlogView } from './BlogView'
