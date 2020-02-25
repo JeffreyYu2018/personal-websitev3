@@ -36,7 +36,7 @@ class BlogView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) ${
+          with (this) {
             eval(arguments[0])
           }
         `).call(window, script)
@@ -92,7 +92,9 @@ class BlogView extends React.Component {
                         {map(proxies['post-title'], props => <h1 {...props}>{props.children ? props.children : <React.Fragment>Heading</React.Fragment>}</h1>)}
                         <div className="af-class-details-wrapper">
                           {map(proxies['post-date'], props => <div {...{...props, className: `af-class-post-info ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>This is some text inside of a div block.</React.Fragment>}</div>)}
-                          <div className="af-class-post-info">|</div>{map(proxies['post-category'], props => <a href="#" {...{...props, className: `af-class-post-info af-class-when-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Text Link</React.Fragment>}</a>)}</div>
+                          <div className="af-class-post-info">|</div>
+                          {map(proxies['post-category'], props => <div {...{...props, className: `af-class-post-info ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Category</React.Fragment>}</div>)}
+                        </div>
                         <div className="af-class-grey-rule" />
                         {map(proxies['post-body'], props => <div {...{...props, className: `af-class-body-copy w-richtext ${props.className || ''}`}}>{props.children}</div>)}
                       </div>
