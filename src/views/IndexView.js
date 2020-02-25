@@ -36,7 +36,7 @@ class IndexView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) ${
+          with (this) {
             eval(arguments[0])
           }
         `).call(window, script)
@@ -48,7 +48,6 @@ class IndexView extends React.Component {
 
   render() {
     const proxies = Controller !== IndexView ? transformProxies(this.props.children) : {
-      'brand-nav-link': [],
       'sidebar-profile-pic': [],
       'sidebar-facebook': [],
       'sidebar-instagram': [],
@@ -72,9 +71,9 @@ class IndexView extends React.Component {
           <div className="af-class-body">
             <div data-collapse="medium" data-animation="default" data-duration={400} className="af-class-navigation-bar w-nav">
               <div className="w-container">
-                {map(proxies['brand-nav-link'], props => <a href="#" {...{...props, className: `w-nav-brand ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>
+                <a href="#" className="w-nav-brand">
                   <div className="af-class-site-name">Jeffrey Yu</div>
-                </React.Fragment>}</a>)}
+                </a>
                 <nav role="navigation" className="af-class-navigation-menu w-nav-menu"><a href="index.html" className="af-class-navigation-link w-nav-link w--current">Home</a><a href="about.html" className="af-class-navigation-link w-nav-link">About</a><a href="contact.html" className="af-class-navigation-link w-nav-link">Contact</a></nav>
                 <div className="af-class-menu-button w-nav-button">
                   <div className="w-icon-nav-menu" />
