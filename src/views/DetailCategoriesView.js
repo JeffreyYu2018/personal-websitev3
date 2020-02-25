@@ -47,6 +47,10 @@ class DetailCategoriesView extends React.Component {
 
   render() {
     const proxies = Controller !== DetailCategoriesView ? transformProxies(this.props.children) : {
+      'brand-nav-link': [],
+      'home-nav-link': [],
+      'about-nav-link': [],
+      'contact-nav-link': [],
       'sidebar-profile-pic': [],
       'sidebar-facebook': [],
       'sidebar-instagram': [],
@@ -70,10 +74,10 @@ class DetailCategoriesView extends React.Component {
           <div>
             <div data-collapse="medium" data-animation="default" data-duration={400} className="af-class-navigation-bar w-nav">
               <div className="w-container">
-                <a href="#" className="w-nav-brand">
+                {map(proxies['brand-nav-link'], props => <a href="#" {...{...props, className: `w-nav-brand ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>
                   <div className="af-class-site-name">Jeffrey Yu</div>
-                </a>
-                <nav role="navigation" className="af-class-navigation-menu w-nav-menu"><a href="index.html" className="af-class-navigation-link w-nav-link">Home</a><a href="about.html" className="af-class-navigation-link w-nav-link">About</a><a href="contact.html" className="af-class-navigation-link w-nav-link">Contact</a></nav>
+                </React.Fragment>}</a>)}
+                <nav role="navigation" className="af-class-navigation-menu w-nav-menu">{map(proxies['home-nav-link'], props => <a href="index.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Home</React.Fragment>}</a>)}{map(proxies['about-nav-link'], props => <a href="about.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>About</React.Fragment>}</a>)}{map(proxies['contact-nav-link'], props => <a href="contact.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Contact</React.Fragment>}</a>)}</nav>
                 <div className="af-class-menu-button w-nav-button">
                   <div className="w-icon-nav-menu" />
                 </div>
