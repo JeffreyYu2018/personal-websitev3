@@ -36,6 +36,7 @@ export default class BlogController extends React.Component {
   state = {
     title: null,
     date: null,
+    category: null,
     image: null,
     content: null,
     errors: null,
@@ -51,9 +52,10 @@ export default class BlogController extends React.Component {
       .post('', { query: GET_BLOG(post_id) })
       .then(result => {
         let markdown = matter(result.data.data.repository.object.text)
-        let { title, date, image } = markdown.data
+        let { title, category, date, image } = markdown.data
         this.setState(() => ({
           title,
+          category,
           date,
           image,
           content: markdown.content,
