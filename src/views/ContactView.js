@@ -3,6 +3,7 @@
 import React from 'react'
 import { createScope, map, transformProxies } from './helpers'
 import SidebarView from './SidebarView'
+import SidebarView from './SidebarView'
 
 const scripts = [
   fetch("https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js").then(body => body.text()),
@@ -85,17 +86,9 @@ class ContactView extends React.Component {
                       <div className="af-class-posts-list">
                         <div className="af-class-body-copy w-richtext">
                           <h1>Get in touch</h1>
-                          <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
-                        </div>
-                        <div className="af-class-form-wrapper w-form">
-                          <form id="email-form" name="email-form" data-name="Email Form"><label htmlFor="Name">Name</label><input type="text" id="Name" name="Name" data-name="Name" placeholder="Enter your name" maxLength={256} className="af-class-text-field w-input" /><label htmlFor="Email">Email Address</label><input type="email" id="Email" name="Email" data-name="Email" placeholder="Enter your email address" maxLength={256} required className="af-class-text-field w-input" /><label htmlFor="Message">Message</label><textarea id="Message" name="Message" placeholder="Enter your message" maxLength={5000} data-name="Message" required className="af-class-text-field af-class-text-area w-input" defaultValue={""} /><input type="submit" defaultValue="Submit" data-wait="Please wait..." className="af-class-button w-button" /></form>
-                          <div className="af-class-success-message w-form-done">
-                            <p className="af-class-success-text">Thank you! Your submission has been received!</p>
-                          </div>
-                          <div className="w-form-fail">
-                            <p>Oops! Something went wrong while submitting the form</p>
-                          </div>
+                          <p><strong>Personal email:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jeff.yu831@gmail.com</p>
+                          <p><strong>University email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>jeffrey.yu@gmail.com</p>
+                          <p>Facebook, Instagram, GitHub and LinkedIn accounts are linked in the sidebar.</p>
                         </div>
                       </div>
                     </div>

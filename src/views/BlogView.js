@@ -36,7 +36,7 @@ class BlogView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) ${
+          with (this) {
             eval(arguments[0])
           }
         `).call(window, script)
@@ -53,8 +53,9 @@ class BlogView extends React.Component {
       'about-nav-link': [],
       'contact-nav-link': [],
       'post-image': [],
-      'blog-title': [],
-      'post-info': [],
+      'post-title': [],
+      'post-date': [],
+      'post-category': [],
       'post-body': [],
       'back-to-home-nav-link': [],
     }
@@ -88,10 +89,10 @@ class BlogView extends React.Component {
                   <div className="af-class-content-column w-col w-col-9">
                     <div className="af-class-post-wrapper">{map(proxies['post-image'], props => <img src="https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg" alt {...{...props, className: `af-class-post-image ${props.className || ''}`}}>{props.children}</img>)}
                       <div className="af-class-posts-list">
-                        {map(proxies['blog-title'], props => <h1 {...props}>{props.children ? props.children : <React.Fragment>Heading</React.Fragment>}</h1>)}
+                        {map(proxies['post-title'], props => <h1 {...props}>{props.children ? props.children : <React.Fragment>Heading</React.Fragment>}</h1>)}
                         <div className="af-class-details-wrapper">
-                          {map(proxies['post-info'], props => <div {...{...props, className: `af-class-post-info ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>This is some text inside of a div block.</React.Fragment>}</div>)}
-                          <div className="af-class-post-info">|</div><a href="#" className="af-class-post-info af-class-when-link">Text Link</a></div>
+                          {map(proxies['post-date'], props => <div {...{...props, className: `af-class-post-info ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>This is some text inside of a div block.</React.Fragment>}</div>)}
+                          <div className="af-class-post-info">|</div>{map(proxies['post-category'], props => <a href="#" {...{...props, className: `af-class-post-info af-class-when-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Text Link</React.Fragment>}</a>)}</div>
                         <div className="af-class-grey-rule" />
                         {map(proxies['post-body'], props => <div {...{...props, className: `af-class-body-copy w-richtext ${props.className || ''}`}}>{props.children}</div>)}
                       </div>
