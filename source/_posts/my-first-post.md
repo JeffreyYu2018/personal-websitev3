@@ -1,15 +1,15 @@
 ---
-title: I LOVE BANANAS
+title: My first post!
 category: Travel
 date: 2020-02-19T21:40:02.752Z
 featuredImage: /images/LinkedIn-Photo-Square-p-1080.jpeg
 comments: true
 ---
-Hello World! <normal>
+# Hello World! 
 
-**This is my first ever blog post and I'm really excited to show it to you all! <bold>**
+## **This is my first ever blog post and I'm really excited to show it to you all!** 
 
-*Let me know if you have any questions or concerns and I'll get back to you as soon as possible. <italics>*
+*Let me know if you have any questions or concerns and I'll get back to you as soon as possible.* 
 
 Here's another edit of mine that I will be placing right here.
 
@@ -19,4 +19,4 @@ Finally, here is the third edit of mine that I will be placing right here.
 
 The purpose of these edits is to check if these are properly loaded and truncated.
 
-![](/images/LinkedIn-Photo-Square-p-500.jpeg)
+![linkedin profile pic](/images/LinkedIn-Photo-Square-p-500.jpeg)
