@@ -52,12 +52,13 @@ export default class BlogController extends React.Component {
       .post('', { query: GET_BLOG(post_id) })
       .then(result => {
         let markdown = matter(result.data.data.repository.object.text)
-        let { title, category, date, image } = markdown.data
+        console.log(markdown.data)
+        let { title, category, date, featuredImage } = markdown.data
         this.setState(() => ({
           title,
           category,
           date,
-          image,
+          featuredImage,
           content: markdown.content,
           errors: result.data.errors,
         }))
@@ -65,7 +66,7 @@ export default class BlogController extends React.Component {
   }
 
   render() {
-    const { title, category, date, image, content, errors } = this.state;
+    const { title, category, date, featuredImage, content, errors } = this.state;
     if (errors) {
       return (
         <p>
@@ -91,7 +92,7 @@ export default class BlogController extends React.Component {
         <about-nav-link href="/about" />
         <contact-nav-link href="/contact" />
         <post-image
-            src={`${IMGURL}${image}`}
+            src={`${IMGURL}${featuredImage}`}
             alt="Blog post"
             style={{objectFit:"cover"}} />
         />

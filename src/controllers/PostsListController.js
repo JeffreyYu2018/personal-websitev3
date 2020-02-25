@@ -113,7 +113,7 @@ class PostsListController extends React.Component {
       <div>
         {[...posts].reverse().map((post, index) => {
           let { data, content } = matter(post.object.text)
-          let { title, category, date, image } = data
+          let { title, category, date, featuredImage } = data
           return (
             <PostsListView key={index}>
               <post-title-link href={`/blog/${post.name}`}>
@@ -121,7 +121,7 @@ class PostsListController extends React.Component {
               </post-title-link>
               <post-thumbnail-link href={`/blog/${post.name}`}>
                 <post-thumbnail
-                  src={`${IMGURL}${image}`}
+                  src={`${IMGURL}${featuredImage}`}
                   alt="Blog post"
                   style={{objectFit:"cover"}}
                 />
