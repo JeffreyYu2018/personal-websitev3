@@ -8,6 +8,7 @@ import axios from 'axios';
 // Markdown frontmatter parser
 import matter from 'gray-matter'
 import { makeDateIntoString } from './PostsListController'
+import { Helmet } from 'react-helmet' // for document title
 
 const axiosGitHubGraphQL = axios.create({
   baseURL: 'https://api.github.com/graphql',
@@ -86,22 +87,27 @@ export default class BlogController extends React.Component {
       )
     }
     return (
-      <BlogView>
-        <brand-nav-link href="/" />
-        <home-nav-link href="/" />
-        <about-nav-link href="/about" />
-        <contact-nav-link href="/contact" />
-        <post-image
-            src={`${IMGURL}${featuredImage}`}
-            alt="Blog post"
-            style={{objectFit:"cover"}} />
-        />
-        <post-title>{title}</post-title>
-        <post-date>{makeDateIntoString(date)}</post-date>
-        <post-category>{category}</post-category>
-        <post-body><ReactMarkdown source={content} /> </post-body>
-        <back-to-home-nav-link href="/" />
-      </BlogView>
+      <div>
+        <Helmet>
+          <title>Blog | Jeffrey Yu</title>
+        </Helmet>
+        <BlogView>
+          <brand-nav-link href="/" />
+          <home-nav-link href="/" />
+          <about-nav-link href="/about" />
+          <contact-nav-link href="/contact" />
+          <post-image
+              src={`${IMGURL}${featuredImage}`}
+              alt="Blog post"
+              style={{objectFit:"cover"}} />
+          />
+          <post-title>{title}</post-title>
+          <post-date>{makeDateIntoString(date)}</post-date>
+          <post-category>{category}</post-category>
+          <post-body><ReactMarkdown source={content} /> </post-body>
+          <back-to-home-nav-link href="/" />
+        </BlogView>
+      </div>
     )
   }
 }

@@ -9,9 +9,13 @@ import IndexController from './controllers/IndexController';
 import AboutController from './controllers/AboutController';
 import ContactController from './controllers/ContactController';
 import BlogController from './controllers/BlogController';
+import { Helmet } from 'react-helmet'
 
 ReactDOM.render(
   <BrowserRouter>
+    <Helmet>
+      <title>Jeffrey Yu</title>
+    </Helmet>
     <Switch>
       <Route exact path="/" component={IndexController} />
       <Route exact path="/contact" component={ContactController} />
