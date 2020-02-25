@@ -35,7 +35,7 @@ class BlogView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) ${
+          with (this) {
             eval(arguments[0])
           }
         `).call(window, script)

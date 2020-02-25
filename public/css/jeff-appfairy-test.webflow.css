@@ -739,6 +739,10 @@
   .af-view .af-class-blog-page-image {
     height: 240px;
   }
+  .af-view .af-class-dropdown {
+    width: 100%;
+    text-align: right;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -794,6 +798,26 @@
   }
   .af-view .af-class-post-content-2 {
     padding: 20px;
+  }
+  .af-view .af-class-dropdown-toggle {
+    left: 0px;
+    right: 0px;
+    width: auto;
+    margin-left: 0px;
+    text-align: left;
+  }
+  .af-view .af-class-dropdown {
+    width: 100%;
+    text-align: right;
+  }
+  .af-view .af-class-dropdown-link {
+    text-align: center;
+  }
+  .af-view .af-class-dropdown-link-2 {
+    text-align: center;
+  }
+  .af-view .af-class-dropdown-link-3 {
+    text-align: center;
   }
 }
 

@@ -36,7 +36,7 @@ class IndexView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) ${
+          with (this) {
             eval(arguments[0])
           }
         `).call(window, script)
@@ -83,6 +83,13 @@ class IndexView extends React.Component {
                   <div className="w-icon-nav-menu" />
                 </div>
               </div>
+            </div>
+            <div data-delay={0} className="af-class-dropdown w-dropdown">
+              <div className="af-class-dropdown-toggle w-dropdown-toggle">
+                <div className="w-icon-dropdown-toggle" />
+                <div>Dropdown</div>
+              </div>
+              <nav className="w-dropdown-list"><a href="#" className="af-class-dropdown-link w-dropdown-link">Link 1</a><a href="#" className="af-class-dropdown-link-2 w-dropdown-link">Link 2</a><a href="#" className="af-class-dropdown-link-3 w-dropdown-link">Link 3</a></nav>
             </div>
             <div className="af-class-content-wrapper">
               <div className="w-container">
