@@ -4,6 +4,7 @@ import React from 'react'
 import { createScope, map, transformProxies } from './helpers'
 import SidebarView from './SidebarView'
 import PostsListView from './PostsListView'
+import SidebarView from './SidebarView'
 
 const scripts = [
   fetch("https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js").then(body => body.text()),
@@ -37,7 +38,7 @@ class IndexView extends React.Component {
     scripts.concat(Promise.resolve()).reduce((loaded, loading) => {
       return loaded.then((script) => {
         new Function(`
-          with (this) ${
+          with (this) {
             eval(arguments[0])
           }
         `).call(window, script)
@@ -71,14 +72,6 @@ class IndexView extends React.Component {
                 </React.Fragment>}</a>)}
                 <nav role="navigation" className="af-class-navigation-menu w-nav-menu">{map(proxies['home-nav-link'], props => <a href="index.html" {...{...props, className: `af-class-navigation-link w-nav-link w--current ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Home</React.Fragment>}</a>)}{map(proxies['about-nav-link'], props => <a href="about.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>About</React.Fragment>}</a>)}{map(proxies['contact-nav-link'], props => <a href="contact.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Contact</React.Fragment>}</a>)}</nav>
                 <div className="af-class-menu-button w-nav-button">
-                  <div className="w-icon-nav-menu" />
-                </div>
-              </div>
-            </div>
-            <div data-collapse="medium" data-animation="default" data-duration={400} className="w-nav">
-              <div className="w-container"><a href="#" className="w-nav-brand" />
-                <nav role="navigation" className="w-nav-menu"><a href="#" className="w-nav-link">Home</a><a href="#" className="w-nav-link">About</a><a href="#" className="w-nav-link">Contact</a></nav>
-                <div className="w-nav-button">
                   <div className="w-icon-nav-menu" />
                 </div>
               </div>
