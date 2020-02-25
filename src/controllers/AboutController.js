@@ -8,11 +8,6 @@ export default (props) => (
       <title>About | Jeffrey Yu</title>
     </Helmet>
     <AboutView>
-      <brand-nav-link href="/" />
-      <home-nav-link href="/" />
-      <about-nav-link href="/about" />
-      <contact-nav-link href="/contact" />
-      <get-in-touch-nav-link href="/contact" />
     </AboutView>
   </div>
 )
