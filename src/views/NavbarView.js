@@ -51,6 +51,7 @@ class NavbarView extends React.Component {
       'home-nav-link': [],
       'about-nav-link': [],
       'contact-nav-link': [],
+      'nav-overlay': [],
     }
 
     return (
@@ -67,9 +68,10 @@ class NavbarView extends React.Component {
                 <div className="af-class-site-name">Jeffrey Yu</div>
               </React.Fragment>}</a>)}
               {map(proxies['nav-menu'], props => <nav role="navigation" {...{...props, className: `af-class-navigation-menu w-nav-menu ${props.className || ''}`}}>{createScope(props.children, proxies => <React.Fragment>{map(proxies['home-nav-link'], props => <a href="index.html" {...{...props, className: `af-class-navigation-link w-nav-link w--current ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Home</React.Fragment>}</a>)}{map(proxies['about-nav-link'], props => <a href="about.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>About</React.Fragment>}</a>)}{map(proxies['contact-nav-link'], props => <a href="contact.html" {...{...props, className: `af-class-navigation-link w-nav-link ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Contact</React.Fragment>}</a>)}</React.Fragment>)}</nav>)}
-            </div>
-            <div className="af-class-menu-button w-nav-button">
-              <div className="w-icon-nav-menu" />
+              <div className="af-class-menu-button w-nav-button">
+                <div className="w-icon-nav-menu" />
+              </div>
+              {map(proxies['nav-overlay'], props => <div {...{...props, className: `af-class-navigationoverlay ${props.className || ''}`}}>{props.children}</div>)}
             </div>
           </div>
         </span>
