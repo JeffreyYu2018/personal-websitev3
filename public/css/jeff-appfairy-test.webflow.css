@@ -789,6 +789,9 @@
     margin-top: 20px;
     padding: 34px;
   }
+  .af-view .af-class-content-column {
+    display: block;
+  }
   .af-view .af-class-blog-page-image {
     height: 220px;
   }
@@ -835,6 +838,9 @@
   }
   .af-view .af-class-white-wrapper {
     padding: 20px;
+  }
+  .af-view .af-class-content-column {
+    display: block;
   }
   .af-view .af-class-blog-page-image {
     height: 210px;

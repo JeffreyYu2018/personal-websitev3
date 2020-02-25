@@ -789,6 +789,9 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
     margin-top: 20px;
     padding: 34px;
   }
+  .content-column {
+    display: block;
+  }
   .blog-page-image {
     height: 220px;
   }
@@ -835,6 +838,9 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   }
   .white-wrapper {
     padding: 20px;
+  }
+  .content-column {
+    display: block;
   }
   .blog-page-image {
     height: 210px;

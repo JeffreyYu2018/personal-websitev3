@@ -16,7 +16,7 @@ export default (props) => (
     />
     <sidebar-facebook src="/images/social-03.svg" />
     <sidebar-instagram src="/images/social-07.svg" />
-    <sidebar-github src="/images/github.svg" />
+    <sidebar-github src="/images/social-33.svg" />
     <sidebar-linkedin src="/images/social-09.svg" />
   </SidebarView>
 )
