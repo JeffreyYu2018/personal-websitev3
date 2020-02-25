@@ -1,5 +1,6 @@
 ---
 title: I LOVE BANANAS
+category: Travel
 date: 2020-02-19T21:40:02.752Z
 image: Headshot.jpeg
 comments: true
