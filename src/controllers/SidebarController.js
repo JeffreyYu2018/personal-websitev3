@@ -5,7 +5,7 @@ export default (props) => (
   <SidebarView>
     <sidebar-profile-pic
       src="/images/LinkedIn-Photo-Square.jpg"
-      srcset={`/images/LinkedIn-Photo-Square-p-500.jpeg 500w,
+      srcSet={`/images/LinkedIn-Photo-Square-p-500.jpeg 500w,
               /images/LinkedIn-Photo-Square-p-800.jpeg 800w,
               /images/LinkedIn-Photo-Square-p-1080.jpeg 1080w,
               /images/LinkedIn-Photo-Square-p-1600.jpeg 1600w,
