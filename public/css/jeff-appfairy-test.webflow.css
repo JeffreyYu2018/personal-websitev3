@@ -382,6 +382,10 @@
   opacity: 0.8;
 }
 
+.af-view .af-class-body-copy {
+  text-align: left;
+}
+
 .af-view .af-class-body-copy img {
   border-radius: 3px;
 }

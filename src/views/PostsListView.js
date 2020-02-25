@@ -51,6 +51,7 @@ class PostsListView extends React.Component {
       'post-title-link': [],
       'post-title': [],
       'post-date': [],
+      'post-category': [],
       'post-summary': [],
     }
 
@@ -69,8 +70,10 @@ class PostsListView extends React.Component {
                 {map(proxies['post-title-link'], props => <a href="#" {...{...props, className: `af-class-blog-title-link w-inline-block ${props.className || ''}`}}>{createScope(props.children, proxies => <React.Fragment>
                   {map(proxies['post-title'], props => <div {...{...props, className: `af-class-text-block ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Post Title Here</React.Fragment>}</div>)}
                 </React.Fragment>)}</a>)}
-                <div className="af-class-details-wrapper">
-                  {map(proxies['post-date'], props => <div {...{...props, className: `af-class-post-date ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Post Date here</React.Fragment>}</div>)}
+                <div className="af-class-details-wrapper-2">
+                  {map(proxies['post-date'], props => <div {...{...props, className: `af-class-post-info ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Post date</React.Fragment>}</div>)}
+                  <div className="af-class-post-info">|</div>
+                  {map(proxies['post-category'], props => <div {...{...props, className: `af-class-post-info ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Category</React.Fragment>}</div>)}
                 </div>
                 <div className="af-class-post-summary-wrapper">
                   {map(proxies['post-summary'], props => <div {...{...props, className: `af-class-post-summary ${props.className || ''}`}}>{props.children ? props.children : <React.Fragment>Post Content Here</React.Fragment>}</div>)}
