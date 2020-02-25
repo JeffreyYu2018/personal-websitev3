@@ -2,7 +2,7 @@
 title: I LOVE BANANAS
 category: Travel
 date: 2020-02-19T21:40:02.752Z
-featured-image: /images/LinkedIn-Photo-Square-p-1080.jpeg
+featuredImage: /images/LinkedIn-Photo-Square-p-1080.jpeg
 comments: true
 ---
 Hello World! <normal>
