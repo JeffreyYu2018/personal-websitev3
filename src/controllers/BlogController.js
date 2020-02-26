@@ -10,6 +10,8 @@ import matter from 'gray-matter'
 import { makeDateIntoString } from './PostsListController'
 import { Helmet } from 'react-helmet' // for document title
 
+import commentBox from 'commentbox.io'; // third party software that handles comments
+
 // Note: the reason why the Sidebar components are pasted are because
 // I custom designed it, so for some reason, it's different from the other controllers
 
@@ -47,8 +49,13 @@ export default class BlogController extends React.Component {
   };
 
   componentDidMount() {
+    this.removeCommentBox = commentBox('5658932726988800-proj');
     const { match: { params } } = this.props;
     this.onFetchFromGitHub(params.post_id);
+  }
+
+  componentWillUnmount() {
+    this.removeCommentBox();
   }
 
   onFetchFromGitHub = post_id => {
@@ -56,7 +63,6 @@ export default class BlogController extends React.Component {
       .post('', { query: GET_BLOG(post_id) })
       .then(result => {
         let markdown = matter(result.data.data.repository.object.text)
-        console.log(markdown.data)
         let { title, category, date, featuredImage } = markdown.data
         this.setState(() => ({
           title,
@@ -121,6 +127,7 @@ export default class BlogController extends React.Component {
           <post-body><ReactMarkdown source={content} /> </post-body>
           <back-to-home-nav-link href="/" />
         </BlogView>
+        <div className="commentbox" />
       </div>
     )
   }
