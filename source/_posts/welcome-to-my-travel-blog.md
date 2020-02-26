@@ -11,7 +11,9 @@ My name is Jeffrey, and at the time of this post, I'm currently a sophomore at Y
 
 ### Japan, China, Taiwan ... oh my!
 
-I was lucky this fall to have been selected as a Light Fellow for the 2020 spring semester, so my first set of travel blogs will chronicle my trip to Eastern Asia to study Mandarin. My initial plans were to complete my studies at Associated Colleges in China located in Beijing. However, the outbreak of the coronavirus (COVID-19) during my time away from Yale has caused a **huge** change in plans, so now I'll (hopefully) be studying at the International Chinese Language Program in Taipei. In case you're wondering what happened abroad, it's a long story, which I'll explain in my next blog post.
+![Asakusa Temple in Tokyo at night](/images/asakusa_temple_night.jpg "Asakusa Temple")
+
+I've been lucky to travel to multiple countries already, most recently Japan and China. I was **also** really lucky this fall to have been selected as a Light Fellow for the 2020 spring semester, so my first set of travel blogs will chronicle my trip to Eastern Asia to study Mandarin. My initial plans were to complete my studies at Associated Colleges in China located in Beijing. However, the outbreak of the coronavirus (COVID-19) during my time away from Yale has caused a **huge** change in plans, so now I'll (hopefully) be studying at the International Chinese Language Program in Taipei. In case you're wondering what happened abroad, it's a long story, which I'll explain in my next blog post.
 
 Whew. Now that I've gotten all the technicalities out of the way ... let's get blogging!
 
