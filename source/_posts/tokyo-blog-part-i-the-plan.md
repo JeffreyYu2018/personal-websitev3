@@ -29,7 +29,7 @@ However, like many other towns along the “Rust Belt,” history was not too ki
 
 ![Washington Ave in Endicott, NY](/images/washington_ave_endicott.jpg)
 
-> ##### *Washington Avenue in Endicott, NY, the once-proud center of commerce in my hometown.*
+> ###### *Washington Avenue in Endicott, NY, the once-proud center of commerce in my hometown.*
 
 With the departure of jobs came another effect – the departure of young, talented people from Endicott to support the economy. This “brain drain” had effects throughout my time in the public school system. People couldn’t wait to get out of “Empty”cott, people had to travel to other towns to attend cool “young people” events like J. Cole concerts or festivals. Long story short: there’s nothing really to do in my hometown for people like me.
 
@@ -41,7 +41,7 @@ With the departure of jobs came another effect – the departure of young, talen
 
 ![Ellie Faye Fu, my niece](/images/ellie.jpg)
 
-> ##### *If my niece Ellie doesn't make your heart melt I don't know what will.*
+> ###### *If my niece Ellie doesn't make your heart melt I don't know what will.*
 
 However, winter break wouldn’t be something I could just organize with one trip. Not only was it longer than fall break and winter break combined, but I had already exhausted some of my options – going to Boston, coming back home. Luckily, the heavens opened and I discovered a pilot program that was perfect for what I was looking for: Liberal Arts HUT, hosted by HLAB.
 
@@ -53,7 +53,7 @@ HLAB is a nonprofit educational group dedicated to promoting the liberal arts in
 
 ![Tokushima-Mugi region of HLAB Summer School 2020](/images/tokushima_hlab_pic.jpg)
 
-> ##### *See if you can find me in this picture of my regional group in Tokushima-Mugi.*
+> ###### *See if you can find me in this picture of my regional group in Tokushima-Mugi.*
 
 I did HLAB last summer, and **it was one of the most life-changing experiences of my life.**I literally could not recommend doing it enough to all my friends. As a result, when I heard that they had a new pilot program over winter break, I jumped on it immediately. Not only was this program another chance to go back to Japan and teach, but it was also **completely financially covered.**Yes, flight, housing, even wifi! I applied to Liberal Arts HUT and was lucky to be accepted. It was essentially a one-week demo version of the two week summer school, so it was easy to prepare for.
 
