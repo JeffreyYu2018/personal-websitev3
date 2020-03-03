@@ -19,7 +19,7 @@ That's enough thinking for now. Let's flashback to the actual point of this blog
 
 > ###### *Asakusa Temple at night during New Year's. I'm pretty sure I wouldn't have found anyone else crazy enough to stand in line for **four** hours to ring in the New Year. Perks of self-exploration I guess!*
 
-## Self-Exploration
+## The Plan: Tokyo edition
 
 One of my favorite things to do while traveling is to explore the area with some local friends, and my trip to Tokyo would be different. Even though I'd been good friends with some people before, I was still nervous. It's that nervousness you get before asking someone to hang out. I still remember spam-texting Airi, Risa, Jueri, Roy, etc. with the same questions racing through my head: *would they want to hang out? had our friendships died out in the months since I hadn't seen them? would I come across as a weirdo?* It seems silly when I write it down on paper, but in the moment it definitely shines through.
 
@@ -50,6 +50,34 @@ The place itself is really cool. There's a bunch of different exhibits, each wit
 It was pretty late at that point, but I wanted to get something to eat, so Airi brought us to a "Yuzu" ramen place near Nakemeguro station close to where I was staying. "Yuzu" stands for lemon, and apparently it's becoming the newest trendy type of ramen to hit Japan. I'm more of an traditionalist ramen pundit myself, but I definitely appreciated the experience.
 
 ![Yuzu (lemon) ramen.](/images/airi_yuzu_ramen.jpg)
+
+## Self-Exploration
+
+The next few days in Tokyo, December 30 to January 3, are considered peak New Year times. As a result, since most of my friends were out of the city spending time with their families, I took this time to get in most of the actual solo-travelling I had originally planned. Here are some highlights:
+
+![A table tennis shop in Shibuya](/images/table_tennis_shop.jpg)
+
+> ###### *I was wandering around Shibuya and I stumbled upon this neat table tennis shop. Apparently Victas is one of the most famous table tennis brands in Japan – they even sponsor top players like Koko Niwa, who's beaten other elite athletes like Ma Long! This shop is also apparently renowned for having a table tennis cafe with tables that you can play on with other diners.*
+
+![Zaku Zaku from Takeshita street in Harajuku](/images/zaku_zaku.jpg)
+
+> ###### *An interesting fried, salty cheese dog on a stick. Not the healthiest or proudest thing I've eaten, but it was alright.*
+
+![Barrels of sake at the Asakusa shrine](/images/asakusa_sake_barrels.jpg)
+
+> ###### *Barrels of sake at the Asakusa Temple shrine. If there's one con to self-exploration, it's that asking strangers to take your photo is a little weird and inconvenient.*
+
+![Sushi breakfast at Tsukiji Fish Market](/images/tsukiji_fish_market_breakfast.jpg)
+
+> ###### *A second "breakfast" of sushi at Tsukiji fish market around 8 am. The media isn't kidding when they say that the fish at the market is some of the freshest in the world ... even if it requires a 30-40 minute wait to eat it. To be honest, I was actually panicking halfway through the meal because I couldn't finish it in its delicious goodness and was too full, and I didn't want to send the wrong message to the sushi chef sitting in front of me. I've never regretting breakfast beforehand as much as I did in that moment.* 
+
+![Tsukiji fish market crowds](/images/tsukiji_fish_market_crowd.jpg)
+
+> ###### *The market's staggering amount of people, noise, and lack of space made it feel like a fish-themed rave from the 60s.*
+
+![The original Uniqlo in Ginza](/images/uniqlo_ginza.jpg)
+
+> ###### *THE OG Uniqlo located in the affluent Ginza neighborhood of Tokyo. 12 stories of pure, awesome and reasonably-priced Japanese clothing.*
 
 ## Ringing in the New Year, over 6000 miles from home
 
