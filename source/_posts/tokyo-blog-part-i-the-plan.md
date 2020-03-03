@@ -2,7 +2,7 @@
 title: 'Tokyo Blog Part I: The Plan'
 category: Travel
 date: 2020-03-03T01:42:47.441Z
-featuredImage: /images/hut_mentors.jpg
+featuredImage: /images/hut_team.jpg
 comments: true
 ---
 In this blog post I’ll cover my motivations for traveling to Tokyo. In my next post (part II) I’ll talk about the things I did during the trip itself.
