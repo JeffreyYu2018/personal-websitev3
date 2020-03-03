@@ -5,7 +5,7 @@ date: 2020-03-03T02:26:45.751Z
 featuredImage: /images/tokyo_skyline.jpg
 comments: true
 ---
-I was walking next to the Drunken Moon Lake at National Taiwan University, when I thought, *wow, what a scenic location to write a blog in.* I mean, just look at this:
+Upon I was walking next to the Drunken Moon Lake at National Taiwan University, when I thought, *wow, what a scenic location to write a blog in.* I mean, just look at this:
 
 ![Blogging next to NTU's Drunken Moon Lake](/images/drunken_moon_lake_blogging.jpg)
 
@@ -81,4 +81,16 @@ The next few days in Tokyo, December 30 to January 3, are considered peak New Ye
 
 ## Ringing in the New Year, over 6000 miles from home
 
-Coming soon!
+I came to realize after a few days of self-exploration in a foreign land, I would start to feel lonely. It's only natural for humans to seek the comfort of other travelers to enjoy their experiences with. Even with my natural introversion, I could start feeling this itch to speak to someone with, an itch to share my pre-occupied thoughts that I'd been keeping to myself the entire day. At the same time, I didn't want to sit in a cafe talking all day, and I wanted to use as much time as possible to explore the city. Upon further research, I discovered a solution: *free walking tours of Tokyo by Tokyo Localized.* 
+
+![Tokyo Localized logo.](/images/tokyo_localized_logo.png)
+
+Now, these walking tours were not actually "free" upon further research. Their price structure is based on tipping the tour guides, allowing customers to get away with "free" walking tours. However, most people aren't a\*\*holes, so the reality was that almost everyone tipped, some way more than the base rate that a tour guide would normally get. In fact, I did the math, and it turns out that if everyone in the group tipped the minimum recommended amount ($20 USD for two hours), my 12-person group would have collectively given him $240, which amounts to $120 an hour! Not shabby at all for a couple hours' work.
+
+My first walking tour took me to Asakusa, one of the biggest tourist locations in the entire city. Asakusa is famous because of its shrine and also because of Nakamise shopping street. I'm really glad that I had a local discuss the nuance and meaning behind a lot of the cultural artifacts in the area, because they would have otherwise gone way over my head.
+
+![Asakusa Temple bell](/images/asakusa_temple_bell.jpg)
+
+> ###### *A bell at the entrance of the shrine to Asakusa Temple. Apparently ringing this bell on the way into the shrine brings upon good fortune to your family. I'm not really a believer in the supernatural but you can bet that I rang it. Every bit helps right?*
+
+\*temporarily stopped – to be continued!\*
