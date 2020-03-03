@@ -112,9 +112,15 @@ class PostsListController extends React.Component {
       )
     };
 
+    const sortedPosts = posts.sort((a, b) => {
+      let first_post = matter(a.object.text)
+      let second_post = matter(b.object.text)
+      return second_post.data.date - first_post.data.date
+    })
+
     return (
       <div>
-        {[...posts].reverse().map((post, index) => {
+        {[...sortedPosts].map((post, index) => {
           let { data, content } = matter(post.object.text)
           let { title, category, date, featuredImage } = data
           return (
