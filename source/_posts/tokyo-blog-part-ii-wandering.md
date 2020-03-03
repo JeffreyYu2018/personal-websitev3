@@ -15,8 +15,18 @@ It's also a nice time to reflect on my time here in Taiwan here so far. It's onl
 
 That's enough thinking for now. Let's flashback to the actual point of this blog: talking about my trip to Tokyo, part II. I realized after writing my blog for part I that I really should divide part II into an additional two parts: one for my first week of self traveling in Tokyo and one for my experiences with HUT. As a result, I'll talk about my first week of self traveling in this post (part II), and in my next post, I'll talk about my experiences with HUT (part III).
 
+![Asakusa Temple at night](/images/asakusa_temple_night.jpg)
+
+> ###### *Asakusa Temple at night during New Year's. I'm pretty sure I wouldn't have found anyone else crazy enough to stand in line for **four** hours to ring in the New Year. Perks of self-exploration I guess!*
+
 ## Self-Exploration
 
 One of my favorite things to do while traveling is to explore the area with some local friends, and my trip to Tokyo would be different. Even though I'd been good friends with some people before, I was still nervous. It's that nervousness you get before asking someone to hang out. I still remember spam-texting Airi, Risa, Jueri, Roy, etc. with the same questions racing through my head: *would they want to hang out? had our friendships died out in the months since I hadn't seen them? would I come across as a weirdo?* It seems silly when I write it down on paper, but in the moment it definitely shines through.
 
-Anyway, my fears were unfounded, and my cheery *"guess who's coming to Tokyo????"* opening line seems to have averted any social disasters...
+Anyway, my fears were unfounded, and my cheery *"guess who's coming to Tokyo????"* opening line seems to have averted any social disasters. I managed to set up times to hangout with four of my friends from HLAB – Airi, Risa, Jueri, and Roy. Everyone else was on vacation with their family, not in Tokyo during the time I was there, or possessive of some other excuse to not see me. I found time to hang out with them during my first half of the trip to Tokyo.
+
+Now, let me set something straight. After buying into this whole "travel mindset" from HLAB last summer, I really started buying into this idea of "self travel." You know, the whole "self-exploration" mindset where you really discover yourself. I even subscribed to the subreddit "self-travel" to learn how to do this phenomenon correctly. My point is, I spent *a lot* of time planning out things to do while in Tokyo, so I'm gonna be covering a lot of content in this post. I'll summarize the good bits though.
+
+## Old Teams and New Teams: A Trip to a Teamlab
+
+I'm currently getting assaulted by mosquitos at this lake so I will finish this post later.
