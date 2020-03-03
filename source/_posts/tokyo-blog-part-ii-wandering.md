@@ -46,3 +46,11 @@ The place itself is really cool. There's a bunch of different exhibits, each wit
 ![Jeff bubble exhibit at teamLab](/images/jeff_teamlab_bubbles.jpg)
 
 > ###### *When you see a floating bubble, you touch it.*
+
+It was pretty late at that point, but I wanted to get something to eat, so Airi brought us to a "Yuzu" ramen place near Nakemeguro station close to where I was staying. "Yuzu" stands for lemon, and apparently it's becoming the newest trendy type of ramen to hit Japan. I'm more of an traditionalist ramen pundit myself, but I definitely appreciated the experience.
+
+![Yuzu (lemon) ramen.](/images/airi_yuzu_ramen.jpg)
+
+## Ringing in the New Year, over 6000 miles from home
+
+Coming soon!
