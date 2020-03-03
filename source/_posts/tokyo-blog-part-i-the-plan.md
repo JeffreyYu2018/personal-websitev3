@@ -19,11 +19,11 @@ I come from a small town in upstate New York named Endicott. While my parents we
 
 ![Spiedie Fest Balloons](/images/spiedie_fest_binghamton.jpg "Binghamton, NY's Spiedie Fest")
 
-> ##### *Binghamton, NY's annual Spedie Fest, arguably the largest event of the year of the year. It brings in almost 100,000 visitors to the area each year.*
+> ###### *Binghamton, NY's annual Spedie Fest, arguably the largest event of the year of the year. It brings in almost 100,000 visitors to the area each year.*
 
 ![Chicken Spiedie](/images/chicken_spiedie.jpeg)
 
-> ##### *A classic Binghamton spiedie consists of cubes of marinated chicken, lamb, or pork, served in a hotdog bun.* 
+> ###### *A classic Binghamton spiedie consists of cubes of marinated chicken, lamb, or pork, served in a hotdog bun.*
 
 However, like many other towns along the “Rust Belt,” history was not too kind to it. Manufacturing gradually left the town, with IBM changing its headquarters to Armonk, New York multiple decades ago. With their relocation came the departure of thousands of jobs in Endicott, and consequently, thousands of IBMers. The economy didn’t plunge, but rather, went into a slow but steady decline that continues to this day. Endicott is now just like one of hundreds of cities along the northeast Rust Belt – decaying and gradually fading away.
 
