@@ -27,13 +27,13 @@ However, like many other towns along the Rust Belt, history was not too kind to 
 
 > ###### *Washington Avenue in Endicott, NY, the once-proud downtown center of commerce.*
 
-With the departure of jobs came another effect – the departure of young, talented people from Endicott to support the economy. This “brain drain” had effects throughout my time in the public school system. People couldn’t wait to get out of “Empty”cott, people had to travel to other towns to attend cool “young people” events like J. Cole concerts or festivals. Long story short: there’s nothing really to do in my hometown for people like me.
+With the departure of jobs came another effect – the departure of young, talented people from the area to reinvigorate the economy. This brain drain reverberated throughout the public school system as I grew up. People couldn’t wait to get out of *Empty*cott and be anywhere else. There were no concerts, no activities, no cool things to do for young people. There was and is nothing to do in my hometown for people like me.
 
-*Disclaimer:* my county is *very well* aware of this problem and they’ve taken steps to combat it. Measures include an “I love Broome County” ad campaign, along with programs to highlight economic opportunities in the county. That being said, I’m sad to say that I can’t see Endicott ever getting back to its hometown.
+*Disclaimer:* my town government is *very well* aware of this problem and thankfully, they’ve taken steps to combat it, like a “Broome (my) county ... a good life” ad campaign. That being said, I’m sad to say that I can’t see Endicott ever getting back to the heyday my parents experienced.
 
-**What to Do Then?**
+## **What to Do Then?**
 
-*What am I going to do for winter break?* I already had fall break planned (5 days to catch up on work, what a dream) and Thanksgiving break planned (a trip to Boston to celebrate with my brother, his wife, and my \*kawaii\* niece) (yes, that word usage was intentional)
+History aside, back to my original question: *What am I going to do for winter break?* I already had fall break (5 days to catch up on work) and Thanksgiving break (a trip to Boston to celebrate the holiday with my brother, his wife, and my *kawaii* niece) planned. 
 
 ![Ellie Faye Fu, my niece](/images/ellie.jpg)
 
