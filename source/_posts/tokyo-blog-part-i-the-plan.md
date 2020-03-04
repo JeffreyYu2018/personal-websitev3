@@ -45,11 +45,11 @@ However, winter break wouldn’t be something I could just organize in a couple 
 
 **The Magic of HLAB**
 
-[HLAB ](https://teach.h-lab.co/why-hlab.html)is an educational nonprofit dedicated to promoting the liberal arts in Japan. They host events throughout the year but are best known for their two-week summer school, where they recruit university students from all over the world to teach self-created seminars to Japanese high school students. 
+[HLAB ](https://teach.h-lab.co/why-hlab.html)is an educational nonprofit dedicated to promoting the liberal arts in Japan. They host events throughout the year but are best known for their two-week summer school, where they recruit university students from all over the world to teach self-created seminars to Japanese high school students. The most impressive thing? **It's run almost entirely by college students, for college students.**
 
 ![Tokushima-Mugi region of HLAB Summer School 2020](/images/tokushima_hlab_pic.jpg)
 
-> ###### *See if you can find me in this picture of my regional group in Tokushima-Mugi.*
+> ###### *See if you can find me in this picture of the Tokushima-Mugi region!*
 
 I did HLAB last summer, and **it was one of the most life-changing experiences of my life.**I literally could not recommend doing it enough to all my friends. As a result, when I heard that they had a new pilot program over winter break, I jumped on it immediately. Not only was this program another chance to go back to Japan and teach, but it was also **completely financially covered.**Yes, flight, housing, even wifi! I applied to Liberal Arts HUT and was lucky to be accepted. It was essentially a one-week demo version of the two week summer school, so it was easy to prepare for.
 
