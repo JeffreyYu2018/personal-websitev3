@@ -15,7 +15,7 @@ I was walking next to the Drunken Moon Lake at National Taiwan University, when 
 
 It's also a nice time to reflect on my time here in Taiwan here so far. It's only been a day, and I feel like I've seen and experienced so much. Already I can feel my language-related insecurities popping up again. *Is my Mandarin good enough? Do I sound like an idiot?* It seems silly considering I've already been to a Chinese program before, but these thoughts still came up in my encounters throughout the day, whether it be when I talked to the store clerk to buy stuff from 7-Eleven, or even when I asked the person on the bench if I could sit next to her (*"wo ke yi zuo zai zhe bian ma?"*) Trust me, these are good experiences to have, as it means that I'm getting out of my comfort zone. After all, if you get out of your comfort zone enough, then you'll expand it. 
 
-That's enough reflection for now. Let's get back to the actual point of this blog: talking about my trip to Tokyo. I realized after writing my blog for part I that I really should divide part II into an additional two parts: one for my first week of self traveling in Tokyo and one for my experiences with Liberal Arts HUT. As a result, I'll talk about my week of self traveling in this post (part II), and about my experiences with HUT in part III.
+That's enough reflection for now. Let's get back to the actual point of this blog: talking about my trip to Tokyo. 
 
 ![Asakusa Temple at night](/images/asakusa_temple_night.jpg)
 
