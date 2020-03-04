@@ -17,11 +17,11 @@ I think something that gets overlooked while traveling is taking time to just st
 
 Since most stores were closed on New Years Day, I didn't really have an opportunity to go out and shop, so it was the perfect time to take a slow day and catch up on some work I had been neglecting. I slept in (a rare luxury while traveling), I bought souvenirs for my friends and family, and I worked on my HUT seminar.
 
-![A variety of different flavored Kit Kats at my local Don Quixote](blob:https://www.jeffreyyu.me/96d58290-2c9b-49f8-ae89-ebe3d9fa680a)
+![A variety of different flavored Kit Kats at my local Don Quixote](/images/kit_kats.jpg)
 
 > ###### *An entire section dedicated to wacky flavored Kit Kats at my local Don Quixote. I personally bought the purple yam, sake, and matcha (of course) flavored boxes!*
 
-![Rubber chickens at Don Quixote](/images/kit_kats.jpg)
+![Rubber chickens at Don Quixote](/images/rubber_chickens.jpg)
 
 > ###### *I was tempted to get one for the Davenport Pops Orchestra's next concert, but I decided against it. Sorry, Twoset Violin.*
 
