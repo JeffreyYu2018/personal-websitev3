@@ -17,7 +17,7 @@ I come from a small town in upstate New York called Endicott. While my parents w
 
 > ###### *Binghamton, NY's annual Spiedie Fest, the largest local event of the year. It brings in almost 100,000 visitors annually.*
 
-![Chicken Spiedie](/images/chicken_spiedie.jpeg)
+![Chicken Spiedie](/images/chicken_spiedie.jpg)
 
 > ###### *A classic Binghamton spiedie consists of cubes of marinated chicken, lamb, pork, or venison, served in a Italian hotdog bun.*
 
