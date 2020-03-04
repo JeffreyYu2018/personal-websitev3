@@ -13,33 +13,33 @@ comments: true
 
 After a full day exploring Asakusa until 3:00 am, the only thing on my mind was getting into my bed and sleeping in. I guess that's one of the perks of not planning ahead – you're totally free to take a day off to rest!
 
-I think something that gets overlooked while traveling is taking time to just stop and recover. When you look at social media you only see the highlights of people's trips – the beautiful views, the stunning historical sites. What you don't see are the miles of walking and travel to get those pictures. In the first three days I had been in Tokyo, I had walked over 11 miles – **each day.** My feet weren't even sore at that point – putting a little pressure on any part of my heel felt like someone was scraping a slab of concrete against it. Needless to say, the largest thing I wanted at that moment was just some time to myself, in my room, to give my battered feet a much deserved break.
+I think something that gets overlooked while traveling is taking time to just stop and recover. When you look at social media you only see the highlights of people's trips – the beautiful views, the stunning historical sites. What you don't see are the miles of walking and travel to get those pictures. In the first three days I had been in Tokyo, I had walked over 11 miles – **each day.** My feet weren't even sore at that point – putting a little pressure on any part of my heel felt like someone was scraping it with a slab of concrete. Needless to say, the largest thing I wanted at that moment was just some time to myself, in my room, to give my battered feet a much deserved break.
 
 Since most stores were closed on New Years Day, I didn't really have an opportunity to go out and shop, so it was the perfect time to take a slow day and catch up on some work I had been neglecting. I slept in (a rare luxury while traveling), I bought souvenirs for my friends and family, and I worked on my HUT seminar.
 
 ![A variety of different flavored Kit Kats at my local Don Quixote](/images/kit_kats.jpg)
 
-> ###### *An entire section dedicated to wacky flavored Kit Kats at my local Don Quixote. I personally bought the purple yam, sake, and matcha (of course) flavored boxes!*
+> ###### *An entire section dedicated to wacky flavored Kit Kats at my local Don Quixote. I personally bought the purple yam, sake, and matcha flavored boxes!*
 
 ![Rubber chickens at Don Quixote](/images/rubber_chickens.jpg)
 
-> ###### *I was tempted to get one for the Davenport Pops Orchestra's next concert, but I decided against it. Sorry, Twoset Violin.*
+> ###### *I was tempted to get one for the Davenport Pops Orchestra's next concert, but I decided against it. Sorry Twoset.*
 
 ![Special New -Jukusei Ramen](/images/shio_ramen.jpg)
 
-> ###### *This type of shio ramen, Special new -Jukusei Ramen, was so oishi (good) that I took a picture of the menu item on my phone so I would remember to order it next time I came to Japan.*
+> ###### *This type of shio ramen,Jukusei Ramen, was so oishi (delicious) that I took a picture of the menu item on my phone so I would be able to order the exact same thing next time I came to Japan.*
 
-Overall, it was a restful and relaxing day – exactly what the doctor ordered. No regrets.
+Overall, it was a restful and relaxing day, of which I have no regrets.
 
-## Odaiba: the best part of Tokyo and my favorite part of the trip
+## Odaiba: a sparkling gem in Tokyo
 
 *P.S. It was at this point that I realized that I should archive all of the things I did in an Instagram story. If you want another perspective of my trip to Tokyo, check out my Instagram linked in the sidebar!*
 
-The next thing to do on my agenda was to check out Odaiba, the hipster, entertainment-filled island in Tokyo bay. I had drafted a list of things to do beforehand, but the day of, I decided just to walk around to what looked neat. Little did I know that Odaiba would turn out to be the coolest place I would visit during my entire trip.
+The next thing to do on my agenda was to check out Odaiba, the hipster, entertainment-filled island in Tokyo Bay. I had drafted a list of things to do in the neighborhood beforehand, but the day of, I decided just to walk around and explore what looked neat. Little did I know that Odaiba would turn out to be the coolest place I would visit during my entire trip.
 
 ![Unko (poop) museum in DiverCity Mall, Tokyo](/images/unko_museum.jpg)
 
-> ###### *Unko (poop) musejm in DiverCity Mall, Tokyo. The only place to fetishize and make poop kawaii: Japan.*
+> ###### *Unko (poop) museum in DiverCity Mall. Props to Japan for doing what I didn't think was possible: making poop kawaii.*
 
 ![Life-sized Gundam statue in DiverCity Tokyo Plaza](/images/gundam_statue.jpg)
 
@@ -51,27 +51,27 @@ The next thing to do on my agenda was to check out Odaiba, the hipster, entertai
 
 ![View of Tokyo from the Odaiba observatory](/images/odaiba_observatory_view.jpg)
 
-> ###### *View of Tokyo from the Odaiba spherical observatory, perched on top of the Fuji TV building.*
+> ###### *A stunning view of Tokyo from the Odaiba spherical observatory perched on top of the Fuji TV building.*
 
 ![Life-like talking robot at the Miraikan modern technology museum](/images/mraikan_talking_robot.jpg)
 
-> ###### *Life-like talking robot at the Miraikan modern technology museum*
+> ###### *Life-like talking robot at the Miraikan modern technology museum. Black Mirror, I see you.*
 
 ![Spring-festival themed interior of the Oedo Onsen.](/images/oedo_onsen_interior.jpg)
 
-> ###### *Spring-festival themed interior of the Oedo Onsen. The building itself felt more like a theme park than a traditional onsen. There were food booths, massage parlors, even carnival games!*
+> ###### *Spring-festival-themed interior of the Oedo Onsen. The place felt more like a theme park than a traditional onsen. There were food booths, massage parlors, and even carnival games!*
 
 ![A cute little custard shop near my hostel.](/images/custard_shop_full.jpg)
 
-> ###### *A cute little custard shop next to the subway station near my hostel. I love these little specialty-themed stores.*
+> ###### *A cute little custard shop next to the subway station near my hostel. I love these quaint specialty stores.*
 
-Odaiba was easily one of my favorite places throughout the entire trip. There's surprisingly so much to do on the tiny island that it honestly could have even taken two days to explore everything. However, I didn't have that kind of time, so I wasn't able to visit Venus Fort or Palette Town. Those will definitely be the first things to do on my list when I come back this summer!\
+Odaiba was easily one of my favorite places to visit throughout the entire trip. There's surprisingly so much to do on the tiny island that I wasn't able to cover everything (like Venus Fort and Palette Town) despite having a full day. The things that I missed will definitely be the first things to do on my list when I come back!\
 \
-In summary: if you're going to Tokyo, put Odaiba on the top of your itinerary.
+In summary: if you're going to Tokyo, move Odaiba to the top of your itinerary.
 
 ## Sunshine at Ikebukuro's Sunshine City
 
-It was the last day of my time self-traveling around Tokyo, and I had two stops left on my schedule: Ikebukuro/the Sunshine City, and Shinjuku's infamous Red Light District. I decided that I would split my day into two parts: the first half would be in Ikebukuro by myself, self-exploring, and the second half would be another free walking tour in Shinjuku's infamous red light district. And for extra sketchiness, I decided to do the walking tour at night. But before immersing myself in the sins and darkness of human nature, I would explore something more innocent: the consumerist naivieté of the Sunshine City!
+It was the last day of my week self-traveling around Tokyo, and I had just two stops left on my schedule: Ikebukuro/the Sunshine City, and Shinjuku's infamous Red Light District. I decided that I would split my day into two parts: the first half would be in Ikebukuro by myself, self-exploring, and the second half would be another free walking tour in Shinjuku's infamous red light district. And for extra sketchiness, I decided to do the walking tour at night. But before immersing myself in the sins and darkness of human nature, I would explore something more innocent: the consumerist naivieté of the Sunshine City!
 
 ![A tennis court on the rooftop of a mall in Ikebukuro](/images/sunshine_city_rooftop_tennis_court.jpg)
 
