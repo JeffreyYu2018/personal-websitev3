@@ -33,23 +33,21 @@ Now, let me set something straight. After buying into this whole "travel changes
 
 ## teamLab Planets: an out-of-this-world experience?
 
-I moved locations so I'm not being assaulted by mosquitos as this lake anymore, so I've got some space to write about the first place I visited in Tokyo: teamLab. And yes, I am *very* proud of that pun.
+For those of you who don't know, teamLab is a **very famous** interactive art museum brand in Japan. It prides itself on being the only museum like it in the world, and rightfully so. There are similar types of places in the US, but Japan definitely takes the genre to the extreme (in a good way).
 
-For those of you who don't know, teamLab is a **very famous** interactive art museum. It prides itself on being the only museum like it in the world. And, after visiting, rightfully so. There are similar exhibitionist places in the US, but Japan definitely takes the lead on taking the genre to the extreme.
+The first person I decided to meet up with was Airi, who was an SA (Seminar Assistant) in my summer school region. SAs are responsible for supporting Camp Mentors (CMs) like me who created and taught seminars to the Japanese high schoolers. Even though she wasn't my SA in particular, (that punishment belonged to Roy, who I also visited) we had hung out during the program and become good friends, so I was thrilled to find out she had an evening to go to this legendary "teamLab" museum.
 
-The first person I decided to meet up with was Airi, who was one of the SA's (Seminar Assistants) in my program. SAs are responsible for supporting Camp Mentors (CMs) like me who created and taught the seminars to the Japanese high schoolers in English. Even though she wasn't my SA in particular, (my SA was Roy, who I also visited during my trip) we had hung out during the program and become good friends, so I was thrilled to find out she had an evening to go to this legendary museum I had kept hearing about.
-
-The place itself is really cool. There's a bunch of different exhibits, each with its own theme and unique factor. Without spoiling anything, there was foamy trampoline-esque walkways, waterfalls, floating bubbles, the type of crazy stuff you'd expect from a world-renowned museum.
+The place itself is really cool. There's a bunch of different exhibits, each with its own theme and unique factor. There were foamy trampoline-esque walkways, cascading waterfalls, floating blown-up bubbles ... the type of crazy stuff you'd expect from a world-renowned museum.
 
 ![Airi and I at teamLab](/images/jeff_airi_teamlab.jpg)
 
-> ###### *An exhibit filled with mirrors and strobing lights ... scary in the movies but photogenic in real life.*
+> ###### *Airi and I touching our reflections at teamLab*
 
-![Jeff bubble exhibit at teamLab](/images/jeff_teamlab_bubbles.jpg)
+![Jeff at teamLab bubble exhibit](/images/jeff_teamlab_bubbles.jpg)
 
 > ###### *When you see a floating bubble, you touch it.*
 
-It was pretty late at that point, but I wanted to get something to eat, so Airi brought us to a "Yuzu" ramen place near Nakemeguro station close to where I was staying. "Yuzu" stands for lemon, and apparently it's becoming the newest trendy type of ramen to hit Japan. I'm more of an traditionalist ramen pundit myself, but I definitely appreciated the experience.
+It was pretty late by the time we left the museum, but I wanted to get something to eat, so Airi brought us to a "yuzu" ramen shop close to where I was staying. "Yuzu" stands for lemon, and apparently it's the newest ramen trend to hit Japan. I'm more of a traditionalist ramen fan myself, but I definitely appreciated the experience.
 
 ![Yuzu (lemon) ramen.](/images/airi_yuzu_ramen.jpg)
 
