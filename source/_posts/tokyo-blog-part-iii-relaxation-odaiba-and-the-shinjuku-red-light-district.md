@@ -35,4 +35,6 @@ Overall, it was a restful and relaxing day – exactly what the doctor ordered. 
 
 ## Odaiba: the best part of Tokyo and my favorite part of the trip
 
+*P.S. It was at this point that I realized that I should archive all of the things I did in an Instagram story. If you want a more detailed, step-by-step* 
+
 Coming soon!
