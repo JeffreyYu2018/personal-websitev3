@@ -69,7 +69,7 @@ The next few days in Tokyo, December 30 to January 3, are considered peak New Ye
 
 ![Sushi breakfast at Tsukiji Fish Market](/images/tsukiji_fish_market_breakfast.jpg)
 
-> ###### *A second "breakfast" of sushi at Tsukiji fish market around 8 am. The media isn't kidding when they say that the fish at the market is some of the freshest in the world ... even if it requires a 30-40 minute wait to eat it. To be honest, I was actually panicking halfway through the meal because I couldn't finish it in its delicious goodness and was too full, and I didn't want to send the wrong message to the sushi chef sitting in front of me. I've never regretting breakfast beforehand as much as I did in that moment.* 
+> ###### *A second "breakfast" of sushi at Tsukiji fish market around 8 am. The media isn't kidding when they say that the fish at the market is some of the freshest in the world ... even if it requires a 30-40 minute wait to eat it. To be honest, I was actually panicking halfway through the meal because I couldn't finish it in its delicious goodness and was too full, and I didn't want to send the wrong message to the sushi chef sitting in front of me. I've never regretting breakfast beforehand as much as I did in that moment.*
 
 ![Tsukiji fish market crowds](/images/tsukiji_fish_market_crowd.jpg)
 
@@ -93,4 +93,24 @@ My first walking tour took me to Asakusa, one of the biggest tourist locations i
 
 > ###### *A bell at the entrance of the shrine to Asakusa Temple. Apparently ringing this bell on the way into the shrine brings upon good fortune to your family. I'm not really a believer in the supernatural but you can bet that I rang it. Every bit helps right?*
 
-\*temporarily stopped – to be continued!\*
+Asakusa was relatively far away from the hostel I was staying in (the House by HLAB – since I was an HLAB alumni, I got to stay in Tokyo for 6 nights for free!). Therefore, even though my tour ended in the mid-afternoon, I decided to just stay and explore the area for the next couple of hours. You see, it's a tradition in Japan for people to come to the temples throughout Tokyo and ring in the New Year. It's kind of similar to how Americans go to Times Square to watch the ball drop. In Japan, people go to the shrines and wait in huge lines so that they can toss a coin into the shrine and may a "new year" prayer. I wanted to experience this for myself at one of the largest shrines in the city in Asakusa, so I committed myself to exploring the area for a couple of hours.
+
+!["Best luck" fortune I got from Asakusa Temple Shrine](/images/asakusa_temple_fortune.jpg)
+
+> ###### *A fortune I got from the official booth at the Asakusa Temple shrine during my walking tour. Now, I don't usually believe in the supernatural, but my tour guide said that over fifty percent of the fortunes in the booth are bad fortunes, so I really believe that I got this fortune for a reason. 2020 was my year for self-development, so I'm thrilled the people above are looking out for me.*
+
+Now, at this point I still had that "itch" from earlier to explore with *someone* and meet travelers from all over the world. Luckily, my decision to do a walking tour paid off, as I really hit it off with two travelers from Switzerland, a medical school student named Sinthuri and a flight attendant and Mathangi. They were traveling as a pair, and we somehow got into an interesting discussion about our backgrounds and respective countries' cultural differences. Our conversations got so enrapturing to the point where we literally were talking over the tour guide, and she told us to shut up in the classic teacher "stop talking until we stop talking" way. Sorry m'am!
+
+![Tokyo Skytree, one of the tallest skyscrapers in the city.](/images/tokyo_skytree.jpg)
+
+> ###### *Tokyo Skytree, one of the tallest skyscrapers in the city.  Sinthuri, Mathangi and I went there after the walking tour, but the line was over 45 minutes long so we didn't go up.*
+
+Also, apparently I'm like really, *really* young to be traveling alone. I suppose I'm really lucky to have been able to travel at an early age, going to France and Britain by myself when I was 12 through a program called People to People, attending various summer camps in Ithaca, Maine, Pennsylvania ... Even still, when I tell people my age, I have yet to find someone who isn't surprised that I'm 19. I guess it's because I'm naturally bulkier and look older than my age, and also because people associate "19 years old" with people who are 10-19 years old, and associate "20 years old" with people who are 20-25 years old. Luckily it didn't really come up as an issue for Sinthuri and Mathangi, since they were still relatively young (early twenties). That being said, being surrounded by people my age my entire life in school has made me realize the skewed nature of the bubble of people I hang out with. There are a **lot** of people in the world who are ten, twenty years my senior and still relatively "young" to be traveling the world. It's made me appreciate more the type of environment that Yale fosters in artificially surrounding yourself with people with similar ages and interests. It's probably the only time in my life where I'll have this type of environment handed to me on a silver platter. So, thanks Yale.
+
+![Food stall near Asakusa Temple](/images/asakusa_temple_food_stall.jpg)
+
+> ###### *Wow, Japan really knows how to celebrate the New Year! There were food stalls of all shapes and sizes around the area, and some of them were selling downright wacky stuff that I wasn't used to. This stall was selling actual octopus – how cool is that??*
+
+After going around to Tokyo Skytree, walking around Asakusa, and eating dinner at a place we could agree on after two hours of searching (*shoutout to the waiter who understood my "mizzu kudasi" ("water please") in the restaurant),* I surprisingly felt tired. Not from walking, as that was obvious, but from being around other people. It made me realize that being on either extreme – extreme isolation for introverts or being around people all the time – isn't healthy for anyone. Even though I initially considered myself more on the introverted end of the spectrum, I feel like I've come to become more and more of an "ambivert," someone who does appreciate human contact once in a while. That being said, after 7 or so hours of talking to someone, I was ready for a break. 
+
+\[to be continued]
