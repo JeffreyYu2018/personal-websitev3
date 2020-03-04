@@ -1,5 +1,7 @@
 ---
-title: 'Tokyo Blog Part II: Wandering '
+title: >-
+  Tokyo Blog Part II: teamLab, wandering, and a much awaited New Years
+  celebration
 category: Travel
 date: 2020-03-03T02:26:45.751Z
 featuredImage: /images/tokyo_skyline.jpg
@@ -113,4 +115,24 @@ Also, apparently I'm like really, *really* young to be traveling alone. I suppos
 
 After going around to Tokyo Skytree, walking around Asakusa, and eating dinner at a place we could agree on after two hours of searching (*shoutout to the waiter who understood my "mizzu kudasi" ("water please") in the restaurant),* I surprisingly felt tired. Not from walking, as that was obvious, but from being around other people. It made me realize that being on either extreme – extreme isolation for introverts or being around people all the time – isn't healthy for anyone. Even though I initially considered myself more on the introverted end of the spectrum, I feel like I've come to become more and more of an "ambivert," someone who does appreciate human contact once in a while. That being said, after 7 or so hours of talking to someone, I was ready for a break. 
 
-\[to be continued]
+Sinthuri and Mathangi had to go back to their AirBnB to check in, plus I was feeling a little bit tired and wanted to see the area by myself, so we decided to split up around 7:30 pm. While it's awesome to have a companion to explore with while traveling, it really does distract your attention from absorbing and appreciating the sights around you. I got really caught up talking with them in place of listening to the tour guide, learning more about the local area, and really, really inspecting the things around me. I was ready to make the most of my time left in Asakusa.
+
+Unfortunately, by that point, most of the stores had already closed, so there wasn't much to explore. As a result, I decided to hunker down and wait in what I was expected to become a huge line to join the temple. I actually didn't even realize there was going to be a line until about 30 or 40 people had already lined up. 
+
+![People lining up to throw in coins and prayers to the Asakusa Shrine for the New Year](/images/asakusa_temple_crowds.jpg)
+
+> ###### *People lining up to throw in coins and prayers to the Asakusa Shrine for the New Year. I had gotten there early (8 pm ) so I was near the front of the line. You can't see it, but the line stretched on for about two or three miles behind me. It was absolutely insane.*
+
+I have to be completely honest. That wait was far from enjoyable. When you watch events like the ball drop in Times Square, you see the bright lights, the interviews, the overall festive nature. What you don't experience is the biting cold (it was 30 or 40 degrees Fahrenheit), the aching of your feet from standing for three and a half hours, the sleepiness from over 13 hours of walking around. It got to the point where I was falling asleep for five seconds at a time and squatting down to take some of the grinding sensation off of my heels. I can understand now why I never wanted to go to Times Square to see the ball drop and never will – the preparation is pure torture.
+
+![The police holding up signs directing the mob of people where to go after having their prayers.](/images/asakusa_temple_signs.jpg)
+
+> ###### *The police holding up signs directing the mob of people where to go after having their prayers. You go up the stairs, throw in your coins and pray, and then exit to the right.*
+
+That being said, I wanted to persevere and truly experience a Japanese New Year, so after four hours of grueling agony, the time finally arrived. There wasn't a countdown, there wasn't a blaring horn counting down the seconds to the new decade. No, the only indicator I had that the new year had arrived was the sudden rush of the people in front of me into the gates. I checked my phone, and sure enough, it was January 1, 2020, 12:00 am. I guess I'm so used to American celebrations that I wasn't prepared for what came next.
+
+After shuffling up the stairs I came to the platform with the shrine. What I saw was far from what I expected. Rather than a boisterous trumpeting of screams and shouts, I saw people flicking in five yen coins into the shrine, bowing their heads in silent prayer, and then heading out towards the right. Most of the noise actually came from the shuffling of people up the stairs and out of the shrine. I was amazed – it felt more like a silent procession than a raucous bacchanal. 
+
+Anyway, after tossing in my coins and making my own personal prayer, I headed out. All-in-all, my waiting turned out to about not even three minutes at the shrine. It definitely wasn't something that I would do again, but it was something that I appreciated doing. It really gave me insight into the importance of prayer and fortune for people in Japan and a newfound respect for their conviction. If people were willing to wait in hour-long lines just to have the opportunity to do this, it speaks volumes about how much it means to them.
+
+These were the thoughts that went through my head as I walked down the stairs from the shrine. At that point, a more pressing thought came into my mind: getting my butt home so I could pass out on my bed.
