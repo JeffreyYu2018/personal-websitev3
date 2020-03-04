@@ -4,7 +4,7 @@ title: >-
   celebration
 category: Travel
 date: 2020-03-03T02:26:45.751Z
-featuredImage: /images/tokyo_skyline.jpg
+featuredImage: /images/asakusa_temple_night.jpg
 comments: true
 ---
 Upon I was walking next to the Drunken Moon Lake at National Taiwan University, when I thought, *wow, what a scenic location to write a blog in.* I mean, just look at this:
