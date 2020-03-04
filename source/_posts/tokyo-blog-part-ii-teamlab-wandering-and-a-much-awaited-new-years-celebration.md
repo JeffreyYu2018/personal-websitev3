@@ -117,7 +117,7 @@ After visiting Tokyo Skytree, walking around Asakusa, and eating dinner somewher
 
 Sinthuri and Mathangi had to go back to their AirBnB to check in, plus I was feeling a bit tired and wanted to see the area by myself, so we decided to split up around 7:30 pm. While it's awesome to have a companion to explore with you while traveling, it really does distract your attention from absorbing and appreciating the sights around you. I got really caught up talking with them in place of listening to the tour guide, learning more about the local area, and really, really looking closer at the things around me. As a result, I was ready to make the most of my time left in Asakusa.
 
-Unfortunately, by that point, most of the stores had already closed, so there wasn't much to explore. As a result, I decided to hunker down and wait in what I was expected to become a huge line to join the temple. I actually didn't even realize there was going to be a line until about 30 or 40 people had already lined up. 
+Unfortunately, by that point, most of the stores had already closed, so there wasn't much left to explore. As a result, I decided to hunker down and wait in what I was expected to become a huge line to join the temple. (I actually didn't even realize there was going to be a line until about 30 or 40 people had already lined up)
 
 ![People lining up to throw in coins and prayers to the Asakusa Shrine for the New Year](/images/asakusa_temple_crowds.jpg)
 
