@@ -7,19 +7,19 @@ date: 2020-03-04T04:43:54.226Z
 featuredImage: /images/asakusa_temple_night.jpg
 comments: true
 ---
-I was walking next to the Drunken Moon Lake at National Taiwan University, when I thought, *wow, what a scenic location to write a blog in.* I mean, just look at this:
+I was walking next to the Drunken Moon Lake at National Taiwan University, when I thought, *wow, what a scenic location to blog at.* I mean, just look at this:
 
 ![Blogging next to NTU's Drunken Moon Lake](/images/drunken_moon_lake_blogging.jpg)
 
-> ###### *A drunken lake or a dreamy one?*
+> ###### *A drunken lake ... or a dreamy one?*
 
-It's also a nice time to reflect on my time here in Taiwan here so far. It's only been a day, and I feel like I've seen so much of the city. Yet, already I can feel my previous linguistic insecurities popping up again. *Is my Mandarin good enough? Do I sound silly?* It seems silly considering I've already been to ACC in Beijing, but it comes up in all my encounters throughout the day, whether it be buying stuff from 7-11 and talking to the store clerk, or literally asking the person sitting on the bench next to me if I could sit down. (*"wo ke yi zuo zai zhe bian ma?"*) Trust me, I'm glad to be experiencing this, as it means that I'm getting out of my comfort zone. It'll just take some time to get used to. After all, if you get out of your comfort zone enough, then the place that you go to will soon become your new, *expanded* comfort zone. Next steps then: playing at the tennis courts!
+It's also a nice time to reflect on my time here in Taiwan here so far. It's only been a day, and I feel like I've seen and experienced so much. Already I can feel my language-related insecurities popping up again. *Is my Mandarin good enough? Do I sound like an idiot?* It seems silly considering I've already been to a Chinese program before, but these thoughts still came up in my encounters throughout the day, whether it be when I talked to the store clerk to buy stuff from 7-Eleven, or even when I asked the person on the bench if I could sit next to her (*"wo ke yi zuo zai zhe bian ma?"*) Trust me, these are good experiences to have, as it means that I'm getting out of my comfort zone. After all, if you get out of your comfort zone enough, then you'll expand it. 
 
-That's enough thinking for now. Let's flashback to the actual point of this blog: talking about my trip to Tokyo, part II. I realized after writing my blog for part I that I really should divide part II into an additional two parts: one for my first week of self traveling in Tokyo and one for my experiences with HUT. As a result, I'll talk about my first week of self traveling in this post (part II), and in my next post, I'll talk about my experiences with HUT (part III).
+That's enough reflection for now. Let's get back to the actual point of this blog: talking about my trip to Tokyo. I realized after writing my blog for part I that I really should divide part II into an additional two parts: one for my first week of self traveling in Tokyo and one for my experiences with Liberal Arts HUT. As a result, I'll talk about my week of self traveling in this post (part II), and about my experiences with HUT in part III.
 
 ![Asakusa Temple at night](/images/asakusa_temple_night.jpg)
 
-> ###### *Asakusa Temple at night during New Year's. I'm pretty sure I wouldn't have found anyone else crazy enough to stand in line for **four** hours to ring in the New Year. Perks of self-exploration I guess!*
+> ###### *Asakusa Temple at night. I'm pretty sure I wouldn't have found anyone else crazy enough to stand in line in front of it for **four** hour to ring in the New Year. Perks of self-exploration!*
 
 ## The Plan: Tokyo edition
 
