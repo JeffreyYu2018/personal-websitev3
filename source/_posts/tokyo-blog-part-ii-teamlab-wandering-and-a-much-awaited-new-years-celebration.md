@@ -87,7 +87,7 @@ I came to realize that after a few days of self-exploration, I would start to fe
 
 Now, these walking tours were not actually "free" upon further research. Their price structure is based on tips for the tour guides, allowing customers to technically have "free" walking tours. However, most people aren't a\*\*holes, so the reality was that almost everyone tipped, some way more than the base rate that a tour guide would normally get. II did the math, and it turns out that if everyone in my tour group of 12 tipped the minimum recommended amount ($20 USD for two hours), my guide would have earned $240, which amounts to $120/hr! Not shabby at all.
 
-My first walking tour took me to Asakusa, one of the biggest tourist locations in the entire city. Asakusa is famous because of its shrine and also because of Nakamise shopping street. I'm really glad that I had a local discuss the nuance and meaning behind a lot of the cultural artifacts in the area, because they would have otherwise gone way over my head.
+My first walking tour took me to Asakusa, one of the busiest tourist spots in the city. Asakusa is famous not only because of its massive temple, but also because of the Nakamise shopping street that paves the way towards the shrine. I'm really glad that I had a local guide discuss the nuance and meaning behind the cultural artifacts in the area, because they would have otherwise slipped by my head.
 
 ![Asakusa Temple bell](/images/asakusa_temple_bell.jpg)
 
