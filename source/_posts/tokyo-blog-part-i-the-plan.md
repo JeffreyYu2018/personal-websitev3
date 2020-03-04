@@ -39,7 +39,7 @@ History aside, back to my original question: *What am I going to do for winter b
 
 > ###### *If my niece Ellie doesn't make your heart melt I don't know what will.*
 
-However, winter break wouldn’t be something I could just organize with one trip. Not only was it longer than fall break and winter break combined, but I had already exhausted some of my options – going to Boston, coming back home. Luckily, the heavens opened and I discovered a pilot program that was perfect for what I was looking for: Liberal Arts HUT, hosted by HLAB.
+However, winter break wouldn’t be something I could just organize in a couple minutes. Not only was it longer than fall break and Thanksgiving break combined, but I had already exhausted some of my options – going to Boston, coming back home, etc. Luckily, I discovered a pilot program that was exactly the type of activity I was looking for: Liberal Arts HUT, hosted by HLAB.
 
 ![HLAB logo](/images/hlab_logo.png)
 
