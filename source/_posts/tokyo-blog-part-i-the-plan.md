@@ -51,10 +51,10 @@ However, winter break wouldn’t be something I could just organize in a couple 
 
 > ###### *See if you can find me in this picture of the Tokushima-Mugi region!*
 
-I did HLAB last summer, and **it was one of the most life-changing experiences of my life.**I literally could not recommend doing it enough to all my friends. As a result, when I heard that they had a new pilot program over winter break, I jumped on it immediately. Not only was this program another chance to go back to Japan and teach, but it was also **completely financially covered.**Yes, flight, housing, even wifi! I applied to Liberal Arts HUT and was lucky to be accepted. It was essentially a one-week demo version of the two week summer school, so it was easy to prepare for.
+**Doing HLAB last summer was a life-changing experience.** I literally could not recommend doing it enough. As a result, when I heard that they had a new pilot program planned for over winter break, I jumped on the opportunity immediately. Not only was this program another chance to go back to Japan and teach, but it was also **completely financially covered.** Flight, housing, meals, even wifi! One application and acceptance later, I was off for Japan!
 
-**The Long-Awaited Plan**
+## **The Plan**
 
-HUT was only one work long, at the end of winter break (January 6 to January 13), so I didn’t have any other choices but to come home for the first part of winter break. However, I thought that since HUT was covering the flight to Japan, I may as well leave a week early and have some time to self-explore Tokyo. It would be way better than just sitting at home and doing nothing. As a result, after spending Christmas with my family in Boston, I departed from Boston Logan airport for my next stop: Tokyo, Narita airport.
+HUT was only one a single week long and took place at the very end of winter break (January 6 to January 13), so I didn’t have any other option but to come home for the first part of the break. Since HUT was covering the flight to Japan, I thought, hm, I may as well leave a week early and have some time to self-explore Tokyo. It would be way better than just sitting at home and doing nothing. As a result, after spending Christmas with my family in Boston, I departed from Boston Logan for the next spot in my journey: Tokyo.
 
 ![My luggage before I left for Tokyo](/images/luggage.jpg)
