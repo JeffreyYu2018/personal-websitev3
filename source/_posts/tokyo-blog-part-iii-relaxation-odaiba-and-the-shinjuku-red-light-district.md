@@ -1,6 +1,6 @@
 ---
 title: 'Tokyo Blog Part III: Relaxation, Odaiba, and the Shinjuku Red Light District'
-category: General
+category: Travel
 date: 2020-03-04T04:46:16.215Z
 featuredImage: /images/sunshine_observatory.jpg
 comments: true
