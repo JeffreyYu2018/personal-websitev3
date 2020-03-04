@@ -9,13 +9,13 @@ The fall of my sophomore year, I was confronted with a question that every colle
 
 My last resort? Going back home to upstate NY. Yes, really. It baffles me sometimes why other students love going back home. Now, don’t get me wrong. I love my parents, I think my Dad’s *pai gu* (Chinese-style pork short ribs) knocks the socks off of any Chinese food at Yale, etc etc. The *real* problem is that my hometown lacks things to do, and even more importantly, *people* to do things with.
 
-**A Brief History Lesson**
+## **The Once-Proud Hometown of IBM**
 
-I come from a small town in upstate New York named Endicott. While my parents were born and raised in Zhejiang Province, mainland China, I was born and raised in the middle of rural America. Endicott (as part of the Binghamton metropolitan area) actually has some interesting historical fact points – it was the birthplace of IBM, the birthplace of the carousel, and the birthplace of the chicken spedie sandwich. It was once a thriving center of commerce, with 10,000 IBMers bringing their skills and business to the city. This was the Endicott that my parents lived in when they first arrived.
+I come from a small town in upstate New York called Endicott. While my parents were born and raised in Zhejiang Province, mainland China, I was born and raised in rural America. Endicott (and the Binghamton metropolitan area in general) actually has a really interesting history – it was the birthplace of IBM, the birthplace of the carousel, *and* the birthplace of the chicken spiedie sandwich. It was once a thriving center of commerce, with 10,000 IBMers showering their skills, business, and talents upon the city. This was the Endicott that existed when my parents arrived.
 
 ![Spiedie Fest Balloons](/images/spiedie_fest_binghamton.jpg "Binghamton, NY's Spiedie Fest")
 
-> ###### *Binghamton, NY's annual Spedie Fest, arguably the largest event of the year of the year. It brings in almost 100,000 visitors to the area each year.*
+> ###### *Binghamton, NY's annual Spiedie Fest, the largest local event of the year. It brings in almost 100,000 visitors annually.*
 
 ![Chicken Spiedie](/images/chicken_spiedie.jpeg)
 
