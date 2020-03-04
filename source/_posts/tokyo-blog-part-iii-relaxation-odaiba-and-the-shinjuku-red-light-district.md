@@ -29,12 +29,48 @@ Since most stores were closed on New Years Day, I didn't really have an opportun
 
 ![Special New -Jukusei Ramen](/images/shio_ramen.jpg)
 
-> ###### *This type of shio ramen, Special new -Jukusei Ramen, was so oishi (good) that I took a picture of the menu item on my phone so I would remember to order it next time I came to Japan.* 
+> ###### *This type of shio ramen, Special new -Jukusei Ramen, was so oishi (good) that I took a picture of the menu item on my phone so I would remember to order it next time I came to Japan.*
 
 Overall, it was a restful and relaxing day – exactly what the doctor ordered. No regrets.
 
 ## Odaiba: the best part of Tokyo and my favorite part of the trip
 
 *P.S. It was at this point that I realized that I should archive all of the things I did in an Instagram story. If you want another perspective of my trip to Tokyo, check out my Instagram linked in the sidebar!*
+
+The next thing to do on my agenda was to check out Odaiba, the hipster, entertainment-filled island in Tokyo bay. I had drafted a list of things to do beforehand, but the day of, I decided just to walk around to what looked neat. Little did I know that Odaiba would turn out to be the coolest place I would visit during my entire trip.
+
+![Unko (poop) museum in DiverCity Mall, Tokyo](/images/unko_museum.jpg)
+
+> ###### *Unko (poop) musejm in DiverCity Mall, Tokyo. The only place to fetishize and make poop kawaii: Japan.*
+
+![Life-sized Gundam statue in DiverCity Tokyo Plaza](/images/gundam_statue.jpg)
+
+> ###### *Life-sized Gundam statue in DiverCity Tokyo Plaza. I never got into the franchise as a kid but I had heard of it before. The statue, for fans and non-fans alike, though, was pretty rad.*
+
+![Delicious tonkatsu ramen from the food plaza in the DiverCity Tokyo mall](/images/divercity_tokyo_ramen.jpg)
+
+> ###### *More delicious tonkatsu ramen from the food plaza inside the mall. I'm officially a sucker for pork belly.*
+
+![View of Tokyo from the Odaiba observatory](/images/odaiba_observatory_view.jpg)
+
+> ###### *View of Tokyo from the Odaiba spherical observatory, perched on top of the Fuji TV building.*
+
+![Life-like talking robot at the Miraikan modern technology museum](/images/mraikan_talking_robot.jpg)
+
+> ###### *Life-like talking robot at the Miraikan modern technology museum*
+
+![Spring-festival themed interior of the Oedo Onsen.](/images/oedo_onsen_interior.jpg)
+
+> ###### *Spring-festival themed interior of the Oedo Onsen. The building itself felt more like a theme park than a traditional onsen. There were food booths, massage parlors, even carnival games!*
+
+![A cute little custard shop near my hostel.](/images/custard_shop.jpg)
+
+> ###### *A cute little custard shop next to the subway station near my hostel. I love these little specialty-themed stores.*
+
+Odaiba was easily one of my favorite places throughout the entire trip. There's surprisingly so much to do on the tiny island that it honestly could have even taken two days to explore everything. However, I didn't have that kind of time, so I wasn't able to visit Venus Fort or Palette Town. Those will definitely be the first things to do on my list when I come back this summer! \
+\
+In summary: if you're going to Tokyo, put Odaiba on the top of your itinerary.
+
+## Sunshine and Red Lights: Ikebukuro, Sunshine City, and Shinjuku's Red Light District
 
 Coming soon!
