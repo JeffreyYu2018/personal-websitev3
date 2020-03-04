@@ -5,9 +5,9 @@ date: 2020-03-03T01:42:47.441Z
 featuredImage: /images/hut_team.jpg
 comments: true
 ---
-The fall of my sophomore year, I was confronted with a question that everyone faces at some point during their college years – **what in the world am I going to do over my breaks?** Being the type of person to plan everything down to the nitty-gritty, I’ve been working on embracing spontaneity. Still, old habits die hard, and this problem nagged at the back of my mind all semester. The scarcity of my time in college is something I’ve always kept in mind in making the best use of my time.
+The fall of my sophomore year, I was confronted with a question that every college student faces at some point – **what in the world am I going to do during my school breaks?** Being the type of person to plan everything down to the nitty-gritty, I’ve been working on embracing spontaneity. Still, old habits die hard, and this problem had nagged at the back of my mind all semester. I've always wanted to make the best use of my time in college because I know that it's limited.
 
-My last resort? Going back home in upstate NY. Yes really. It baffles me sometimes why other students love going back home. Now, don’t get me wrong. I love my parents, I think my Dad’s *pai gu* (Chinese-style pork short ribs) even knocks the socks off of any Chinese food Yale can produce. The *real* problem is that my hometown lacks things to do, and even more importantly, *people* to do them with.
+My last resort? Going back home to upstate NY. Yes, really. It baffles me sometimes why other students love going back home. Now, don’t get me wrong. I love my parents, I think my Dad’s *pai gu* (Chinese-style pork short ribs) knocks the socks off of any Chinese food at Yale, etc etc. The *real* problem is that my hometown lacks things to do, and even more importantly, *people* to do things with.
 
 **A Brief History Lesson**
 
