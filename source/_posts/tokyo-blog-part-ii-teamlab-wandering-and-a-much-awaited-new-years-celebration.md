@@ -53,33 +53,33 @@ It was pretty late by the time we left the museum, but I wanted to get something
 
 ## Self-Exploration
 
-The next few days in Tokyo, December 30 to January 3, are considered peak New Year times. As a result, since most of my friends were out of the city spending time with their families, I took this time to get in most of the actual solo-travelling I had originally planned. Here are some highlights:
+The next few days I spent in Tokyo, December 30 to January 3, were considered peak New Year times. As a result, since most of my friends were out of the capital and spending time with their families, I took the time to get in most of the solo travel I had initially planned. 
 
 ![A table tennis shop in Shibuya](/images/table_tennis_shop.jpg)
 
-> ###### *I was wandering around Shibuya and I stumbled upon this neat table tennis shop. Apparently Victas is one of the most famous table tennis brands in Japan – they even sponsor top players like Koko Niwa, who's beaten other elite athletes like Ma Long! This shop is also apparently renowned for having a table tennis cafe with tables that you can play on with other diners.*
+> ###### *A neat table tennis shop I stumbled upon in Shibuya. Apparently Victas is one of the most famous table tennis brands in Japan, sponsoring top players like Koko Niwa, who's beaten elite athletes like Ma Long! This shop is also apparently well known for having a "table tennis cafe" with tables that you can play on with other diners.*
 
-![Zaku Zaku from Takeshita street in Harajuku](/images/zaku_zaku.jpg)
+![A fried, salty cheese dog on a stick from Takeshita street in Harajuku](/images/zaku_zaku.jpg)
 
-> ###### *An interesting fried, salty cheese dog on a stick. Not the healthiest or proudest thing I've eaten, but it was alright.*
+> ###### *A fried, salty cheese dog on a stick from Takeshita street in Harajuku. Not the healthiest or proudest thing I've eaten, but it was alright.*
 
 ![Barrels of sake at the Asakusa shrine](/images/asakusa_sake_barrels.jpg)
 
-> ###### *Barrels of sake at the Asakusa Temple shrine. If there's one con to self-exploration, it's that asking strangers to take your photo is a little weird and inconvenient.*
+> ###### *Barrels of sake at the Asakusa Temple shrine. If there's one con to self-exploration, it's that asking strangers to take your photo is a little inconvenient, even if you can't see it from the photo.*
 
 ![Sushi breakfast at Tsukiji Fish Market](/images/tsukiji_fish_market_breakfast.jpg)
 
-> ###### *A second "breakfast" of sushi at Tsukiji fish market around 8 am. The media isn't kidding when they say that the fish at the market is some of the freshest in the world ... even if it requires a 30-40 minute wait to eat it. To be honest, I was actually panicking halfway through the meal because I couldn't finish it in its delicious goodness and was too full, and I didn't want to send the wrong message to the sushi chef sitting in front of me. I've never regretting breakfast beforehand as much as I did in that moment.*
+> ###### *My second "breakfast" of sushi at Tsukiji fish market around 8 am. The media isn't kidding when they say that the fish at the market is some of the freshest in the world ... even if it requires a 30-40 minute wait. To be honest, I was actually panicking halfway through the meal because I couldn't finish it and was too full, and I didn't want to send the wrong message to the sushi chef working in front of me. It was absolutely delicious, and I've never regretted eating breakfast beforehand as much as I did in that meal.*
 
 ![Tsukiji fish market crowds](/images/tsukiji_fish_market_crowd.jpg)
 
-> ###### *The market's staggering amount of people, noise, and lack of space made it feel like a fish-themed rave from the 60s.*
+> ###### *The staggering amount of people, noise, and smells in the market made it feel like a fish-themed rave from the 60s.*
 
 ![The original Uniqlo in Ginza](/images/uniqlo_ginza.jpg)
 
-> ###### *THE OG Uniqlo located in the affluent Ginza neighborhood of Tokyo. 12 stories of pure, awesome and reasonably-priced Japanese clothing.*
+> ###### *The OG Uniqlo located in the affluent Ginza neighborhood of Tokyo. 12 stories of fashionable, reasonably-priced Japanese clothing.*
 
-## Ringing in the New Year, over 6000 miles from home
+## Ringing in the New Year, 6000 miles from home
 
 I came to realize after a few days of self-exploration in a foreign land, I would start to feel lonely. It's only natural for humans to seek the comfort of other travelers to enjoy their experiences with. Even with my natural introversion, I could start feeling this itch to speak to someone with, an itch to share my pre-occupied thoughts that I'd been keeping to myself the entire day. At the same time, I didn't want to sit in a cafe talking all day, and I wanted to use as much time as possible to explore the city. Upon further research, I discovered a solution: *free walking tours of Tokyo by Tokyo Localized.* 
 
