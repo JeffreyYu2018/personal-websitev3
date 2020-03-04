@@ -73,7 +73,7 @@ In summary: if you're going to Tokyo, put Odaiba on the top of your itinerary.
 
 ## Sunshine at Ikebukuro's Sunshine City
 
-It was the last day of my time self-traveling around Tokyo, and I had two stops left on my schedule: Ikebukuro/the Sunshine City, and Shinjuku's infamous Red Light District.
+It was the last day of my time self-traveling around Tokyo, and I had two stops left on my schedule: Ikebukuro/the Sunshine City, and Shinjuku's infamous Red Light District. I decided that I would split my day into two parts: the first half would be in Ikebukuro by myself, self-exploring, and the second half would be another free walking tour in Shinjuku's infamous red light district. And for extra sketchiness, I decided to do the walking tour at night. But before immersing myself in the sins and darkness of human nature, I would explore something more innocent: the consumerist naivieté of the Sunshine City!
 
 ![A tennis court on the rooftop of a mall in Ikebukuro](blob:https://www.jeffreyyu.me/863556c8-d4e0-4f50-b41f-1211b1deea0a)
 
@@ -91,6 +91,42 @@ It was the last day of my time self-traveling around Tokyo, and I had two stops 
 
 > ###### *Apparently the mall I was in had a Pokemon Go Center. Ironically enough, no one was on their phones to take pictures of it, but rather, try to win the gym located at the store.*
 
-## Shinjuku: The Red Light District and ... Ramen Tour???
+![Shinjuku](/images/shinjuku.jpg)
 
-Coming soon!
+## The Dark Nature of the Red Light District ... and a surprise ramen tour???
+
+Shinjuku's a big place. Known for having the busiest subway station in the world, it's a major economic and cultural center of Tokyo. There's tons of lights, alleyways, and people, and its basically a navigator and planner's nightmare. As a result, it would only be natural that I wouldn't be able to find my walking tour rendezvous location and miss my walking tour at 5:30 pm. 
+
+I firmly believe that everything happens for a reason though, because as I was stumbling around looking for someone holding up the iconic Tokyo Localized sign, I mistook someone as the walking tour guide. In reality, he was a tour guide for an entirely different company, AirBnB, with an entirely different focus: ramen! I was intrigued, and in the light of the tour guide who I'm pretty sure didn't show up, I was able to spontaneously hop onto their tour. So I suppose that when life gives you lemons, make ... ramen?
+
+![The first bowl of ramen I had on the tour](/images/ramen_tour_ramen.jpg)
+
+> ###### *My first ever bowl of chicken ramen from what is apparently one of the best ramen locations in Tokyo.* 
+
+During the innocuous trip I happened to talk to a lovely family of three who were traveling in Tokyo today for their vacation. The father was nice, and as we were talking, we somehow stumbled upon our mutual interest in computer science. Upon further discussion, it turns out that the guy was a Stanford Masters of Computer Science student who was the CTO of Afterpay Touch, a multi-billionaire dollar company in Australia! **What????** Not only that, but he was once asked to be one of the founding members of Google itself. Needless to say, I played it off cool, but I was shook.
+
+*P.S. Yes, he totally ghosted me on LinkedIn.* ¯\\_(ツ)\_/¯
+
+I had to leave the ramen tour early since I had discovered that another free walking tour of Shinjuku's Red Light district would be happening at 8:30 pm, so I bid the group farewell and trekked off again by myself to the rendezvous point. To my surprise, I found the guide this time, and went on a really insightful tour of one of Shinjuku's most infamous neighborhoods: the Red Light district.
+
+![An alley in Shinjuku known as the "Pissing Alley"](/images/pissing_alley.jpg)
+
+> ###### *An alley in Shinjuku known as the "Pissing Alley." First poop, now piss ... I think I'm starting to sense a theme here.*
+
+![The main street of the red light district](/images/red_light_district.jpg)
+
+> ###### *The main street of the Red Light district. Even though its one of the centers of illegal activity in Japan, it felt surprisingly safe.*
+
+![A poster of one of Tokyo's top hosts](/images/red_light_district_host.jpg)
+
+> ###### *A poster of one of Tokyo's top hosts. They earn up to $2.5 million USD each year!!*
+
+It was a really insightful tour into one of the most thriving industries in Japan. My tour guide was hilarious, and it turned out to be another one of the major highlights of my trip.
+
+I think it's really important that us foreigners know to not judge these cultural phenomenons out of context, but rather, learn to be nonjudgemental of the cultural differences between the West and the East. After asking a lot of my Japanese friends for their thoughts about the host and hostess industry, I got the impression that, like for many controversial topics, opinions were mixed. While some viewed the industry as veiled prostitution, others viewed it as a non-sketchy business with mutual voluntary consent. It's a fascinating topic that I'm curious to learn more about in the future, as it really pointed out some of the natural biases I have as someone who was raised in the West. 
+
+That concludes my self travels. Next on the agenda: some meetups with some old friends of mine. But for now, some rest. See you tomorrow!
+
+![Custard shop near my hostel](/images/custard_shop_full.jpg)
+
+> ###### *One last late night snack.*
