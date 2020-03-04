@@ -45,7 +45,7 @@ However, winter break wouldn’t be something I could just organize in a couple 
 
 **The Magic of HLAB**
 
-HLAB is a nonprofit educational group dedicated to promoting the liberal arts in Japan. They host events throughout the year, but they’re best known for their two-week summer school, where they hire university students from all over the world to teach self-created seminars to Japanese high school students. That’s the gist of what they do, and you can find more information about them on their [official website.](https://teach.h-lab.co/why-hlab.html)
+[HLAB ](https://teach.h-lab.co/why-hlab.html)is an educational nonprofit dedicated to promoting the liberal arts in Japan. They host events throughout the year but are best known for their two-week summer school, where they recruit university students from all over the world to teach self-created seminars to Japanese high school students. 
 
 ![Tokushima-Mugi region of HLAB Summer School 2020](/images/tokushima_hlab_pic.jpg)
 
