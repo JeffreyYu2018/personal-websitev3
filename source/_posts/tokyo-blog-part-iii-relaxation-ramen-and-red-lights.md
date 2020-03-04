@@ -21,11 +21,11 @@ Since most stores were closed on New Years Day, I didn't really have an opportun
 
 > ###### *An entire section dedicated to wacky flavored Kit Kats at my local Don Quixote. I personally bought the purple yam, sake, and matcha (of course) flavored boxes!*
 
-![Rubber chickens at Don Quixote](blob:https://www.jeffreyyu.me/6f2a4e12-f6a5-4131-85a1-e07c6e6a83db)
+![Rubber chickens at Don Quixote](/images/kit_kats.jpg)
 
 > ###### *I was tempted to get one for the Davenport Pops Orchestra's next concert, but I decided against it. Sorry, Twoset Violin.*
 
-![Special New -Jukusei Ramen](blob:https://www.jeffreyyu.me/337a07a6-5956-49c7-9578-c953e1611bce)
+![Special New -Jukusei Ramen](/images/shio_ramen.jpg)
 
 > ###### *This type of shio ramen, Special new -Jukusei Ramen, was so oishi (good) that I took a picture of the menu item on my phone so I would remember to order it next time I came to Japan.*
 
@@ -37,31 +37,31 @@ Overall, it was a restful and relaxing day – exactly what the doctor ordered. 
 
 The next thing to do on my agenda was to check out Odaiba, the hipster, entertainment-filled island in Tokyo bay. I had drafted a list of things to do beforehand, but the day of, I decided just to walk around to what looked neat. Little did I know that Odaiba would turn out to be the coolest place I would visit during my entire trip.
 
-![Unko (poop) museum in DiverCity Mall, Tokyo](blob:https://www.jeffreyyu.me/ca2a6b91-0283-4c1f-bb82-20594be90982)
+![Unko (poop) museum in DiverCity Mall, Tokyo](/images/unko_museum.jpg)
 
 > ###### *Unko (poop) musejm in DiverCity Mall, Tokyo. The only place to fetishize and make poop kawaii: Japan.*
 
-![Life-sized Gundam statue in DiverCity Tokyo Plaza](blob:https://www.jeffreyyu.me/84141d46-4d2b-4265-a42f-d462d5f0ec5b)
+![Life-sized Gundam statue in DiverCity Tokyo Plaza](/images/gundam_statue.jpg)
 
 > ###### *Life-sized Gundam statue in DiverCity Tokyo Plaza. I never got into the franchise as a kid but I had heard of it before. The statue, for fans and non-fans alike, though, was pretty rad.*
 
-![Delicious tonkatsu ramen from the food plaza in the DiverCity Tokyo mall](blob:https://www.jeffreyyu.me/5db1f869-c031-4a4d-803b-3d97d7e9fb7e)
+![Delicious tonkatsu ramen from the food plaza in the DiverCity Tokyo mall](/images/divercity_tokyo_ramen.jpg)
 
 > ###### *More delicious tonkatsu ramen from the food plaza inside the mall. I'm officially a sucker for pork belly.*
 
-![View of Tokyo from the Odaiba observatory](blob:https://www.jeffreyyu.me/75e69966-83e3-4376-95b8-65b47b29bd0b)
+![View of Tokyo from the Odaiba observatory](/images/odaiba_observatory_view.jpg)
 
 > ###### *View of Tokyo from the Odaiba spherical observatory, perched on top of the Fuji TV building.*
 
-![Life-like talking robot at the Miraikan modern technology museum](blob:https://www.jeffreyyu.me/b7cf016d-793a-4590-a773-0d2d4b21aa3f)
+![Life-like talking robot at the Miraikan modern technology museum](/images/mraikan_talking_robot.jpg)
 
 > ###### *Life-like talking robot at the Miraikan modern technology museum*
 
-![Spring-festival themed interior of the Oedo Onsen.](blob:https://www.jeffreyyu.me/d066288e-3345-4ef4-9f14-0b4d56ec2153)
+![Spring-festival themed interior of the Oedo Onsen.](/images/oedo_onsen_interior.jpg)
 
 > ###### *Spring-festival themed interior of the Oedo Onsen. The building itself felt more like a theme park than a traditional onsen. There were food booths, massage parlors, even carnival games!*
 
-![A cute little custard shop near my hostel.](blob:https://www.jeffreyyu.me/f2856b81-3bb3-4b13-a4bd-c077937ee91d)
+![A cute little custard shop near my hostel.](/images/custard_shop_full.jpg)
 
 > ###### *A cute little custard shop next to the subway station near my hostel. I love these little specialty-themed stores.*
 
@@ -73,19 +73,19 @@ In summary: if you're going to Tokyo, put Odaiba on the top of your itinerary.
 
 It was the last day of my time self-traveling around Tokyo, and I had two stops left on my schedule: Ikebukuro/the Sunshine City, and Shinjuku's infamous Red Light District. I decided that I would split my day into two parts: the first half would be in Ikebukuro by myself, self-exploring, and the second half would be another free walking tour in Shinjuku's infamous red light district. And for extra sketchiness, I decided to do the walking tour at night. But before immersing myself in the sins and darkness of human nature, I would explore something more innocent: the consumerist naivieté of the Sunshine City!
 
-![A tennis court on the rooftop of a mall in Ikebukuro](blob:https://www.jeffreyyu.me/863556c8-d4e0-4f50-b41f-1211b1deea0a)
+![A tennis court on the rooftop of a mall in Ikebukuro](/images/sunshine_city_rooftop_tennis_court.jpg)
 
 > ###### *A tennis court I found on the rooftop of a mall in Ikebukuro. Unfortunately, I Google-Translated the thing that the receptionist told me and they said that they were closed :/ I'll be back to play on it – someday!*
 
-![Curry at Coco Curry House in the Sunshine City mall](blob:https://www.jeffreyyu.me/ea662ab8-734c-4810-9fcb-531c9359f13a)
+![Curry at Coco Curry House in the Sunshine City mall](/images/coco_curry.jpg)
 
 > ###### *Traditional Japanese curry at the Coco Curry House in the Sunshine City mall.*
 
-![Another view of Tokyo from the top of the Sunshine City Observatory](blob:https://www.jeffreyyu.me/b3a88d61-4bbb-4645-a637-7d6cb2e06a9f)
+![Another view of Tokyo from the top of the Sunshine City Observatory](/images/tokyo_view.jpg)
 
 > ###### *Another gorgeous view of Tokyo from the top of the Sunshine City Observatory. The fact that there was barely a cloud in the sky made it so much better.*
 
-![Pokemon Go Center in the middle of the mall](blob:https://www.jeffreyyu.me/419702d8-a083-4b1a-b8ff-954bb9725c97)
+![Pokemon Go Center in the middle of the mall](/images/pokemon_go_center.jpg)
 
 > ###### *Apparently the mall I was in had a Pokemon Go Center. Ironically enough, no one was on their phones to take pictures of it, but rather, try to win the gym located at the store.*
 
