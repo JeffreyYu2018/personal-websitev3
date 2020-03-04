@@ -71,6 +71,26 @@ Odaiba was easily one of my favorite places throughout the entire trip. There's 
 \
 In summary: if you're going to Tokyo, put Odaiba on the top of your itinerary.
 
-## Sunshine and Red Lights: Ikebukuro, Sunshine City, and Shinjuku's Red Light District
+## Sunshine at Ikebukuro's Sunshine City
+
+It was the last day of my time self-traveling around Tokyo, and I had two stops left on my schedule: Ikebukuro/the Sunshine City, and Shinjuku's infamous Red Light District.
+
+![A tennis court on the rooftop of a mall in Ikebukuro](/images/sunshine_city_rooftop_tennis_court.jpg)
+
+> ###### *A tennis court I found on the rooftop of a mall in Ikebukuro. Unfortunately, I Google-Translated the thing that the receptionist told me and they said that they were closed :/ I'll be back to play on it – someday!*
+
+![Curry at Coco Curry House in the Sunshine City mall](/images/coco_curry.jpg)
+
+> ###### *Traditional Japanese curry at the Coco Curry House in the Sunshine City mall.*
+
+![Another view of Tokyo from the top of the Sunshine City Observatory](/images/sunshine_observatory.jpg)
+
+> ###### *Another gorgeous view of Tokyo from the top of the Sunshine City Observatory. The fact that there was barely a cloud in the sky made it so much better.*
+
+![Pokemon Go Center in the middle of the mall](/images/pokemon_go_center.jpg)
+
+> ###### *Apparently the mall I was in had a Pokemon Go Center. Ironically enough, no one was on their phones to take pictures of it, but rather, try to win the gym located at the store.*
+
+## Shinjuku: The Red Light District and ... Ramen Tour???
 
 Coming soon!
