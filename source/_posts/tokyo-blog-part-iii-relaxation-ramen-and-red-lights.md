@@ -1,7 +1,7 @@
 ---
 title: 'Tokyo Blog Part III: Relaxation, ramen, and red lights'
 category: Travel
-date: 2020-03-04T05:57:47.672Z
+date: 2020-03-05T05:57:47.672Z
 featuredImage: /images/sunshine_observatory.jpg
 comments: true
 ---
