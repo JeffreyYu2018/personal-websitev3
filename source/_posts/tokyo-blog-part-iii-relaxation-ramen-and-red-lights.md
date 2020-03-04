@@ -5,19 +5,17 @@ date: 2020-03-05T05:57:47.672Z
 featuredImage: /images/sunshine_observatory.jpg
 comments: true
 ---
-In going from planning this blog, I've realized that there was a lot more content I wanted to cover than I expected, so I've decided to break my Tokyo trip down into even more parts: this part (III) will focus on the days following the New Years, part IV will focus on my hangouts with Risa, Jueri, and Roy, along with the end of my week of self-traveling, and part V will focus on my time teaching at Liberal Arts HUT.
-
-![My room in my hostel, the House by HLAB](blob:https://www.jeffreyyu.me/a1e14e51-e5d6-41cc-b525-058e73ec4ab6)
+![My cozy room in the hostel I was staying at, the House by HLAB](/images/house_by_hlab_room.jpg)
 
 > ###### *My cozy room in the hostel I was staying at, the House by HLAB.*
 
 ## Some much needed rest and relaxation
 
-After a filled day of exploring Asakusa until 3:00 am, the only thing on my mind was getting into my bed and sleeping in. I guess that's one of the perks of not planning ahead – you're totally free to just take a day to sleep and rest whenever you want!
+After a full day exploring Asakusa until 3:00 am, the only thing on my mind was getting into my bed and sleeping in. I guess that's one of the perks of not planning ahead – you're totally free to take a day off to rest!
 
-I think something that gets overlooked while traveling is taking time to just stop and rest. When you look at social media you only see the highlights of people's trips – the beautiful views, the stunning historical sites. What you don't see is the miles of walking to get those pictures. In the first three days I had been in Tokyo, I had walked over 11 miles – **each day.** My feet weren't even sore at that point – it was unpleasant to even put a little pressure on any part of my foot. Needless to say, the largest thing I wanted at that moment was just some time to myself, in my room, to give my aching feet a much deserved break.
+I think something that gets overlooked while traveling is taking time to just stop and recover. When you look at social media you only see the highlights of people's trips – the beautiful views, the stunning historical sites. What you don't see are the miles of walking and travel to get those pictures. In the first three days I had been in Tokyo, I had walked over 11 miles – **each day.** My feet weren't even sore at that point – putting a little pressure on any part of my heel felt like someone was scraping a slab of concrete against it. Needless to say, the largest thing I wanted at that moment was just some time to myself, in my room, to give my battered feet a much deserved break.
 
-Since most stores were closed on New Years Day, I didn't really have an opportunity to go out and shop, so it was the perfect time to take a slow day and catch up on some work I had been neglecting. I slept in (a rare luxury for travelers), I bought souvenirs for my friends and family at a Don Quixote, and I worked on my HUT seminar.
+Since most stores were closed on New Years Day, I didn't really have an opportunity to go out and shop, so it was the perfect time to take a slow day and catch up on some work I had been neglecting. I slept in (a rare luxury while traveling), I bought souvenirs for my friends and family, and I worked on my HUT seminar.
 
 ![A variety of different flavored Kit Kats at my local Don Quixote](blob:https://www.jeffreyyu.me/96d58290-2c9b-49f8-ae89-ebe3d9fa680a)
 
@@ -101,7 +99,7 @@ I firmly believe that everything happens for a reason though, because as I was s
 
 ![The first bowl of ramen I had on the tour](/images/ramen_tour_ramen.jpg)
 
-> ###### *My first ever bowl of chicken ramen from what is apparently one of the best ramen locations in Tokyo.* 
+> ###### *My first ever bowl of chicken ramen from what is apparently one of the best ramen locations in Tokyo.*
 
 During the innocuous trip I happened to talk to a lovely family of three who were traveling in Tokyo today for their vacation. The father was nice, and as we were talking, we somehow stumbled upon our mutual interest in computer science. Upon further discussion, it turns out that the guy was a Stanford Masters of Computer Science student who was the CTO of Afterpay Touch, a multi-billionaire dollar company in Australia! **What????** Not only that, but he was once asked to be one of the founding members of Google itself. Needless to say, I played it off cool, but I was shook.
 
