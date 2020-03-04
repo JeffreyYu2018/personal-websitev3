@@ -19,13 +19,13 @@ I come from a small town in upstate New York called Endicott. While my parents w
 
 ![Chicken Spiedie](/images/chicken_spiedie.jpeg)
 
-> ###### *A classic Binghamton spiedie consists of cubes of marinated chicken, lamb, or pork, served in a hotdog bun.*
+> ###### *A classic Binghamton spiedie consists of cubes of marinated chicken, lamb, pork, or venison, served in a Italian hotdog bun.*
 
-However, like many other towns along the “Rust Belt,” history was not too kind to it. Manufacturing gradually left the town, with IBM changing its headquarters to Armonk, New York multiple decades ago. With their relocation came the departure of thousands of jobs in Endicott, and consequently, thousands of IBMers. The economy didn’t plunge, but rather, went into a slow but steady decline that continues to this day. Endicott is now just like one of hundreds of cities along the northeast Rust Belt – decaying and gradually fading away.
+However, like many other towns along the Rust Belt, history was not too kind to Endicott. With the relocation of IBM's headquarters decades ago to Armonk, New York, manufacturing and jobs have gradually left and continued to leave the town. The departure of thousands of IBMers sent the local economy into a slow but ever-lasting decline, causing Endicott to just another decaying city along the Rust Belt.
 
 ![Washington Ave in Endicott, NY](/images/washington_ave_endicott.jpg)
 
-> ###### *Washington Avenue in Endicott, NY, the once-proud center of commerce in my hometown.*
+> ###### *Washington Avenue in Endicott, NY, the once-proud downtown center of commerce.*
 
 With the departure of jobs came another effect – the departure of young, talented people from Endicott to support the economy. This “brain drain” had effects throughout my time in the public school system. People couldn’t wait to get out of “Empty”cott, people had to travel to other towns to attend cool “young people” events like J. Cole concerts or festivals. Long story short: there’s nothing really to do in my hometown for people like me.
 
