@@ -11,6 +11,10 @@ With the time before HUT rapidly coming to a close, I was ready to end my last t
 
 The first person I hung out with after my solo travel hiatus was Jueri, another SA from the Tokushima-Mugi region. We deliberated for a long time on what to do. I personally am really interested in the unique things that you can only experience inside a host country. I can't understand, for example, why some people would travel thousands of miles to go to a place they already host in their home country. For instance, I think that Americans who fly over the ocean to Japan just to eat at McDonalds every other day are foolhardy. Why get a Big Mac in Tokyo when you can just one at home, instead of, say, a kaiseki meal set? 
 
+![McDonalds in Japan](/images/mcdonalds_japan.jpg)
+
+> ###### *If you're going to be sacrilegious and get something from McDonalds, at least get something unique like a rice burger.*
+
 Yes, I understand that some travelers get homesick and crave something they're familiar with. Yes, I understand that the food at McDonalds in Japan isn't necessarily the same as the food at McDonalds in the US. Even still, I personally could not entertain the idea of doing something like that, so I had asked Jueri if there was anything I could do in Japan that I couldn't do in the US. Luckily, she had a place in mind.
 
 After meeting her at the Ginza Sony Park subway station, we went to the **Affinity in Autonomy** free tech exhibits, located underground right next to the subway lines.
@@ -27,6 +31,28 @@ After going to the exhibits, Jueri and I spontaneously headed off to a Tokushima
 
 > ###### *I totally forgot to take a picture of Jueri and I together during my visit, so I scrounged through my photos and found this one of us instead! This was during the summer school when we visited a temple in Tokushima and got our fortunes. (I think I got the best fortune here too HAHA)*
 
-## Embracing my Rollercoaster Junkie with Risa
+## Embracing my Inner Thrill Junkie with Risa
+
+After packing up all my stuff and moving from the House by HLAB to my new AirBnB, I was for a change of pace. In fact, I was ready for a really **fast** change of pace.
+
+That's because that evening, I had something exciting planned that I hadn't done in a really long time. I was going to Tokyo's premier amusement park: **Yomiuri Land.**
+
+![View of Yomiuru land from the top of a rollercoaster. It's aptly named "Jewellumination" for a reason.](/images/yomiuri_land_view.jpg)
+
+> ###### *View of Yomiuru Land from the top of a rollercoaster. It's aptly named "Jewellumination" for a reason.*
+
+And I wouldn't be going alone. This time, my friend Risa, who was an EC (member of the Executive Committee on HLAB – basically, the Japanese student board that organized the summer school), was there to guide me around. Man, it was fun. Despite the surprisingly long lines, I was in awe as I gazed at all of the beautiful lights that were definitely racking up millions of dollars in energy costs.
+
+![Jeff at Yomiuri Land](/images/jeff_yomiuri_land.jpg)
+
+> ###### *Watt's happening? A lot of energy consumption and FUN!*
+
+It was really fun hanging out with her, catching up on everything that had happened since the summer school, and riding on a rollercoaster again. I definitely missed the thrill of going on rollercoasters and definitely plan on going on more in the future.
+
+![Risa and I ](/images/risa_and_jeff.jpg)
+
+> ###### *Pictured: Risa Kitamura and Jeffrey Yu, circa 2020*
+
+## Yeeting my way into Yokohama with Roy
 
 Coming soon!
