@@ -5,15 +5,15 @@ date: 2020-03-05T05:57:47.672Z
 featuredImage: /images/sunshine_observatory.jpg
 comments: true
 ---
-![My cozy room in the hostel I was staying at, the House by HLAB](/images/house_by_hlab_room.jpg)
-
-> ###### *My cozy room in the hostel I was staying at, the House by HLAB.*
-
 ## Some much needed rest and relaxation
 
 After a full day exploring Asakusa until 3:00 am, the only thing on my mind was getting into my bed and sleeping in. I guess that's one of the perks of not planning ahead – you're totally free to take a day off to rest!
 
 I think something that gets overlooked while traveling is taking time to just stop and recover. When you look at social media you only see the highlights of people's trips – the beautiful views, the stunning historical sites. What you don't see are the miles of walking and travel to get those pictures. In the first three days I had been in Tokyo, I had walked over 11 miles – **each day.** My feet weren't even sore at that point – putting a little pressure on any part of my heel felt like someone was scraping it with a slab of concrete. Needless to say, the largest thing I wanted at that moment was just some time to myself, in my room, to give my battered feet a much deserved break.
+
+![My cozy room in the hostel I was staying at, the House by HLAB](/images/house_by_hlab_room.jpg)
+
+> ###### *My cozy room in the hostel I was staying at, the House by HLAB.*
 
 Since most stores were closed on New Years Day, I didn't really have an opportunity to go out and shop, so it was the perfect time to take a slow day and catch up on some work I had been neglecting. I slept in (a rare luxury while traveling), I bought souvenirs for my friends and family, and I worked on my HUT seminar.
 
