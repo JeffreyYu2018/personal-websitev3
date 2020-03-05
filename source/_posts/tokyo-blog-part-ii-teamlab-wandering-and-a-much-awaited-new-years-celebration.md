@@ -3,7 +3,7 @@ title: >-
   Tokyo Blog Part II: teamLab, wandering, and a much awaited New Years
   celebration
 category: Travel
-date: 2020-03-04T04:43:54.226Z
+date: 2020-03-03T04:43:54.226Z
 featuredImage: /images/asakusa_temple_night.jpg
 comments: true
 ---
