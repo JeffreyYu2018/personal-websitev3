@@ -1,7 +1,7 @@
 ---
 title: 'Tokyo Blog Part I: The Plan'
 category: Travel
-date: 2020-03-03T01:42:47.441Z
+date: 2020-03-02T01:42:47.441Z
 featuredImage: /images/hut_team.jpg
 comments: true
 ---
