@@ -63,8 +63,22 @@ As Roy brought me around the city, I was surprised to learn how highly he though
 
 > ###### *To this day I have no idea what this is.*
 
+![Jeff and Roy at lunch](/images/jeff_roy_lunch.jpg)
+
+> ###### *Thankfully, I did know who this was.*
+
 After showing me his apartment and grabbing lunch from one of the nearby restaurants, we walked, talked, and explored around. Even though Roy had been to Yokohama longer than I had, he still only had been there for a couple of days, so everything I saw was also relatively new to him.
 
 ![An amusement park in Yokohama.](/images/yokohama_amusement_park.jpg)
 
 > ###### *An amusement park in Yokohama. I had been to more amusement parks in 2 days than I had in 2 years.*
+
+![Jeff mixing imaginary ramen at the Instant Cup Ramen Museum](/images/jeff_ramen_museum.jpg)
+
+> ###### *It was at this moment that I realize I would be a horrible ramen chef.*
+
+![Jeff holding an imaginary cup of ramen in front of a display of them](/images/jeff_ramen_museum_display.jpg)
+
+> ###### *The imaginary cup of ramen that I'm holding represents the circuitous and fickle nature of the ramen industry, serving as an allegory of the global contextualization of noodles and other Asian-era foods to have purveyed themselves into Western society. – Jeff's new senior thesis on "ramen from a Western context"*
+
+It was a nice way to wrap up my week of self-travel around Tokyo. While it was nice to solo travel and hit all of the spots in Tokyo that I wanted to visit, there's something really memorable about the moments you spend with old friends. Even though I've forgotten a lot of the small details from the places I visited alone, I still remember random nuances of my interactions with friends: Jueri and I moving up and down escalators in a Ginza shopping me, Risa and I rocking the ferris wheel booth accidentally and me almost crapping my pants, Roy and I strolling along a bridge overlooking Yokohama Bay. My first trip solo traveling was an interesting experience, but I think it's really highlighted for me the importance of spending time with people. I wouldn't have appreciated my time with my friends from HLAB as much if I hadn't had some space to myself. Life really is all about balance, something I'm really glad to have learned from my time abroad.
