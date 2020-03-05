@@ -1,5 +1,5 @@
 ---
-title: 'Tokyo Blog Part IV: An HLAB Reunion'
+title: 'Tokyo Blog Part IV: An HLAB reunion'
 category: Travel
 date: 2020-03-05T01:51:13.761Z
 featuredImage: /images/jeff_roy_lunch.jpg
