@@ -55,4 +55,16 @@ It was really fun hanging out with her, catching up on everything that had happe
 
 ## Yeeting my way into Yokohama with Roy
 
-Coming soon!
+Last but not least, it was time for some quality time with someone who I had spent the most time with in the summer school: my **actual** SA, Roy. This time, I would be brought to Yokohama, a small, major city located to the south of downtown Tokyo.
+
+As Roy brought me around the city, I was surprised to learn how highly he thought of it. He lauded adulation on the food, the lack of congestion, the cleanliness, the cheaper prices. 
+
+![Lunch with Roy](/images/roy_yokohama_lunch.jpg)
+
+> ###### *To this day I have no idea what this is.*
+
+After showing me his apartment and grabbing lunch from one of the nearby restaurants, we walked, talked, and explored around. Even though Roy had been to Yokohama longer than I had, he still only had been there for a couple of days, so everything I saw was also relatively new to him.
+
+![An amusement park in Yokohama.](/images/yokohama_amusement_park.jpg)
+
+> ###### *An amusement park in Yokohama. I had been to more amusement parks in 2 days than I had in 2 years.*
