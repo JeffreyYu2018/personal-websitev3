@@ -55,4 +55,20 @@ This is something I definitely struggled with (and still struggle) with when adj
 
 ### An opportunity: HUT
 
+This was all happening with the questions I was experiencing in an other post flying through my head. *What am I going to do during break?* Luckily, I had found out about HUT, a liberal arts pilot program offered through HLAB giving past CMs an opportunity to teach Japanese high schoolers about something important to them. What a perfect opportunity!
+
+After applying and being accepted, I had to answer the next order of business: what would I be teaching? Fortunately, I didn't have to pave my own path, as the directors had decided that I would use the same seminar I had used last summer. From my earlier philosophical musings, you now know what I was teaching and the importance of it to me.
+
+### **Motivation, Passion, and Leadership: a three step path to success**
+
+After reviewing everything I had learned in university so far, along with everything I had learned via the public school system, I decided that there was no way that I would teach any of it. None of it really **spoke** to me, and I couldn't find any motivation or reason to teach about something traditional like biology or economics, when students could just take a class on it anywhere online or at university.
+
+No, I wanted to be teaching the things that no one taught. Upon further thought, then, I decided to compile all of the musings that had personal import to me – thoughts about types of motivation, the quotes about passion, lessons about the different types of leadership – and compile them into a three day seminar that represented my philosophy about the world. I wanted my course to provide my own answer to the quintessential question, and to give the high schoolers a framework to help work through their toils and struggles in college.
+
+Yes, I realize that I sound like a cult leader. But I think that unlike religion, which offers a solution to the question via dedication to some higher up deity, my seminar was more focused on giving my students a framework from which to start tackling this question. In other words, I would be giving them the questions and tools to consider in order to help them forge their own paths, rather than provide an outright solution.
+
+My course content, like I mentioned, came from the fringes of where I had picked up knowledge. YouTube videos, leadership summer camps, subreddits like "/r/getMotivated" – plus, driving my motivation for it all, the importance of grappling with the quintessential question. I was really happy and excited to have the opportunity to give an alternative seminar with import for these high schoolers, because it was the type of thing that I myself would have appreciated growing up.
+
+## My time at HLAB HUT
+
 Coming soon!
