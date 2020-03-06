@@ -71,4 +71,32 @@ My course content, like I mentioned, came from the fringes of where I had picked
 
 ## My time at HLAB HUT
 
+### Karaoke, pancakes, and nonagenarians
+
+*More pictures and fun travel descriptions up ahead!*
+
+After arriving at my AirBnB on the evening of the 4th, I didn't actually begin hanging out with the other camp mentors in earnest until our official HUT kickoff *okonomiyaki* dinner on the evening of the 5th. 
+
+![Okonomiyaki](/images/okonomiyaki.jpg)
+
+> ###### *For those of you who don't know, okonomiyaki is a type of self-made fried pancake, where you put all the batter and ingredients on a hot plate in front of you and cook it yourself. It's kinda like hot pot, except more like hot pancake.*
+
+The first one or two days were mainly just slogging through logistics and preparing for our seminars. This was a pilot, so there wasn't a lot of bureaucratic nonsense that we had to slog through. In fact, I think our HUT leaders did a fantastic job with the program and balancing structure with flexibility, where it didn't feel unstructured enough that it was haphazard, nor did it feel structured enough that it was too inflexible. 
+
+As a result, the other mentors and I had a lot of free time. Thank goodness that the others knew what was fun to do in Tokyo, because I was content to just follow their lead. (you can't forge your own path all the time!) Unlike the summer school, we were given ample time to explore the city and get a chance to have fun before we would begin our packed week of teaching.
+
+![Camp mentors dinner at a yakitori place](/images/hut_dinner.jpg)
+
+> ###### *Dinner at a yakitori place. I succumbed to my neurotic nature slightly and started counting the optimal selection of products we could purchase with our $40 daily meal budget. Halfway through I said screw it and just started buying what tasted good.*
+
+We went to karaoke (see us rocking out to *zenzenzse* from "Your Name" in my Instagram story – **wow** that was the most fun highlight of my entire trip and even the year), checked out some delicious restaurants (fluffy pancakes 11/10), and even got courted by a random 90 year old artist who was setting up his own exhibition! (he also jokingly assumed that Alex and Julie, two of the mentors, were dating, which was absolutely hilarious)
+
+![](/images/tokyo_waffle.jpg)
+
+> ###### *Fluffy pancakes! Oh my god they were actually delicious.*
+
+It was a nice way to spend time bonding together before the real reason for our presence, teaching, took priority. 
+
+### Teaching and staying motivated
+
 Coming soon!
