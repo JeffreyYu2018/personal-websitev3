@@ -25,11 +25,19 @@ It's a cute play on words, but I think it really does reveal a fundamental truth
 
 When you enter university, you realize quite quickly that life is different. **No one is telling you what to do.** Sure, there are graduation requirements, and major requirements, and parental pressure. However, the truth is that when you first get to university, bouncing up and down on your bunk bed, you're confronted with something terrifying: a lack of direction.
 
+![Yale's Old Campus](/images/yale_old_campus.jpeg)
+
+> ###### *It's scary to think that the limits aren't just within these university walls, but rather, expand out into the whole world.*
+
 It's a very different change of pace from primary and secondary education, where everything is ferociously rammed down your threat. Classes you're forced to take to graduate, after-school activities that your parents signed you up in, yada yada yada. This structure gives you some peace of mind because it gives you an entity to obey. By having a direction to take, you're never confronted with the quintessential question and are content to just go along, listening to whoever it is tell you what to do.
 
 But, gradually, these requirements that veiled the need to answer the quintessential question disappear as you grow up, until finally, you're faced with the ugly truth: *what are you going to do?*
 
 I can't help but think the limits are endless. Tomorrow, I could go to American Samoa, pick up a pack of handyman's tools and live on an island for the rest of my life. Or, I could head to a cafe somewhere within a seven miles radius to eat an egg and salad bagel. With all of these micro-decisions also come macro-decisions as well. What impact do you want to make on the world? Do you want to become a doctor and save lives? Or do you want to become an engineer who creates the next big thing? Or do you want to become a social entrepreneur, a journalist, an academic? **What do you want to do?**
+
+![Two paths](/images/paths.jpeg)
+
+> ###### *If only it were as simple as choosing between two paths.*
 
 I think surfeit choice sometimes is just as bad as a lack of it, because it can get overwhelming. Trying to find your direction in a world where anything is possible is vaunting when there are an infinite number of paths to create. I still don't know what I can do in my own life to "make the most of it." I don't know what I can do that is meaningful both to others and to the beholder. I'm lost.
 
@@ -41,11 +49,15 @@ Quite frankly, it's not okay, because **it's hard.** It's difficult finding a se
 
 ![Passion](/images/passion.jpg)
 
-**Finding your path**
+### **Finding your path**
 
 I still remember the stresses of high school, where one of my top priorities was getting into a good university. I lived in that structure for 18 years only for it to be extinguished the second I stepped foot on Old Campus. Weeks into university I was left with an inexplicable sense of dread and emptiness: *what was I doing? was I going down the right path?* I knew I was facing a struggle, but I didn't know what I was struggling with.
 
 Everyone copes with this dilemma in different ways. Some surround themselves with airtight artificial constructs to give themselves a semblance of order. I have one friend who is so caught up in following his predetermined plan for getting a good job in finance and PhD that he's become depressed in his outlooks post-graduation. Others try to escape from the world and try to avoid answering the quintessential question. I have one friend who plays video games all the time, diverting all his attention to these mini imaginary tasks just so he can have some concrete goal that he can work towards.
+
+![Minecraft banner](/images/minecraft_banner.jpeg)
+
+> ###### *I was guilty too of using video games, namely Minecraft, sometimes as a kid to escape the real world and delay answering the quintessential question.* 
 
 We all cope in different ways, but I think that the healthiest way is to face this reality head on. *You're defined not by the things you do, but rather, by the things that no one told you to do.* Every choice you make fundamentally becomes a part of your identity, and shying away from that fact by deflecting blame on others ("oh, my parents told me to do it!" or "oh, it was a requirement") is only putting more hurt on yourself.
 
@@ -53,13 +65,17 @@ This is why people who have a sense of direction are so charismatic, because the
 
 This is the dilemma I struggled with (and still struggle) with when adjusting to college life and paving myself a path in the world. I truly think, deep down, everyone experiences the same thing at some point. That's why it was so important to me to have an outlet to talk about this important topic and walk through it with someone who was encountering it for the first time.
 
-**A golden opportunity: Liberal Arts (pizza)HUT**
+![Jeff teaching](/images/jeff_teaching_hlab.jpeg)
+
+### **A golden opportunity: Liberal Arts (pizza)HUT**
 
 This philosophical early-life-crisis was happening simultaneously with the concerns in my Part I post flying through my head. *What in the world am I going to do during my school breaks?* Luckily, a golden answer came to me on a silver platter (wordplay intended). HUT, a liberal arts pilot program offered by HLAB giving past CMs an opportunity to teach Japanese high schoolers about topics important to them. I couldn't have asked for a better opportunity.
 
 After applying and being accepted, I had to confront the next order of business: *what would I be teaching?* Fortunately, I didn't have to provide an answer, as the directors had decided that I would use the seminar I had taught last summer. As you can see from my earlier philosophical musings, you now know the importance of my seminar to me.
 
-**Motivation, Passion, and Leadership: a three step path to success**
+![](/images/successpic.jpg)
+
+### **Motivation, Passion, and Leadership: a three step path to success**
 
 After reviewing everything I had learned in university so far, along with everything I had learned via the public school system, I decided that there was no way that I could teach any of it. None of it really **spoke** to me, and I couldn't find any motivation or reason to teach about traditional topics like biology or economics, when students could take a class on it anywhere online or at university.
 
