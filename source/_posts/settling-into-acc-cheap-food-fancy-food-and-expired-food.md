@@ -1,11 +1,11 @@
 ---
-title: 'Settling into ACC: cheap food, fancy food, and expired food'
+title: 'Thrust into ACC: a rocky transition'
 category: Travel
 date: 2020-03-14T07:51:18.598Z
 featuredImage: /images/acc_museum_header.jpg
 comments: true
 ---
-# A Smooth Transition
+# A Smooth Transition ... at first
 
 ![HUT Farewell dinner](/images/hut_farewell_dinner.jpg)
 
@@ -27,7 +27,7 @@ It also translates to the driving. While I love my *bo bo,* I literally thought 
 
 > ###### *Speaking of dorms, WOW was my room nice! We were literally staying in a hotel, plus I had the unique added advantage of being in a dingle! (one person living in a room designed for a double) Considering the quality of the room and the sheer amount of people living in China, I felt guilty being spoiled as a foreigner ... for about the first five minutes.*
 
-# Settling in: a rocky road
+# Settling in: the rocky road begins
 
 ## Setting up the essentials
 
@@ -45,7 +45,7 @@ Despite a lot of language barriers and logistical issues off the bat, I was able
 
 Those first few days adjusting to the climate in Beijing have given me a lot of respect for immigrants who move to a country without any knowledge of the language. Even in China, so many of the signs in places had English, and I've become so grateful to be born in a country that speaks the most widespread language in the world. Even though I was there 
 
-## Where things started to fall apart
+## Falling apart
 
 Sooner or later, I realized that my transition was to ACC (and more generally, Beijing) was not going to be as smooth as I thought it would. Not only did I realize that I would experience a whole slew of social issues, coming almost a week and an half late into campus after everyone had gotten to know each other, but I would also experience a bunch of physical and academic ones as well.
 
@@ -59,19 +59,23 @@ Sooner or later, I realized that my transition was to ACC (and more generally, B
 
  It was definitely just the fact that I was had just settled in and was getting used to the demands, as the first few weeks of any study abroad program are the most difficult, but I was not able to get as much cultural exploration as I wanted. Each day I had to spend almost five to six hours, on top of four hours of classes, focusing on one and one thing only: Mandarin. Even though I generally consider myself to be one of the more hard-working types, and my classes weren't affecting my GPA back home, it was really difficult to stay motivated at times. 
 
-It was clear that the other students felt it too. There were only 30 or 40 so students at ACC during the semester, but I rarely had a chance to see them outside of classes. Everyone was studying all the time and trying to cope with the load placed on them. I really tried at first to hang out with them more often, but after a while I realized it just wasn't possible during the weekdays. That first weekend was also difficult, because I had to spend my Saturday and Sunday catching up on Monday and Tuesday's characters. There wasn't any time to rest.
-
 ![Beijing duck. It was cheap!](/images/beijing_duck.jpg)
 
-> ###### *The one cultural exploration I was lucky to experience was the food. Beijing food is **insanely cheap. Guess how much this** Beijing kaoya, fried rice, and water bottle that I got in the cafeteria amounted to? Less than three US dollars. Ridiculous!*
+> ###### *The little cultural exploration I was lucky to fit into my busy schedule: eating cafeteria food. Beijing food is **insanely cheap. Guess how much this** Beijing kaoya, fried rice, and water bottle that I got in the cafeteria amounted to? Less than three US dollars. Ridiculous!*
 
-*Disclaimer:* I'm mentioning this here, not to bash on ACC, but rather, illuminate some of the struggles that I experienced. I don't want to paint an inaccurate picture of my first week at ACC – it was **hard.** It's also worth mentioning that (spoiler) I would only end up being in Beijing for two weeks, during what usually is the most difficult part of any study abroad program. More on this later.
+It was clear that the other students felt it too. There were only 30 or 40 so students at ACC during the semester, but I rarely had a chance to see them outside of classes. Everyone was studying all the time and trying to cope with the load placed on them. I really tried at first to hang out with them more often, but after a while I realized it just wasn't possible during the weekdays. That first weekend was also difficult, because I had to spend my Saturday and Sunday catching up on Monday and Tuesday's characters. There wasn't any time to rest. At this point, I had one goal and one goal only: to survive.
 
-## A slightly less rocky road: finally getting the hang of it
+*Disclaimer:* I'm mentioning this here, not to bash on ACC, but rather, illuminate some of the struggles that I experienced. I don't want to paint an inaccurate picture of my first week at ACC – it was **hard.** It's also worth mentioning that (spoiler) I would only end up being in Beijing for two weeks, during what usually is the most difficult part of any study abroad program.
 
-Coming soon!
+![ACC Chinese table lunch.](/images/acc_chinese_table.jpg)
 
-## Final Thoughts
+> ###### *ACC Chinese table. Every Friday, the teachers and students go to a Chinese restaurant to eat food and explore the community. The food at this particular restaurant was very, very **fancy. I now know what orange chicken is supposed to take like.*** 
+
+![](/images/acc_museum.jpg)
+
+> ###### *The ACC team at a national museum in Beijing. I didn't know it, but I would soon begin to see the light at the end of the tunnel.*
+
+## Final Thoughts on China
 
 If there's one thing I've realized from going to China, it's that it really still is a developing country. After hearing about it all the time in the news, and hearing the stories from my mom about how much it's modernized, I was quite shocked to see the far-from-glamorous state of some of the facilities. My hotel room was an outlier on the housing scale, but I was still surprised to see paint chipping off the room walls, polluted skies outside my window, and general dirtiness lining the streets. Maybe it was all the propaganda and glitzed-up photos that I see posted online, but Beijing was a far cry from a place like Tokyo or New York.
 
