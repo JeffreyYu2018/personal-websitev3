@@ -69,7 +69,7 @@ It was clear that the other students felt it too. There were only 30 or 40 so st
 
 ![ACC Chinese table lunch.](/images/acc_chinese_table.jpg)
 
-> ###### \*ACC Chinese table. Every Friday, the teachers and students go to a Chinese restaurant to eat food and explore the community. The food at this particular restaurant was very, very **fancy. I now know what orange chicken is supposed to take like.***
+> ###### *ACC Chinese table. Every Friday, the teachers and students go to a Chinese restaurant to eat food and explore the community. The food at this particular restaurant was very, very **fancy. I now know what orange chicken is supposed to take like.***
 
 ![](/images/acc_museum.jpg)
 
