@@ -33,7 +33,7 @@ But, gradually, these requirements that veiled the need to answer the quintessen
 
 I can't help but think the limits are endless. Tomorrow, I could go to American Samoa, pick up a pack of handyman's tools and live on an island for the rest of my life. Or, I could head to a cafe somewhere within a seven miles radius to eat an egg and salad bagel. With all of these micro-decisions also come macro-decisions as well. What impact do you want to make on the world? Do you want to become a doctor and save lives? Or do you want to become an engineer who creates the next big thing? Or do you want to become a social entrepreneur, a journalist, an academic? **What do you want to do?**
 
-![Two paths](/images/paths.jpeg)
+![Two paths](/images/two_paths.jpg)
 
 > ###### *If only it were as simple as choosing between two paths.*
 
@@ -55,7 +55,7 @@ Everyone copes with this dilemma in different ways. Some surround themselves wit
 
 ![Minecraft banner](/images/minecraft_banner.jpeg)
 
-> ###### *I was guilty too of using video games, namely Minecraft, sometimes as a kid to escape the real world and delay answering the quintessential question.* 
+> ###### *I was guilty too of using video games, namely Minecraft, sometimes as a kid to escape the real world and delay answering the quintessential question.*
 
 We all cope in different ways, but I think that the healthiest way is to face this reality head on. *You're defined not by the things you do, but rather, by the things that no one told you to do.* Every choice you make fundamentally becomes a part of your identity, and shying away from that fact by deflecting blame on others ("oh, my parents told me to do it!" or "oh, it was a requirement") is only putting more hurt on yourself.
 
@@ -71,7 +71,7 @@ This philosophical early-life-crisis was happening simultaneously with the conce
 
 After applying and being accepted, I had to confront the next order of business: *what would I be teaching?* Fortunately, I didn't have to provide an answer, as the directors had decided that I would use the seminar I had taught last summer. As you can see from my earlier philosophical musings, you now know the importance of my seminar to me.
 
-![](/images/successpic.jpg)
+![](/images/person_top_hill.jpeg)
 
 ### **Motivation, Passion, and Leadership: a three step path to success**
 
@@ -105,7 +105,7 @@ As a result of their work, the other mentors and I had a lot of free time. Thank
 
 We went to karaoke (see us rocking out to *zenzenzse* from "Your Name" in my Instagram story – **wow** that was the highlight of my trip and even my year), checked out some delicious restaurants (fluffy pancakes 11/10), and even got randomly courted by a 90+ year old artist setting up an exhibition! (he incorrectly assumed that Alex and Julie, two of the mentors, were dating, even though they had just met each other)
 
-![Fluffy pancakes.](/images/tokyo_waffle.jpg)
+![Fluffy pancakes.](/images/fluffy_pancakes.jpg)
 
 > ###### ***Fluffy pancakes! Oh my god they were oishi.***
 
@@ -123,9 +123,9 @@ The venue where we would be teaching classes during the winter differed from the
 
 It's a really cool, modern facility that clearly has been making an impact. When I arrived, I saw hundreds of students attending activities to enhance their English language development. I was told groups had come from all over Japan, some enduring multi-hour bus trips, just to have the opportunity to come to the "English island." The building had its own gym, kitchen, dancing studio, mock university campus store – it even had its own gift shop and mascot!
 
-![A mock campus store within TGG.](/images/tgg_campus_bookstore.jpg)
+![A mock airplane cabin within TGG.](/images/tgg_mock_aircabin.jpg)
 
-> ###### ***A mock campus store within TGG. There are a bunch of other random facilities as well, including a fake airline cabin and high school science lab.***
+> ###### ***A mock airplane cabin within TGG. There are a bunch of other random facilities as well, including a campus store and high school science lab.***
 
 ### **The triumvirate and the trials of teamwork**
 
