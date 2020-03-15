@@ -51,7 +51,7 @@ Quite frankly, it's not okay, because **it's hard.** It's difficult finding a se
 
 I still remember the stresses of high school, where one of my top priorities was getting into a good university. I lived in that structure for 18 years only for it to be extinguished the second I stepped foot on Old Campus. Weeks into university I was left with an inexplicable sense of dread and emptiness: *what was I doing? was I going down the right path?* I knew I was facing a struggle, but I didn't know what I was struggling with.
 
-Everyone copes with this dilemma in different ways. Some surround themselves with airtight artificial constructs to give themselves a semblance of order. I have one friend who is so caught up in following his predetermined plan for getting a good job in finance and PhD that he's become depressed in his outlooks post-graduation. Others try to escape from the world and try to avoid answering the quintessential question. I have one friend who plays video games all the time, diverting all his attention to these mini imaginary tasks just so he can have some concrete goal that he can work towards.
+Everyone copes with this dilemma in different ways. Some surround themselves with airtight artificial constructs to give themselves a semblance of order. I have one friend who is so caught up in following his predetermined plan for getting a good job in finance and PhD that he's become depressed in his outlooks post-graduation. Others try to escape from the world and try to avoid answering the quintessential question. I have one friend who plays video games all the time, diverting all his attention to these mini imaginary tasks just so he can have some concrete goal that he can work towards. 
 
 ![Minecraft banner](/images/minecraft_banner.jpeg)
 
