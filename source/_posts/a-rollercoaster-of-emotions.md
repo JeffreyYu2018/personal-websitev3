@@ -43,7 +43,7 @@ First, I must say the following: **my teacher was awesome.** I wasn't expecting 
 
 However, time and time again, my teacher went above and beyond to make my lessons as engaging as possible. As an example, for this lesson, I was expecting just a discussion on terms or on-the-cuff simulation of ordering food from a restaurant. Instead, imagine my surprise when I saw what qiulaoshi had prepared for me.
 
-![](/images/taiwan_ntue_food_menus.jpg)
+![Food and drink menus from the local community](/images/taiwan_ntue_food_menus.jpg)
 
 She had went out to the local community and gathered **eight** menus from **eight** different food and drink restaurants.   How awesome is that? Not only that, but she had drafted notes and an ordered list of things to tackle during the lesson.
 
