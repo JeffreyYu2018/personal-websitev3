@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Living like there's no tomorrow
 category: Travel
 date: 2020-03-22T13:54:39.362Z
 featuredImage: /images/sandy_jeff_zach_breakfast.jpg
