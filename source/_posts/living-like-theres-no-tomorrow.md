@@ -86,7 +86,7 @@ After a brief break to change and relax after classes, I'll head to the gym. I p
 
 I'm doing the 5-3-1 workout during my time in Taiwan which has been the perfect fit. It's 1) super fast, allowing me to get in and out of the gym in 45 minutes or less and 2) simple, not forcing me to learn too many new lifts. I expected working out 4 times a week to be exhausting, but it's been surprisingly quite manageable. I think all of the other measures I have in place have kept my life balanced, preventing me from burning out.
 
-*  **3:30 PM to 4:00 PM: Shower, drink protein shake, and relax**
+* **3:30 PM to 4:00 PM: Shower, drink protein shake, and relax**
 
 After walking back from the gym, I make my *delicious* protein shake, tossing peanut butter, bananas, milk, and protein powder into a blender. 
 
@@ -165,4 +165,40 @@ I know from my previous trips that sleep should be one of my highest priorities,
 
 In the past I always hated weekends because they would be filled with what I hated: nothing. However, this time, I made an active effort to fill up my weekends and make the most of my free time.
 
-#### This section coming soon!
+#### Saturday
+
+**Morning**
+
+I like to reserve my Saturdays as a fun day for exploring and exercise. This week, in the morning, I got breakfast with Zach and an NTU student I met through my cooking club. We went to a cool, famous Taiwanese breakfast place and had an awesome discussion about life in Taiwan and the US. 
+
+![Breakfast with Sandy, Jeff, and Zach](/images/sandy_jeff_zach_breakfast.jpg)
+
+**Afternoon**
+
+After breakfast, I organized a trip with William, Zach, and Meaghan, where we hiked Xiangshan. It was beautiful, sunny, and **exhausting.** I haven't walked up that many stairs in a long while, but it was totally worth it.
+
+![Xiangshan view](/images/xiangshan_view.jpg)
+
+**Evening**
+
+My evenings were originally reserved for one and one thing only: tennis practice with my tennis club! However, after hiking, I invited the others to some of the club activities I was going to, including my tennis practice later that day and the biking trips on the weekends, and to my surprise, they were interested!
+
+In fact, William, who was a total beginner, was super excited to tag along for practice that night. We went together and we were both able to have a good time and make some new friends.
+
+**Night**
+
+Post-practice, I hit with some of the other players on a dark tennis court, since we were too cheap to pay for lights. Afterwards, they invited me to get food together, and I was happy to tag along. We ended up going to a Taiwanese place well-frequented by students and I was able to eat some good food and learn even more about Taiwan.
+
+![Dinner at a Taiwanese restaurant](/images/ntu_tennis_post_practice_dinner.jpg)
+
+#### Sundays
+
+Sundays have been officially designated as my "stay-at-home" day. It's important for me to take some time each week to not go out and just chill at home. I took this Sunday to do errands like do laundry, buy the week's groceries, and get a haircut. I also took this time to study characters and complete my blog.
+
+![Jeff haircut](/images/taiwan_haircut.jpg)
+
+That was my week, and I feel like I really was able to get the most out of it. I have no idea what life has in store for me, but I know it'll depend on how the coronavirus situation develops. Speaking of the coronavirus, it's already had its effects on ICLP.
+
+# Students dropping like flies
+
+Coming soon!
