@@ -13,7 +13,9 @@ I knew it was going to be difficult, but I didn't realize just how difficult it 
 
 Sure, it's easy to say that Beijing was designed to be like that: structured. But it's the mini failures when talking to locals where growth really occurs; if you never place yourself in a position where you are vulnerable and insecure, you will never grow. As a result, I resolved to spend my time in Taiwan pushing the boundaries and placing myself in unfamiliar situations.
 
-Making a goal from such a high-level didn't make it any easier to implement on the ground. I failed many times and experienced several lows where I couldn't complete basic tasks in Chinese without the other person resorting to using English. For example, yesterday I tried to check out some milk and bananas at my local PXMart (supermarket), but the person at the counter asked me a question in superfast Mandarin that I hadn't prepared for. *youhuiyuanma?*After staring at him blankly and hearing it repeated several times, he finally let out the key word: *\[do you have a] **membership**?*
+Making a goal from such a high-level didn't make it any easier to implement on the ground. I failed many times and experienced several lows where I couldn't complete basic tasks in Chinese without the other person resorting to using English. For example, yesterday I tried to check out some milk, bananas, and peanut butter at my local PXMart (supermarket), but the person at the counter asked me a question in superfast Mandarin that I hadn't prepared for. *youhuiyuanma?*After staring at him blankly and hearing it repeated several times, he finally let out the key word: *\[do you have a] **membership**?*
+
+![My grocery basket full of milk, bananas, and peanut butter](/images/taiwan_pxmart_groceries.jpg)
 
 It's moments like these that I realize that I really am far from speaking like a native, or even fluently. How can I consider interacting with Chinese or Taiwanese people if I can't even go through a supermarket without using English? 
 
@@ -60,6 +62,12 @@ Following my successful boba endeavor, I went ahead with my laoshi and purchased
 It might seem silly now, but for me, this was the first real step where I felt like I had made some concrete progress assimilating into Taiwanese life. So many times beforehand I had looked at a restaurant only to not go inside because I didn't understand the menu. I'm still far from completely understanding it, but at least now I know the basic type of food I'm ordering (dry noodles, soup noodles, fruit juice, etc.) so I have some control over what I can eat. It was liberating.
 
 It's after taking these little baby steps that I feel like I'm slowly starting to make progress. This week it might be ordering food from a restaurant, but in a few months it just might become doing complicated tasks like setting up a bank account. Through slow and steady work, I'm starting to believe that I can finally chip away at the language barrier that had been erected in my life for so long.
+
+# a surprise in store
+
+![View of Gongguan from NTU's second activity center](/images/ntu_second_activity_center_view.jpg)
+
+> ###### *View of Gongguan from NTU's second student activity center.*
 
 Days later, I went to the second student activity center with my friend, Zach. We had been popping into clubs to ask what they were like and were about to leave when I found one last one that interested me. I bopped in and confidently repeated what I had said ten times that evening to the closest Taiwanese student next to me: 
 
