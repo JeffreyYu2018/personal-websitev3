@@ -236,3 +236,5 @@ As I've watched the coronavirus situation develop, I've been surprised to discov
 Overall, I'm really happy and grateful with how things are going. I think I'm living according to the values I had set for myself before arriving in Taiwan. [The next 14 days are critical](https://focustaiwan.tw/society/202003190021), specifically, the number of local infections. If Taiwan's health workers can effectively enforce quarantines and limit the spread from the surge of new imported cases, then we'll be able to get through it.
 
 I'm not usually superstitious, but seeing how lucky I've been able to study abroad in one of the few countries not severely affected by the virus, while also being able to have a great time, I'm attributing my luck to that best luck fortune I got in Tokyo. Here's to hoping that it continues.
+
+![Best luck fortune I received from Asakusa Temple in Tokyo](/images/asakusa_temple_fortune.jpg)
