@@ -9,7 +9,7 @@ comments: true
 
 Taiwan has remained a relatively untouched island in a world ravaged by COVID-19, and hopefully it remains like that in the future. I've been unbelievably lucky to have chosen to study abroad in one of the few countries that has kept the virus under control. While I'm optimistic that Taiwan will continue to be able to contain it, it's already started to have some effects.
 
-![NTU's campus at night](/images/taiwan_jinmianshan_facing_city.jpg)
+![NTU's campus at night](/images/ntu_campus_6000_miles_from_home.jpg)
 
 > ###### *Even 6000 miles from home, I haven't fully escaped the virus.*
 
