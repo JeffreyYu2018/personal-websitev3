@@ -9,7 +9,7 @@ comments: true
 
 Taiwan has remained a relatively untouched island in a world ravaged by COVID-19, and hopefully it remains like that in the future. I've been unbelievably lucky to have chosen to study abroad in one of the few countries that has kept the virus under control. While I'm optimistic that Taiwan will continue to be able to contain it, it's already started to have some effects.
 
-![NTU's campus at night](/images/ntu_campus_6000_miles_from_home.jpg)
+![NTU's campus at night](/images/taiwan_jinmianshan_facing_city.jpg)
 
 > ###### *Even 6000 miles from home, I haven't fully escaped the virus.*
 
@@ -47,13 +47,13 @@ Just because we're here to learn Mandarin, doesn't mean we can't some fun while 
 
 That's why when I found out about the Zoom virtual background feature, I knew I had to take advantage of it.
 
-![](/images/zoom_background_shenanigans.png)
+![Jeff and Nancy with Zoom virtual backgrounds](/images/zoom_background_shenanigans.png)
 
 > ###### *Fooling around with virtual backgrounds with Nancy, a fellow ICLPer.*
 
 After testing the waters, I started to make it a habit of mine to change my background each day. First it was a nice mansion, then a burning house. Following that, I discovered an even **more** powerful feature: video backgrounds. I moved on to penguin documentaries, and capped off my week with a puppy eating corn on a cob.
 
-![](/images/zoom_background_puppy_corn.png)
+![Jeff with a puppy eating corn background](/images/zoom_background_puppy_corn.png)
 
 > ###### *PUPPERS!*
 
