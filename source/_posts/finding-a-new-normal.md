@@ -15,23 +15,23 @@ Taiwan has remained a relatively untouched island in a world ravaged by COVID-19
 
 ## Business goes on as normal ... except with tourism
 
-After Taiwan banned all foreign nationals to keep out the coronavirus, I was ecstatic. Yes, good for the Taiwanese government for controlling the virus! As the days passed, though, while I was still grateful for that decision, I started to see its side effects on Taiwanese life, specifically, the tourism industry.
+After Taiwan banned all foreign nationals to keep out the coronavirus, I was ecstatic. Yes, good for the Taiwanese government for controlling the virus! As the days passed, though, while I was still grateful for that decision, I started to see its side effects on Taiwanese life; specifically, on the tourism industry.
 
-One day, I decided to make good on my promise from last week to take a random bus to somewhere in Taipei. I went to Ximending, which has a lively night market and cafe scene. After arriving there, plopping down in a ramen shop and doing some homework, and leaving, something outside the store caught my eye. It was a boba candy advertisement. Immediately, I realized that I would eventually need to buy and bring some gifts for people back home, so why not get them now?
+One day, I decided to make good on my promise from last week to take a random bus to somewhere in Taipei. I went to Ximending, which has a lively night market and cafe scene. After arriving there, plopping down in a ramen shop and doing some homework, and leaving, something caught my eye. It was a boba candy advertisement. Immediately, I realized that I would eventually need to buy and bring some gifts for people back home, so why not get them now?
 
 ![Souvenir market in Ximending](/images/taiwan_souvenir_store.jpg)
 
 > ###### *Me, the only foreigner tourist at a souvenir market in Ximending.*
 
-I walked in and almost immediately, upon seeing her first customer in forever, the shopkeeper immediately began offering me free samples. I was amazed – how was Ximending, one of the supposed commercial centers of Taipei City, not packed at all? After talking with the shopkeeper, however, I understood what had happened. The travel ban had killed the influx of tourists that normally frequented the shop.
+I walked in and almost immediately, upon seeing her first customer in forever, the shopkeeper began offering me free samples. I was amazed – how was Ximending, one of the commercial centers of Taipei City, not packed at all? After talking with the shopkeeper, however, I understood what had happened. The travel ban had killed the influx of tourists that normally frequented the shop.
 
-It was clear that the ban was taking its toll. The "buy 2, get 1 free" deal with limited items from before had changed to "buy 1, get 1 free" for everything in the store. The boxes she was handing out free samples from were almost completely full, evidence that no one had stopped in the store to take them. I felt really bad, so I decided to buy multiple gifts to help them out.
+The ban was taking its toll. The "buy 2, get 1 free" deal for limited items from before had changed to "buy 1, get 1 free" for everything in the store. The boxes she was handing out free samples from were almost completely full, evidence that no one had stopped in the store to try them. I felt really bad, so I decided to buy multiple gifts to help the struggling business out.
 
 Even though Taiwan is a relatively safe haven from the virus, if this was how it was affecting small businesses here, I can't imagine the extent to which it is affecting small businesses in other parts of the world. 
 
 ## NTU clubs no longer ... for the next two weeks, anyway
 
-I was in for a piece of bad news. In response to a cluster of cases popping up in Academia Sinica in Nankang (southern Taiwan), a closely-affiliated institution, NTU decided to institute a number of new measures to prevent the spread of the virus. Restricting campus access to NTU students and faculty only, cancelling all NTU public events ... and banning club activities for the next two weeks.
+I was in for a piece of bad news. In response to a cluster of cases popping up in Academia Sinica in Nankang (southern Taiwan), a closely-affiliated institution, NTU decided to implement a number of new measures to prevent the spread of the virus. Restricting campus access to NTU students and faculty only, cancelling all NTU public events ... and banning club activities for the next two weeks.
 
 To be blunt, this sucked. Clubs were going to be one of my main outlets for meeting local Taiwanese people, and not being able to do so for the next two weeks would put a huge damper on cultural exploration. That being said, I totally understood where the university was coming from, and I'm optimistic that things will eventually return to normal after these two weeks.
 
@@ -51,7 +51,7 @@ That's why when I found out about the Zoom virtual background feature, I knew I 
 
 > ###### *Fooling around with virtual backgrounds with Nancy, a fellow ICLPer.*
 
-After testing the waters, I started to make it a habit of mine to change my background each day. First it was a nice mansion, then a burning house. Following that, I discovered an even **more** powerful feature: video backgrounds. I moved on to penguin documentaries, and capped off my week with a puppy eating corn on a cob.
+After testing the waters, I started to make it a habit of mine to change my background each day. First it was a nice mansion, then a burning house. Following that, I discovered an even **more** powerful feature: video backgrounds. I moved on to penguin documentaries excerpts, and capped off my week with a puppy eating corn on a cob.
 
 ![Jeff with a puppy eating corn background](/images/zoom_background_puppy_corn.png)
 
@@ -65,13 +65,13 @@ Despite NTU (and also ICLP) events being cancelled, I've been able to keep up a 
 
 ### Hitting up the locals
 
-I've continued trying to build relations with local NTU students that I was able to meet so far. Last Wednesday, I went to NTU gift shops with Zach and Sandy, one of the leaders from the NTU Cooking Club. Sandy helped show us around and introduced us to a few other gift shops we didn't know about before.
+I've continued trying to build relations with local NTU students that I was able to meet so far. Last Wednesday, I went to NTU gift shops with Zach and Sandy, one of the leaders from the NTU Cooking Club. Sandy helped show us around and introduce us to a few other gift shops around the university.
 
 ![Zach, Jeff, and Sandy at one of NTU's three gift shops](/images/zach_sandy_giftshop.jpg)
 
 > ###### Don't worry, Sandy wasn't actually getting crushed ... or was she? O_o
 
-Furthermore, I've met a bunch of tennis players through NTU's tennis club, so I'm planning to hit with them on some afternoons throughout the upcoming week. While the club events have been cancelled, the courts have still been left open. (it makes sense since tennis players are so spread out normally anyways)
+Furthermore, I've met a bunch of tennis players through NTU's tennis club, so I'm planning to hit with them on some afternoons throughout the upcoming week. While club events have been cancelled, the courts have still been left open. (it makes sense since tennis players are so spread out normally anyways)
 
 ![Presentation during NTU Tennis Club's welcome party](/images/ntu_tennis_club_welcome_party.jpg)
 
@@ -89,7 +89,7 @@ It was really fun, and I'm glad to be continuing to live according to the goal I
 
 # Efforts paying off
 
-It's not just social efforts that have started to work out in my favor. After two weeks of intensive character study, I can happily say that while I'm still nowhere near fluent, I can already start to see my hard work studying also paying off. It's small things, like realizing that I could now read the three Mandarin characters in the title of a bread shop next to my house and understand the meaning.
+It's not just social efforts that have started to work out in my favor. After two weeks of intensive character study, I can happily say that while I'm still nowhere near fluent, I can already start to see my hard work studying also paying off. It's small things, like realizing that I could now read the three Mandarin characters on the sign of a bread shop next to my house and understand the meaning.
 
 ![Taiwanese bread store right next to my apartment](/images/taiwan_bread_shop.jpg)
 
@@ -127,6 +127,6 @@ how can one not like Taiwan? I had my doubts at first, since Taipei was relative
 
 # Finding a new normal
 
-Flashing back to the present, we'll be returning to normal in-person classes at ICLP starting Monday, and I'm very excited to be able to meet some of the other ICLPers. There's been a few changes since we started – only NTU students and faculty will be allowed on campus, my old schedule which I preferred has been changed to a new one, and we'll start being held accountable for not having the textbooks next to us in class.
+Flashing back to the present, we'll be returning to normal in-person classes at ICLP starting Monday, and I'm very excited to be able to meet some of the other ICLPers. There's been a few changes since we started – only NTU students and faculty will be allowed on campus, my old preferred schedule has been changed to a new one, and we'll start being held accountable for not having the textbooks next to us in class.
 
 That being said, I'm excited to have things returning to some semblance of normal. While I don't know how in-person classes will go, I'll be ready for whatever gets thrown my way.
