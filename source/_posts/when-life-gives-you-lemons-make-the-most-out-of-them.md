@@ -57,7 +57,7 @@ While in Taiwan, I've been following the news updates for other parts of the wor
 
 While I'm confident Taiwan's situation will remain okay for the next few months, I'm afraid I can't say the same for back home and for other countries in the world.
 
-![DPops board](/images/dpops_board.jpeg)
+![DPops board](/images/dpops_concert.jpg)
 
 > ###### *After a four month hiatus from DPops, I rejoined for my first Zoom board meeting of the semester! Next week is board elections, and I'm going to be running for Co-President, so wish me luck!*
 
