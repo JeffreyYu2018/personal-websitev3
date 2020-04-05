@@ -49,8 +49,84 @@ While it's not ideal, and I would love to hang out with more people, I feel like
 
 ## In touch with home
 
-Coming soon!
+While in Taiwan, I've been following the news updates for other parts of the world. The situation in the US and Europe isn't showing any signs of getting better, so a lot of people have been stuck at home trying to find things to do. Without planning it, I spent some time this week keeping in touch with some of my friends around the world as they try to make the most of what they have at home. Even though I had undergone a quarantine myself, hearing from them in real time has made me even more grateful for everything I've been able to do in Taiwan.
 
-## An international group
+![Zoom Call for CHNS L4 at Yale](/images/taiwan_zoom_yale_chns.png)
 
-Coming soon!
+> ###### *Aurelia, a classmate of mine, helped sneak me into my old L4 Chinese class cohort at Yale mid-Zoom lesson.*
+
+While I'm confident Taiwan's situation will remain okay for the next few months, I'm afraid I can't say the same for back home and for other countries in the world.
+
+![DPops board](/images/dpops_board.jpeg)
+
+> ###### *After a four month hiatus from DPops, I rejoined for my first Zoom board meeting of the semester! Next week is board elections, and I'm going to be running for Co-President, so wish me luck!*
+
+In each call, I could see the lack of energy and dismal moods from being stuck at home and feeling the full brunt of the epidemic - it reminded me of my time back at home and of being utterly powerless to do anything, even something as simple as going outside.
+
+![HLAB Tokushima-Mugi 2019 Camp Mentor reunion call](/images/hlab_tokushima_reunion_zoom_call.png)
+
+> ###### *HLAB Tokushima-Mugi 2019 Camp Mentor reunion call, complete with Virtual Background shenanigans.*
+
+That being said, this pandemic won't last forever, and I'm confident that we'll all be able to get through it. I'm lucky that my family is safe at home, and I'm sure we'll be able to come out this stronger than before. 
+
+## An international community
+
+In addition to hanging out with local friends and with people back home, I was able to organize some trips together and work towards the goal I had set for myself during the beginning of my trip to Taiwan: cultural exploration and visiting the different parts of the island.
+
+### Ningxia night market
+
+This trip was kind of spontaneous. Since all ICLP events were cancelled, it was hard for the students to meet and interact with one another. However, little events like lunches with classmates were able to help us introduce new people to each other. For example, after getting lunch with some new ICLPers that were classmates of Nina's one day, we got dinner at a Japanese restaurant the following night. Unfortunately, the izakaya that we went too was horribly overpriced, and had a minimum cover charge of 800 NT$ ($26 USD) that we didn't see as part of the holiday season.
+
+![Izakaya in Taiwan](/images/taiwan_izakaya.jpg)
+
+> ###### *While the izakaya looked nice, the food just wasn't up to par with the overinflated prices.*
+
+The sample sizes were also tiny, so I was starving afterwards. If there was one good thing that came from the restaurant, it was that we decided to go to the closest night market in Ningxia afterwards to fill our empty bellies. It was too far to walk, plus I had set up YouBike earlier that week, so we all decided to just bike the distance. (p.s. Biking is so much fun in Taipei!!)
+
+![Ningxia Night Market](/images/taiwan_ningxia_night_market.jpg)
+
+Not only were there a ton of stands, but there was a ton of variety. I got papaya milk, lamb skewers, barbecued chicken, and peanut ice cream rolls. It totally made up for the underwhelming dinner.
+
+![Peanut ice cream roll](/images/taiwan_ningxia_night_market_peanut_roll.jpg)
+
+### Beitou hot springs
+
+This trip was on the list that I had compiled prior to heading to Taiwan. After checking for interest with a few others, I organized a trip on Friday to head to the Beitou region in northern Taipei, famous for its hotsprings. After some trouble finding a reasonably spacious and well-priced spot, we eventually settled on the Beitou Hot Springs Resort, which turned out to be absolutely amazing.
+
+![Us at Beitou Hot Springs Resort](/images/beitou_whole_group.jpg)
+
+It was only around $20 USD without a time limit, and the place itself was incredibly clean and modern. Maybe it was the holidays, maybe it was due to the virus, but there was like no one there. 
+
+![The guys group at the hot springs](/images/beitou_guys.jpg)
+
+After soaking in the springs, I relaxed like I haven't in a long while. It's hard to describe, but there's a rare state of relaxation where it feels like the tension in your brain just kind of turns off, but you remain awake. I haven't achieved that state since I meditated back in high school, but after going into the hot springs, alternating between burning hot water and ice cold water, and then lukewarm water, I felt my muscles relax to the point where I kind of entered a subconscious state, almost like daydreaming. It was awesome. Plus, as a bonus, my friends told me that my skin was glowing afterwards, a compliment which I've never gotten before. Hah!
+
+Afterwards, we were starving and were looking for food, when Nina told us that her Chinese host dad wanted to treat us all to dinner! 
+
+![Us eating dinner in Beitou at a famous ](/images/beitou_dinner.jpg)
+
+He brought us to a famous beef noodle soup place and treated us to a mini feast. The soup (especially the broth) was delicious, and it was nice way to end the night with some unexpected cultural exploration. Locals always know best!
+
+### Hualien and Taroko Gorge
+
+You can't plan trips all the time, so fortunately, my friend Meaghan stepped in one day and organized a four person private tour via TripAdvisor to two others places on my list: Hualien and Taroko Gorge! It was completely organized by the tour guide, a local named Chico, so all we had to do was sit back and enjoy the ride.
+
+![Yilan beach](/images/hualien_yilan_beach.jpg)
+
+![Jeff in a fancy photo in front of the rock beach](/images/hualien_yilan_beach_jeff.jpg)
+
+![The ride in our tour guide's nice Mercedes Benz](/images/hualien_tour_cab_interior.jpg)
+
+![Jeff, William, Meaghan, and Zach jumping in front of the coastline](/images/hualien_coast_jumping.jpg)
+
+![Us rock climbing with helmets on](/images/hualien_rock_climbing.jpg)
+
+![Hiking along the Shakadang Trail](/images/taroko_gorge_trail.jpg)
+
+![Jeff gazing out over Taroko Gorge](/images/taroko_gorge_looking.jpg)
+
+![Jeff admiring the view on a rope bridge over the gorge](/images/taroko_gorge_bridge_jeff.jpg)
+
+![Zach and Jeff having some fun with monkeys](/images/taroko_gorge_monkeys.jpg)
+
+Even though life hasn't been optimal with the coronavirus and the club cancellations, I feel like it's been a week that I've managed to surprisingly pack full of activities. It's something that I'm going to continue to try to do while living according to my values and goals. When life gives you lemons, make lemonade.
