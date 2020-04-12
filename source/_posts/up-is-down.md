@@ -1,0 +1,56 @@
+---
+title: Up is down
+category: Travel
+date: 2020-04-12T12:29:08.888Z
+featuredImage: /images/ntu_clay_tennis_court_first_time.jpg
+comments: true
+---
+# starting at a low point
+
+At the beginning of the week, the effects of clubs being cancelled was starting to settle in. 
+
+## gaining a new perspective
+
+There were some pros, of course. Not having extracurricular engagements left me with more time to hang out with other international students. Being with people older than me was something I was initially apprehensive of but turned out to be something I really enjoyed. 
+
+Two of the people I hang out with frequently, Megan (22) and Will (25), are years older than me, but it's really surprisingly nice to hear about their experiences and how much they've changed in a short time frame. They keep telling me I'm young, and that I have so much time to develop and grow. As someone who has insecurities like everyone else, professionally, romantically, and personally), that's reassuring to hear.
+
+![Dinner at a Japanese restaurant in Ximending](/images/taiwan_deep_dinner_japanese_will_meaghan.jpg)
+
+> ###### *On Monday I had an awesomely hilarious yet deep conversation with Meaghan and Will during dinner at a Japanese restaurant in Ximending.*
+
+## finding alternative paths
+
+At the same time, the language barrier between me and some of the other international students definitely poses an issue. Since Will and Meaghan are just beginners, it's virtually impossible to communicate without using English. Since ICLP only has a limited language pledge, such that it's only enforced within the building, it's not really active outside of the classroom. As a result, I feel like despite my reframing, my language development has felt a little bit stunted.
+
+While I've really enjoyed deepening friendships by hanging out with a singular group of people at ICLP, I also really want to reach out and not feel just constricted to people at my program. This has become especially noticeable since all ICLP events have been cancelled, making it even more difficult to forge cross-student friendships. 
+
+As a result, I've sought to supplement my language learning and study abroad experience by hanging out with Taiwanese people at clubs. However, since clubs were cancelled for two weeks, this has no longer been possible, so I've been looking for even more opportunities to practice Mandarin.
+
+These were the challenges I faced at the beginning of the week, and just as I was starting to hit the brunt of them, things began to pivot.
+
+# approaching a peak
+
+It was approaching the middle of the week that I started to really do some things with professional, social, academic, and personal meaning.
+
+## mulling over my professional future 
+
+I haven't really addressed this before in my previous blog posts, but finding myself professionally has been an important goal I've set for myself while abroad. Specifically, clarifying what exactly I what to do in the future and what I can do for myself in the present to get myself there.
+
+The biggest and most obvious topic I've been grappling with has been my interest in consulting. Initially, prior to coming to Light, I had already set my plans in stone: I would go into tech immediately after graduation, and I would scrap any ideas of going into business. However, after going abroad, I've realized that I ultimately want to be working in place where I can be in front of people, in contrast to being a code monkey. Event after event has increased my interest in consulting, which I'm starting to see as an avenue towards that goal.
+
+It started with a dinner with my suitemate Dennis earlier in the semester, who told me about how consulting would open doors into any industry I chose to go into afterwards. It would be infinitely easier to go from consulting into tech than tech into consulting, which subverted one of my original expectations. He also touched upon some social benefits from consulting, not only with learning how to interact with others in a professional setting, but also constantly being surrounded by driven, inspiring people and redefining what is possible in the world.
+
+Following my dinner with Dennis came a Yale-only event with the CEO of NBA China, Derek Chang. It was awesome overall to hear how NBA China was reacting in response to the scandal earlier in the year regarding the Hong Kong protests, but one of the main points I got from it professionally was the training benefits of consulting. Derek talked extensively about how his two years in business gave him the means and training to deal with intense pressure, which has helped him with his current job. As someone who sees himself in a similar position way down the line, I think this would be very valuable.
+
+The final event that really started to tip the stones was a consulting dinner with Davis, the leader of myconsultingoffer, an organization I hosted an event with as the events manager of the Yale Undergraduate Consulting Group. Davis happened to just be in Taipei, and we grabbed dinner at a Korean BBQ place (my first one, in fact!) He told me how it was totally possible to make a career path change even in the current situation caused by the virus. *Consulting firms will still be hiring,* he reassured me. *Tech and consulting is actually a very common combination.* I'm still not 100% set, but I'm very interested in taking the next step and applying to a consulting internship my junior summer. I'll make a final decision in the coming months as my study abroad experience ends.
+
+![Korean BBQ](/images/taiwan_kbbq.jpg)
+
+> ###### *My first ever Korean BBQ dinner! Yum!*
+
+Overall, after studying abroad, I've come to realize how awesome Asia is and have become even more interested in doing business here in the future. Whether it be for my startup OnTrack or for the future company I work for, I know I want to be abroad again in the future. In preparation for this, I've actually chosen to make my final speech about my current startup OnTrack, and learning how to pitch it, so that I'll be prepared to do business in Asia in the future.
+
+## clubs are back! ... sort of
+
+Coming soon!
