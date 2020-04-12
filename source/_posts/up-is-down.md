@@ -121,8 +121,54 @@ We talked about our two different languages and had an awesome exchange. I taugh
 
 After having a good time again, we agreed to officially make this a weekly language exchange. It feels more organic than just an exchange though, since it's genuinely fun to hang out with her (and Zach, when he's here)
 
-## making memories
+## making personal memories
 
-The weather was GORGEOUS this week, and we had our first day of sun after two straight weeks of rain. It definitely lifted my mood on Thursday when we first had.
+After almost two straight weeks of rain, we were blessed this Thursday with some GORGEOUS, sunny weather. I think beautiful weather almost universally lifts people's moods, and I was no different. 
 
-The sun had some other benefits as well. For the first time in my entire life, I was able to knock something off of my tennis bucket list: hitting on a red clay tennis court.
+The weather also had some other nice benefits as well. For the first time in my entire life, I was able to complete something that I've had on my bucket list, something that has become one of the most memorable and best things I've done in Taiwan. Why? Because its close to the heart. 
+
+What did I do? **I played on red clay tennis courts.**
+
+![NTU's red clay tennis courts](/images/ntu_clay_tennis_court_first_time.jpg)
+
+> ###### *NTU's red clay tennis courts.*
+
+It was exactly as how I had dreamt it. The top spin and high-kicking balls ...
+
+![Jeff enjoying his time on the clay tennis courts](/images/ntu_clay_tennis_court_smile.jpg)
+
+The slower pace and baseline-favoring game...
+
+![Jeff in a ready position on the clay tennis court](/images/ntu_clay_tennis_ready_position.jpg)
+
+And best of all, the SLIDING!
+
+![Jeff mid-forehand](/images/ntu_clay_tennis_forehand.jpg)
+
+Sure, I came out of it with a couple of scratches, cuts, and bruises, but it was totally worth it. I'm endlessly grateful to have had this opportunity in Taiwan to knock this off my tennis bucket list, as it was one of the most fun moments I've had during my entire time abroad.
+
+![Lunch at a local restaurant with my hitting partner from the tennis team](/images/ntu_lunch_kevin.jpg)
+
+> ######  *Lunch (Taiwanese Hong-Kong style duck) with Kevin, my hitting partner from the tennis club!*
+
+It might seem like just a game to some, but to me, tennis has some serious importance in my life. It's given me so many incredible experiences and I'm so glad it's continued to positively influence my life into the present.
+
+![The NTU hard courts on a beautiful, sunny evening](/images/ntu_tennis_evening.jpg)
+
+# taking a downturn
+
+After a few days of this newfound high, however, I found out that things wouldn't be so rose-colored going forward after all.
+
+The main reason? Clubs would, for the most part, be cancelled. Despite NTU allowing clubs to continue, they had included an important stipulation in their decision: only essential clubs should continue. For example, the teaching club, because students were receiving service requirements from it. 
+
+Cooking and tennis didn't really fit this clause, so after a few days of discussion, the club's leaders decided to cooperate with the university and cancel all events for the semester. I completely understand their reasoning for this decision, but at the same time, it sucks. Clubs were going to be one of my main outlets for meeting Taiwanese people, and having that taken away really put a damper on the end of my week.
+
+That being said, I truly believe everything happens for a reason, so I plan on taking this newfound free time to explore different opportunities and find other ways to engage with locals. 
+
+## combatting the invisible obstacle
+
+I've already starting thinking about ways to get around this setback, and I've come up with the following solution in the  meantime: signing up for and organizing more language partners. 
+
+I'm thinking of paying for subscriptions to sites like mylanguageexchange.com and getting an additional two to four language partners that I can hang out with on Monday, Tuesday, and Wednesday. This way, I can explore different parts of Taipei with them and I can make some more meaningful interactions.
+
+The most important thing is that here, in Taipei, and unlike at ACC, I plan on being as proactive as possible. I've been so lucky to have been given this gift: freedom. Even if the future is uncertain, and up is down, it won't stop me in making the most out of my study abroad experience.
