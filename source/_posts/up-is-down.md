@@ -33,7 +33,7 @@ These were the challenges I faced at the beginning of the week, and just as I wa
 
 It was approaching the middle of the week that I started to really do some things with professional, social, academic, and personal meaning.
 
-## mulling over my professional future 
+## mulling over my professional future
 
 I haven't really addressed this before in my previous blog posts, but finding myself professionally has been an important goal I've set for myself while abroad. Specifically, clarifying what exactly I what to do in the future and what I can do for myself in the present to get myself there.
 
@@ -53,4 +53,76 @@ Overall, after studying abroad, I've come to realize how awesome Asia is and hav
 
 ## clubs are back! ... sort of
 
-Coming soon!
+In another piece of good news, NTU announced on Tuesday night that most clubs could start up again! Being without clubs has made me realize the importance of having a space outside of classes for cultural exploration and socialization. 
+
+The only club that resumed meetings for this week was my teaching club. Since the club was filling service requirements for a lot of the students, they were able to get permission to run the first few meetings. 
+
+Things were a little shaky for the first meeting on Thursday, especially given the language barrier between me and the Taiwanese students after a two-week social hiatus. However, I think I was able to make some jokes and start warming up to them. 
+
+![Jeff teaching how to learn Mandarin to NTU students](/images/ntu_tsuyo_teaching_club_040920.jpg)
+
+> ###### *The other NTU students were really interested in my textbooks, so I spontaneously started teaching them how I learned Mandarin! I also tried dropping some new colloquial vocabulary from my Radio Plays class that didn't make any sense, haha!*
+
+As for the club situation itself, it's pretty chill, and I really like how it promotes socializing and team bonding. I also REALLY love the presidents and the culture they've created. In fact, I love it so much that I'll be drawing on this experience for making clubs at Yale more interactive and family-like when I come back.
+
+![NTU teaching club meeting on 04/09/20](/images/ntu_teaching_club_full_group_040920.jpg)
+
+> ###### *One big family!*
+
+Only time will tell if the club continues and I'll be able to make some more meaningful connections from it, but I'll adjust no matter what!
+
+My experience with clubs so far has made me even more committed to joining more clubs back at Yale when I get the chance. I talked with Davis about this, who was president of 3-5 clubs during his junior year, and I've realized that the most meaningful times I've had abroad have been when I've been the most busy. Proving that I can fit a lot more into my schedule than I expected from last year, I'm excited to come back in the spring and revolutionize my social and extracurricular life.
+
+## improving my Mandarin
+
+### getting good at grammar
+
+Just like with last week, my vocabulary is continuing to grow, and I'm understanding more and more words in the world around me.
+
+![Sign of XTron, the gym I go to](/images/taiwan_xtron_sign.jpg)
+
+> ###### *XTron, the gym that I go to. I realized the earlier day, after learning what 智慧 meant, that I could actually understand the full name of the title!*
+
+However, while I've continued to be really satisfied with my study method and its efficiency, I've also realized that it has a major shortcoming. It doesn't allow me to practice grammar.
+
+Grammar is something you need to practice with someone in person. It's not just enough to review it like with vocabulary flashcards, but rather, its something that I need to proactively practice.
+
+As a result, after this reflection, I've decided to make a change: to actively review grammar structures and incorporate them into daily conversation. I'm going to try to focus on repeatedly using certain grammar structures in the coming week until they become subconscious. I did this with one structure this week as a trial (非。。。不可) and it worked!
+
+### laying out my grammar with my language partner
+
+Luckily, I've found someone to practice this habit with: my language partner assigned by ICLP. This week, I got dinner with her at a famous Taiwanese restaurant she suggested called Lan Jia in the Gongguan area.
+
+![Breakfast with my language partner](/images/taiwan_language_partner_first_meeting_food.jpg)
+
+> ###### *Some traditional Taiwanese snacks! Highlights include the guabao, which is essentially a peanut-filled bao that is sweet and delicious!*
+
+The food was great, and I was able to get to know my language partner more for a first meeting. In the coming weeks, we plan on organizing more trips around the city!
+
+![Dinner with my language partner at Lan Jia, a famous Taiwanese restaurant.](/images/taiwan_language_partner_first_meeting_people.jpg)
+
+> ###### *Dinner with my language partner!*
+
+I think its great, meeting with language partners, because they help me achieve some of the original goals I set for myself. That is, meeting more people and staying connected with others in this uncertain time.
+
+### hanging out with Sandy, my unofficial language partner
+
+Once again, this week, after having fun last week, I hung out again with Sandy this week, grabbing breakfast on Saturday morning before her cooking class. Sandy is awesome, and it's these types of interactions that I wish I could have more of.
+
+![A traditional Taiwanese breakfast](/images/taiwan_breakfast_sandy_041120.jpg)
+
+> ###### *A traditional Taiwanese breakfast, complete with shaobing, youtiao, and doujiang!*
+
+We talked about our two different languages and had an awesome exchange. I taught her English slang and she taught me some English slang. 
+
+![Jeff with Sandy](/images/taiwan_sandy_jeff_breakfast_041120.jpg)
+
+> ###### *Jeff with Sandy at my language exchange.*
+
+After having a good time again, we agreed to officially make this a weekly language exchange. It feels more organic than just an exchange though, since it's genuinely fun to hang out with her (and Zach, when he's here)
+
+## making memories
+
+The weather was GORGEOUS this week, and we had our first day of sun after two straight weeks of rain. It definitely lifted my mood on Thursday when we first had.
+
+The sun had some other benefits as well. For the first time in my entire life, I was able to knock something off of my tennis bucket list: hitting on a red clay tennis court.
