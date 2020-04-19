@@ -102,4 +102,62 @@ While Yangmingshan was tall (we had to hike up kilometers of stairs) and the tre
 
 ![](/images/taiwan20_yangmingshan_view.jpg)
 
-\[to be continued]
+Our day wasn't over though. Afterwards we took an hour-long Uber to Jiufen, located on the northeast coast of Taiwan, and were enveloped in some enchanting scenery reminiscent of *Spirited Away.* The resemblance was startling.
+
+![Jiufen Old Street](/images/taiwan20_jiufen_alley.jpg)
+
+![Dessert from one of the shops in Jiufen Old Street](/images/taiwan20_jiufen_dessert.jpg)
+
+![A silly photo of the group in front of a traditional teahouse just like that in Spirited Away](/images/taiwan20_jiufen_teahouse_group.jpg)
+
+![](/images/taiwan20_jiufen_jeff_teahouse.jpg)
+
+![Relaxing and chatting while gazing over beautiful Jiufen](/images/taiwan20_jiufen_reflecting.jpg)
+
+![A silly photo of me at a teahouse](/images/taiwan20_jiufen_silly.jpg)
+
+> ###### *Thought I'd throw in a silly photo in one of these blog posts!*
+
+I was tired, but it was an incredibly fun day of which I had no regrets.
+
+# taking bigger steps
+
+While doing the things in parts 1 and 2 helped take up some of my time, they weren't enough, as I really wanted to push myself and live life to the best I could. As a result, I decided to make good and finally act on the plan I had made last week: getting more language partners.
+
+I planned to replace every one of the four club activities that I had lost with a new language partner. Not only would this allow me to continue to practice my Mandarin, but it would also allow me to visit new parts of Taipei and make new Taiwanese friends!
+
+I was able to hone the idea after discussing it with one of my current language partners, Eddy (my mom's family friend). 
+
+![Dinner with Eddy](/images/taiwan20_dinner_with_eddy_2.jpg)
+
+While getting a traditional Taiwanese dinner, I had a great, interesting conversation about life at Yale and in Taiwan with him. Afterwards, while telling him about my plan, we recommended two Facebook groups for me to post in where I could find language partners. He said I was a fun and interesting person, so I wouldn't have any problems finding partners.
+
+That being said, I didn't realize how true that statement would be. At the end of the week, I knew I had to act before posting this blog post, which has unofficially become my weekly check in point and deadline. As a result, I posted a message in one of the innocuous Facebook group chats. I didn't expect anything of it – maybe seven or eight messages spread over the course of the day.
+
+Imagine my surprise when not even 10 minutes later, I opened my phone to be confronted with this.
+
+![A flood of Messenger requests to be my language partner](/images/taiwan20_language_partner_requests.png)
+
+In under 10 minutes, my phone was exploding with alerts from Messenger. I had gotten over 20 messages, each interested in setting up a language exchange with me. I was shocked, flattered, and ecstatic all at the same time. This language partner change was working smoothly!
+
+Sure, it wasn't all rosy, and there were some hate messages. For example, after using simplified Chinese every day at ICLP, I had forgotten about the tense relationship between Taiwan and China. I only knew simplified, so I typed my initial request purely in simplified and in English. 
+
+Almost immediately, I started getting requests and comments. While it was overwhelmingly positive (my existing NTU friends, like my teaching club presidents and Sandy, came out to support me), I also got a couple of angry comments asking why I was using simplified.
+
+I didn't really understand why they were toxic, but after asking Sandy, I rapidly understood. A lot of the more progressive NTU students viewed using simplified characters as a symbol for the CCP, so they absolutely detested any usage of it. As a foreigner, I had been artificially blinded to this conflict in the safe learning environment I had been placed in. Sure, I knew about it, but I hadn't experienced it in person up to that point.
+
+Luckily, my friend Sandy came to my rescue and helped me translate my original simplified version to a traditional version within minutes of my initial post. A couple of other NTUers came to my rescue as well in the comment section, explaining how most foreigners learned simplified characters and that it was normal, not a propaganda move by the CCP. Even so, it was a small, yet humbling experience. 
+
+# sorting through the chaos
+
+Again, I want to emphasize that the majority of the responses were super positive, and I was incredibly honored to have so many people interesting in exchanging with me. There were over 700 likes, 80 comments, and dozens of requests. While I had cleared up ample space in my schedule, there was no way I could fit everyone in. I still wanted to make sure I made a careful decision, though, so I went through all of the messages, comments, and friend requests and compiled a list of everyone interested. Then, I selected a few who seemed really interested.
+
+Since NTU has midterms this week, most students are going to be busy, which I totally understand. As a result, I decided to take an extra week before starting language exchanging and getting into full swing. I still have to go through my list and find people who availabilities line up in my schedule. Through these partners, I'm hoping to create a positive social and cultural environment. Furthermore, I'm hoping to create a hub for Mandarin practice where I can try out the grammar structures I learn each day, just like I promised I would do last week.
+
+# at the center of it all: gratefulness
+
+I wouldn't be able to attain all of this positive change without thanking the Taiwanese government for doing an mind-boggling job in controlling this virus. For the first time in months, this week, Taiwan reported no daily cases. Not just once, not just twice, but THREE times! It's incredible, and while I'm going to continue to exercise precautions like mask wearing, it's so nice to have some optimistic and hope at the end of the tunnel.
+
+![Article reporting no new cases for the third time this week](/images/taiwan20_no_new_cases_third_time.png)
+
+I'm super happy with how things turned out this week. I've been able to rebound, and I'm sure after this week, I'll be back, stronger than ever.
