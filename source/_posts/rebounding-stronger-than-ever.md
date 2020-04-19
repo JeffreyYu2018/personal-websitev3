@@ -2,6 +2,7 @@
 title: Rebounding stronger than ever
 category: Travel
 date: 2020-04-18T16:00:00.000Z
+featuredImage: /images/taiwan20_yangmingshan_peak_hands_outstretched.jpg
 comments: true
 ---
 # baby tweaks to giant changes
