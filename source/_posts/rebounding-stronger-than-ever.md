@@ -63,7 +63,7 @@ For example, on Wednesday, I went to an event with my lone remaining club, the T
 
 Not only did they have dim sum, but I was surprised to discover that the five presidents were also giving everyone **handwritten notes**. They had literally made stacks of personalized cards for the dozens of members in the club. It was amazing and heartwarming. 
 
-![Handwritten notes from the five presidents of the teaching club]()
+![Handwritten notes from the five presidents of the teaching club](/images/taiwan20_tsuyo_teaching_club_notes.jpg)
 
 ## continuing to stay international
 
