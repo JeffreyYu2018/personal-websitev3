@@ -5,7 +5,7 @@ date: 2020-04-26T13:34:34.283Z
 featuredImage: /images/taiwan20_042420_yuci_starbucks.jpg
 comments: true
 ---
-It's been a slow week, so this post is going to be relatively slow. Since NTU students had midterms this week, I couldn't really hang out with a lot of them, so I ended up having some huge blocks of free time in my schedule. It drove me a little crazy, but it also gave me some time to relax and get ready for next week.
+It's been a slow week, so this post is going to be relatively short. Since NTU students had midterms this week, I couldn't really hang out with a lot of them, so I ended up having some huge blocks of free time in my schedule. It drove me a little crazy, but it also gave me some time to relax and get ready for next week.
 
 # a solid international friend group
 
@@ -71,7 +71,7 @@ Following that came an afternoon of exploring a less-travelled historical distri
 
 ![A yummy oyster dish](/images/taiwan20_042520_oyster_dish.jpg)
 
-> ###### *A YUMMY oyster omelette.* 
+> ###### *A YUMMY oyster omelette.*
 
 ![Lunch with 宇涵](/images/taiwan20_042520_lunch.jpg)
 
