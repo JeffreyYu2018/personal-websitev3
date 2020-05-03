@@ -2,6 +2,7 @@
 title: from hell to paradise
 category: Travel
 date: 2020-05-03T13:50:34.631Z
+featuredImage: /images/taiwan20_050120_snorkeling_underwater.jpg
 comments: true
 ---
 Remember my earlier post called "A wave of a week," where I talked about some of the lows and highs I've experienced so far? Well, those troughs and peaks paled to what transpired this week.
