@@ -5,7 +5,7 @@ date: 2020-04-26T13:34:34.283Z
 featuredImage: /images/taiwan20_042420_yuci_starbucks.jpg
 comments: true
 ---
-It's been a slow week, so this post is going to be relatively short. Since NTU students had midterms this week, I couldn't really hang out with a lot of them, so I ended up having some huge blocks of free time in my schedule. It drove me a little crazy, but it also gave me some time to relax and get ready for next week.
+It's been a slow week, so this post is going to be relatively short. Since NTU students had midterms this week, I couldn't hang out with a lot of them, so I ended up having some huge blocks of free time in my schedule. It drove me a little crazy, but it also gave me some time to relax and get ready for next week.
 
 # a solid international friend group
 
@@ -23,9 +23,9 @@ And at ICLP!
 
 ![Antics of us sitting on each other's laps in the ICLP common room](/images/taiwan20_042120_antics.jpg)
 
-Of course, not every interaction was a blast. There were many days when I was just super tired and didn't have the energy to crack jokes or have a mind-blowing time. Going to a trivia night on Friday night was the perfect example of this. I felt a little bit out of place since I couldn't help at all with the trivia, didn't want to go clubbing afterwards, and just didn't have the proper mindset. As a result, I walked home around midnight, knowing full well that I would have to get up the next day at 6:00 am for a language exchange. It was kind of a downer of a night. That being said, I felt pretty at peace, knowing I'd have plenty of opportunities next week to make some great memories and have some great experiences.
+Of course, not every interaction was a blast. There were many days when I was just super tired and didn't have the energy to crack jokes or have a mind-blowing time. Going to a trivia night on Friday night was the perfect example of this. I felt a little bit out of place since I couldn't help at all with the trivia, didn't want to go clubbing afterwards, and just didn't have the right mindset. As a result, I walked home around midnight, knowing full well that I would have to get up the next day at 6:00 am for a language exchange. It was kind of a downer. That being said, I felt pretty at peace, knowing I'd have plenty of opportunities next week to make some great memories and have some great experiences.
 
-That being said, overall, things are pretty good in Taiwan, and I'm glad to have a solidified international friend group. We're booking some trips for the future that I'm really excited to blog about, so stay tuned!
+Overall, things are pretty good in Taiwan, and I'm glad to have a solidified international friend group. We're booking some trips for the future that I'm really excited to blog about, so stay tuned!
 
 # staying engaged across the sea
 
@@ -41,7 +41,7 @@ Our work paid off, because our turnover meeting went better than expected.
 
 We were planning for it to take less than 3 hours, but we actually managed to finish in an hour and a half. We were pretty efficient, which was largely due to a good planning session.
 
-There were a few hitches, of course. It wasn't completely smooth, and I stuttered a few times while leading the meeting. I'm still not used to leading from the front for such a large group, and it was a little unnatural at first to take the lead. That being said, I'm sure I'll acclimate to the role soon enough.
+There were a few hitches, of course. It wasn't completely smooth, and I stuttered a few times while leading the meeting. I'm still not used to leading from the front for such a large group, and it was a little unnatural to take the lead. That being said, I'll acclimate to the role soon enough.
 
 # getting a taste of next week
 
@@ -75,11 +75,11 @@ Following that came an afternoon of exploring a less-travelled historical distri
 
 ![Lunch with 宇涵](/images/taiwan20_042520_lunch.jpg)
 
-The best part of the day, though, came at the end. On a completely spontaneous note, we stopped in a tea store (largely because Li loved tea) to browse, and were treated to a 
+The best part of the day, though, came at the end. On a completely spontaneous note, we stopped in a tea store (largely because Li loved tea) to browse, and were treated to an authentic tea ceremony!
 
 ![A spontaneous tea ceremony with a laoban](/images/taiwan20_042520_tea_ceremony.jpg)
 
-The laoban (shop owner) smiled a lot and talked to us about everything from the origins and significance of the teas were trying to his family and how proud he was of his kids. A lot of the discussion around the teas went over my head since it was all in Mandarin, but Li seemed to be having the time of her life, and surprisingly, I was enjoying it too. I'm not even that interested in tea, but I came away afterwards with a greater appreciation of them. After buying some teas, I left for home, exhausted from a long day of traveling.
+The laoban (shop owner) smiled a lot and talked to us about everything from the origins and significance of the teas to his family and how proud he was of his kids. A lot of the discussion went over my head since it was all in Mandarin, but Li seemed to be having the time of her life, and surprisingly, I was enjoying it too. I'm not even that interested in tea, but I came away afterwards with a greater appreciation of them. After buying some teas, I left for home, exhausted from a long day of traveling.
 
 # in a clear headspace
 
