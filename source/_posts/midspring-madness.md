@@ -7,13 +7,13 @@ comments: true
 ---
 I could have easily renamed this post to "busy af," but I was listening to Midsummer Madness by 88rising and was inspired to change the title to "Midspring Madness." There's no other way to describe the week(s) I've been having.
 
-It's been an interesting experiment, being busier abroad than I was at Yale and really pushing the limits of my time management. I was consciously forcing myself to not rest and to squeeze the most of my limited time left. I didn't have any time to waste watching YouTube videos or Netflix series like in college. It really tested my endurance, but I was able to get through it and be happy to have really gotten the most of the week.
+It's been an interesting experiment, being busier abroad than I was at Yale and really pushing the limits of my time management. I was consciously forcing myself to not rest and to squeeze the most out of my time left here in Taiwan. I didn't have any time to waste watching YouTube videos or Netflix series like in college. It really tested my endurance, but I was able to get through it and be happy to have gotten the most out of the week.
 
 # ARC status
 
-Before I jump into the fun stuff that happened this week, I wanted to just follow up on the point I made on ARC status last week. After talking with the teachers at ICLP and talking to a representative at MOFA (Taiwan's custom and visa division) on Monday, I learned that I unfortunately wouldn't be able to get an ARC for the fall. 
+Before I jump into the fun stuff that happened this week, I wanted to follow up on the point I made on ARCs last week. After talking with the teachers at ICLP and a representative at MOFA (Taiwan's custom and visa division) on Monday, I learned that I unfortunately wouldn't be able to get an ARC for the fall. 
 
-I was ineligible for the student visa because it required studying in Taiwan for at least four consecutive months before applying. By the time I leave on June 1, I would have only been in Taiwan for 3 months. I was also ineligible for the work visa, because you need a bachelor's degree in order to work in the nation.
+I was ineligible for the student visa because it required studying in Taiwan for at least four consecutive months before applying. In contrast, by the time I leave on June 1, I would have only been in Taiwan for 3 months. I was also ineligible for the work visa, because you need a bachelor's degree in order to work domestically.
 
 While I'm disappointed, I know that like my brother said, I'll have plenty of opportunities to travel in the future, namely next next year during my (planned) gap year! I've gotten so much out of my study abroad experience already, and I'm going to make the most of what's left. 
 
@@ -25,19 +25,19 @@ I was really exhausted from socializing the past week, so I really, really wante
 
 ## pier 5 with bello
 
-On Monday, I went to Pier 5 on Bello's suggestion. I was originally only going to go for an hour and a half, but I ended up having so much fun that I went for three and a half hours. After having a little bit dry of a conversation about American versus Taiwanese education systems, I switched to a more fun, light topic (slang), and the effect was almost instantaneous. We started cracking up and had a fun conversation that lasted for almost two hours on that topic alone.
+On Monday, I went to Pier 5 on Bello's suggestion. I was originally only going to go for an hour and a half, but I ended up having so much fun that I went for three and a half hours. After having a little bit dry of a conversation about American versus Taiwanese education systems, I switched to a more fun, light topic (slang), and the effect was almost instantaneous. We started cracking up and had a fun conversation that lasted for over two hours.
 
 ![Taipei skyline near sunset](/images/taiwan20_050420_pier5_coast.jpg)
 
 > ###### *A gorgeous skyline and view of Taipei over the water.*
 
-Sure, a couple of unfortunate things happened. We didn't bike to the pier fast enough to see the sunset, Bello lost her student ID (later recovered), and we took the subway in the wrong direction on the way back. That being said, we used the lost time to explore the area, biking through a busy marketplace and soaking in the gorgeous sky. We agreed that it was the perfect way to break the monotony of studying, both for me and for Bello, and get an excuse to go out and explore the city.
+Sure, a couple of unfortunate things happened. We didn't bike to the pier fast enough to see the sunset, Bello lost her student ID (later recovered), and we took the subway in the wrong direction on the way back. That being said, we used the lost time to explore the area, biking through a busy marketplace and soaking in the gorgeous sky. We agreed that it was the perfect way to break the monotony of studying and get an excuse to go out and explore the city.
 
 ![Jeff and Bello at Pier 5](/images/taiwan20_050420_pier5.jpg)
 
 ## yoshinoya with Yvonne
 
-Pun not intended. On Tuesday, I went to Yoshinoya for the first time in my entire life with Yvonne. I'm so glad I went, because it's been on my bucket list to finally go inside one, because I've always been curious as to why it's so popular everyone I go. (To be honest, the food was meh, but I'm glad that I now know that Yoshinoya is not just like any other ramen place. It's not a ramen place at all!)
+Pun not intended. On Tuesday, I went to Yoshinoya for the first time in my entire life with Yvonne. I'm so glad I went, because it's been on my bucket list to finally go inside one. (To be honest, the food was meh, but I'm glad that I now know that Yoshinoya is not just like any other ramen place. In fact, it's not a ramen place at all!)
 
 Yvonne had her university interviews later that night, so we spent the majority of the exchange talking about American interviews. I helped her practice and gave her feedback, keeping it serious and streamlined. (It seems that it worked though, because she told me she got accepted to UAlbany later that night! Woo!)
 
@@ -45,7 +45,7 @@ Yvonne had her university interviews later that night, so we spent the majority 
 
 > ###### *Pre-interview vibes at Yoshinoya.*
 
-Next time, I'll change our exchange topic to a lighter topic like with my other partners! 
+Next time, I'll change our exchange topic to a lighter topic like with my other partners.
 
 P.S. One major disappointment happened today. I've always wanted to go to a bar in Taiwan before I left, so I asked Yvonne if she wanted to go. She was super willing, but unfortunately our schedules didn't work out such that we could meet up before I left. It sucked, but little did I know that it would work out later in the week.
 
@@ -53,13 +53,13 @@ P.S. One major disappointment happened today. I've always wanted to go to a bar 
 
 Wednesday was unexpectedly one of the best days I've had in a while. My original language partner had something come up, so after rescheduling the meetup for the following Wednesday, I had a surprisingly open afternoon for the first time in a while.
 
-As a result, I used the added time to do something I love: play tennis. I met up with Eduard again, and also met some of his friends from the tennis club! We were super lucky, because despite the clouds, the rain didn't hit the entire time we hit.
+As a result, I used the added time to do something I love: play tennis. I met up with Eduard again, and also met some of his friends from the tennis club! We were super lucky, because despite the clouds, the rain didn't start until after we hit.
 
 ![Tennis with Eduard and one of his friends](/images/taiwan20_050620_tennis.jpg)
 
-We played some doubles and then some singles afterwards. I was pooped afterwards but I was glad, because it went I had gotten a great workout and a great time.
+We played some doubles and then some singles afterwards. I was pooped but I was glad, because it meant I had gotten a great workout and had a great time.
 
-Afterwards, on Eduard's suggestion, I went to a Taiwanese-style steak restaurant, picking up some bubble tea on the way, and then just chilled for a full hour, reflecting again on how lucky I was to be in Taiwan.
+Afterwards, on Eduard's suggestion, I went to a Taiwanese-style steak restaurant, picking up some bubble tea on the way, and then just chilled for an hour, reflecting again on how lucky I was to be in Taiwan.
 
 ![Steak and bubble tea in Taiwan](/images/taiwan20_050620_steak.jpg)
 
@@ -67,7 +67,7 @@ Afterwards, on Eduard's suggestion, I went to a Taiwanese-style steak restaurant
 
 It was a relaxing and fulfilling day.
 
-## exchanges, charades, more
+## exchanges, charades, and more
 
 ### a new partner
 
@@ -77,7 +77,7 @@ It was today that I experimented with a new language partner grammar plan: prepa
 
 ![Language exchange with Doris](/images/taiwan20_050720_doris.jpg)
 
-> ###### *Not pictured: my drink, cold chocolate, hot chocolate's competitor in Taiwan!* 
+> ###### *Not pictured: my drink, cold chocolate, hot chocolate's competitor in Taiwan!*
 
 After chatting a bit about the differences between American and Taiwanese college application processes, we ran out of time and biked to the teaching club meeting.
 
@@ -91,13 +91,13 @@ Charades was straightforward (everyone got my word, voting), but planning for th
 
 > ###### *Planning for our five minute play.*
 
-At first, I didn't understand why we had to play the Chinese version of charades, and later, create a play. Only later did I get it and understand why it was relevant. The club presidents were combining fun with acting: skills very useful for teachers.
+At first, I didn't understand why we had to play the Chinese version of charades, and later, create a play. Only later did I get it and understand why it was relevant. The club presidents were combining fun with acting, developing two skills very useful for teaching.
 
-There were other reasons too. As one NTU student put it (or more accurately, gestured by making a sniffing motion along his arm), the purpose of the club was just like that of drugs. Unlike at Yale, NTU students treat club events as a break from studying, which takes a much larger presence here than at Yale. The presidents were awesome and super energetic, but they were in bleak contrast to the rest of the room, who seemed pretty set in their studying cycle and totally lacking energy. It was an interesting cultural insight.
+There were other reasons too. As one NTU student put it (or more accurately, gestured by making a sniffing motion along his arm), the purpose of the club was just like that of drugs. NTU students treat club events as a break from studying, whereas at Yale, extracurriculars take a much larger presence on campus. The presidents were awesome and super energetic, but their mood was in stark contrast to the rest of the room, who seemed totally lacking in energy. It was an interesting cultural insight.
 
 ![Jeff Zach and an NTU student in our play](/images/taiwan20_050720_ntukk_play.jpg)
 
-> ###### *Behold, the exclusive screening of our play, featuring Zach the dog and Jeff (+ NTU student 1), the zombies.*
+> ###### *Behold, the exclusive screening of our play, featuring Zach the dog, and Jeff (+ NTU student 1), the zombies.*
 
 ## overloading
 
@@ -133,7 +133,7 @@ After hanging out in TPP with some friends, I left for the place my friends had 
 
 ![Michael and Jeff at Chess](/images/taiwan20_050820_chess.jpg)
 
-> ######  *Me and Michael, a fellow Yalie, enjoying Taipei nightlife.*
+> ###### *Me and Michael, a fellow Yalie, enjoying Taipei nightlife.*
 
 It was a fun night of dancing with friends, and like many other choices I've made so far, I have no regrets.
 
@@ -141,17 +141,17 @@ It was a fun night of dancing with friends, and like many other choices I've mad
 
 On Saturday, after getting a mere 4 hours of sleep, I managed to get out of bed at 7 am and head on the train to my next weekend stop: Yilan. Our specific destination? Waiao beach. Purpose? To break the waves and surf.
 
-I was pretty tired, so getting on a unstable board for the first time in my entire life in a tumultuous ocean was probably not the most conservative way to spend my Saturday. It definitely was the most fun one though, especially as I woke up later in the day.
+I was pretty tired, so getting on an unstable board for the first time in a tumultuous ocean was not the most conservative way to spend my Saturday. It definitely was the most fun one though, especially as I woke up later in the day.
 
 ![The group surfing at Waiao beach](/images/taiwan20_050920_waiao_beach_group.jpg)
 
-It took me some time to get acclimated to surfing, even with Nina coaching us all. In fact, it took me two or so hours before I got the balance down while laying down, and another two or so hours just to figure out how to stand up. This was the product of dozens of slips in the water and facefulls of water?
+It took me some time to get acclimated to surfing, even with Nina coaching us all. In fact, it took me two or so hours before I got the balance down while laying down, and another two or so hours just to figure out how to stand up. This was the product of dozens of slips in the water and facefulls of water.
 
 ![Solo pic of Jeff at Waiao beach](/images/taiwan20_050920_surfing_solo_pic.jpg)
 
 > ###### *P.S. I didn't get a custom surfing shirt for this one occasion. The company we rented the boards from was called "Pirate Jeff Surf," coincidentally.*
 
-I sucked it up though and perserved, and while I can't say it paid off yet, I can say my minor successes got me way more excited about surfing than I have in the past. I still remember that there was one wave where I miraculously managed to get up and ride a wave on my knees. It wasn't my feet sure, but I was happy to have finally made some progress. Will and Meaghan, the other two noobies in the group, also had failed multiple times, but also managed to make some progress forward.
+I sucked it up though and persevered, and while I can't say it paid off fully, I can say my minor successes got me way more excited about surfing than I have in the past. I still remember that there was one wave where I miraculously managed to get up and ride a wave on my knees. It wasn't my feet, sure, but I was happy to have finally made some progress. Will and Meaghan, the other two noobies in the group, also had failed multiple times, but managed to make some progress forward.
 
 Failure or not, we ended the day on a sweet note by celebrating Will's birthday – first, with some Michelin-recommended beef noodle soup, and then with some classic Haagen-Daaz ice cream. 
 
