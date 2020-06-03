@@ -2,7 +2,7 @@
 title: An American sendoff
 category: Travel
 date: 2020-06-03T05:40:00.129Z
-featuredImage: /images/taiwan20_060120_bello_jeff_funny_face.jpg
+featuredImage: /images/taiwan20_060120_bello_jeff_nice.jpg
 comments: true
 ---
 # living to the end
