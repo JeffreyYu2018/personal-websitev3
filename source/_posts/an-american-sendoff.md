@@ -2,6 +2,7 @@
 title: An American sendoff
 category: Travel
 date: 2020-06-03T05:40:00.129Z
+featuredImage: /images/taiwan20_060220_farewell_lunch.jpg
 comments: true
 ---
 # living to the end
