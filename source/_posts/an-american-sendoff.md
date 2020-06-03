@@ -21,7 +21,7 @@ It was pretty dang authentic, though, so I had nothing to worry about. We talked
 
 ## my last hitting session, with luck from the heavens
 
-I spent the early afternoon running some errands, like buying bubble wrap and making my gift for Bello – all things that **weren't** packing, haha! My time was short though, because I had another activity planned: tennis with Kevin, Eduard, and his friend.
+I spent the early afternoon running some errands, like buying bubble wrap and making my gift for Bello – all things that **weren't** packing, haha! My time was short though, because I had another activity planned: tennis with Kevin, Eduard, and his friend Jonas.
 
 The weather forecast said there was a 100% chance of rain, so I thought our tennis session would be cancelled, but it ended up not raining at all. In retrospect, I should trust the weather forecast less in Taiwan – I don't know why, but it is **very** unreliable. 
 
@@ -33,7 +33,7 @@ After we retreated downstairs, I began my parting routines. I gave my tennis bal
 
 ![Us four downstairs](/images/taiwan20_060120_tennis_last_time_inside.jpg)
 
-It was at this time that Kevin also gifted me some baked goods. He had gotten his brother, a baker in Taichung, to ship some personally-baked cakes and cookies to me.
+It was at this time that Kevin also gifted me some baked goods. He had gotten his brother, a baker in Taichung, to ship some personally-baked cakes and cookies to me from his shop called [EggsHuang.](https://www.facebook.com/Eggs.Huang)
 
 ![Jeff and Kevin with his baked goods gift](/images/taiwan20_060120_kevin_gift.jpg)
 
