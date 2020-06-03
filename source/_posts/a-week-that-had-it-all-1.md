@@ -1,12 +1,10 @@
 ---
 title: A week that had it all
 category: Travel
-date: 2020-06-03T03:48:46.103Z
+date: 2020-06-01T03:48:46.103Z
 featuredImage: /images/taiwan20_053020_view.jpg
 comments: true
 ---
-*Apologies for the late blog post – I was wrapping things up in Taiwan by packing, saying goodbye to friends, etc. I'm currently sitting in SFO, though, on my six hour layover, so I finally had time to write this up.*
-
 # recap of the week
 
 ## beach and mango paradise
@@ -41,7 +39,7 @@ Once again, we were lucky to get sunny weather, although it did get blazing hot 
 
 ![Maobitou Park](/images/taiwan20_052620_maobitou_park.jpg)
 
-> ###### *Seeing the bay gave me vibes of San Francisco. (where I'm currently at during the time of this post!)*
+> ###### *Seeing the bay gave me vibes of San Francisco.*
 
 When I was at Maobitou I also had my first experience haggling! There was a coconut drink that was 50 NTD initially, but I managed to get it down to 40 NTD.
 
