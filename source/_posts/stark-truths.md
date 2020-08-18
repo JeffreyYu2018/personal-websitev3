@@ -141,7 +141,7 @@ I've been learning how to filter out negativity and not sacrifice the parts of m
 
 In other words, I've been learning how to embrace my weirdness, because doing so has surprisingly made me my foreigner friends laugh and enjoy my presence more. **It's almost a contradiction; by standing out and being different, even outright weird, people will respect you more.**
 
-# 2. people don't care about the dark stuff you're going through
+## 2. people don't care about the dark stuff you're going through
 
 I had some tough personal experiences while abroad, and while this truth might be hard for some people to hear (especially optimists), it's **the number one most important** thing I've learned while abroad.
 
@@ -151,7 +151,7 @@ Why do I say this? Don't get me wrong, my social life has improved to a point th
 
 I'm honestly okay with this, because embracing it now will save some heartaches and pains later. Learning to filter out the negative stuff in my interactions with others has saved me a lot of trouble, because I know that ultimately at the end of the day, it's up to me to deal with my own problems, not other people. That's not to say friends can't be helpful; it's just that you really can't count on anyone other than yourself in your darkest moments. It's both a blessing and a curse.
 
-# 3. my greatest weakness is a fear of failure
+## 3. my greatest weakness is a fear of failure
 
 After the lull on Wednesday, I thought about it long and hard, and came to a realization as to why I felt a lull in my time abroad. It wasn't because I wasn't bored with the activities going on. **No, it was because I was living in my comfort zone, not changing things up, and neglecting challenging myself to fail.**
 
@@ -161,7 +161,7 @@ One of the areas I've been trying to work on, for example, is social in nature: 
 
 To fix this issue, I'm going to take concrete steps next week to overcome this: specifically, utilizing a new behavior called Smile Therapy. Basically, it involves approaching strangers on the street and complimenting them in order to get them to smile, thus helping me subconsciously associate approaches with positive emotions. By overcoming this approach anxiety through concrete baby steps, I believe I can revitalize my study abroad experience and achieve my full potential.
 
-# 4. only trust yourself
+## 4. only trust yourself
 
 Close friends and family might give you advice, but at the end of the day, they'll probably disagree, and in this situation, I've realized that my life **is my own.** I have different values from everyone else, and I'm going to live by them rather than the ones of other people.
 
